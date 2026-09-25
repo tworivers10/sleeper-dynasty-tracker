@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:31:43.956Z",
+  "generated_at": "2026-09-25T17:29:11.734Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -18866,7 +18866,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 7
     },
     {
