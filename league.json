@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:35:49.738Z",
+  "generated_at": "2026-09-25T13:31:16.026Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -70,6 +70,9 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,24 +203,20 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "shard": 43,
-    "last_message_id": "1409011798438322176",
+    "last_message_id": "1409191230264352768",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790297100223,
+    "last_message_time": 1790339880103,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -240,8 +239,9 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
     "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -1286,7 +1286,6 @@
         "4984",
         "5844",
         "5872",
-        "6130",
         "6806",
         "7002",
         "7543",
@@ -1294,6 +1293,7 @@
         "8408",
         "9500",
         "9997",
+        "CIN",
         "NE"
       ],
       "reserve": [
@@ -1322,9 +1322,9 @@
         "2449",
         "1466",
         "9997",
-        "7002",
+        "9500",
         "11533",
-        "NE"
+        "CIN"
       ],
       "taxi": [
         "13301",
@@ -8801,7 +8801,6 @@
         "4984",
         "5844",
         "5872",
-        "6130",
         "6806",
         "7002",
         "7543",
@@ -8809,6 +8808,7 @@
         "8408",
         "9500",
         "9997",
+        "CIN",
         "NE"
       ],
       "reserve": [
@@ -8837,9 +8837,9 @@
         "2449",
         "1466",
         "9997",
-        "7002",
+        "9500",
         "11533",
-        "NE"
+        "CIN"
       ],
       "taxi": [
         "13301",
@@ -9057,21 +9057,6 @@
           "reserve": false
         },
         {
-          "player_id": "6130",
-          "full_name": "Devin Singletary",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 7,
-          "starter": false,
-          "taxi": false,
-          "reserve": false
-        },
-        {
           "player_id": "6806",
           "full_name": "J.K. Dobbins",
           "position": "RB",
@@ -9097,7 +9082,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9157,7 +9142,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9177,6 +9162,21 @@
           "reserve": false
         },
         {
+          "player_id": "CIN",
+          "full_name": "Cincinnati Bengals",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "CIN",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "NE",
           "full_name": "New England Patriots",
           "position": "DEF",
@@ -9187,7 +9187,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         }
@@ -9278,16 +9278,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "7002",
-          "full_name": "Juwan Johnson",
-          "position": "TE",
+          "player_id": "9500",
+          "full_name": "Josh Downs",
+          "position": "WR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "team": "NO",
+          "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 6
+          "years_exp": 3
         },
         {
           "player_id": "11533",
@@ -9302,13 +9302,13 @@
           "years_exp": 3
         },
         {
-          "player_id": "NE",
-          "full_name": "New England Patriots",
+          "player_id": "CIN",
+          "full_name": "Cincinnati Bengals",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "NE",
+          "team": "CIN",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -9388,18 +9388,6 @@
           "years_exp": 7
         },
         {
-          "player_id": "6130",
-          "full_name": "Devin Singletary",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 7
-        },
-        {
           "player_id": "6806",
           "full_name": "J.K. Dobbins",
           "position": "RB",
@@ -9407,6 +9395,18 @@
             "RB"
           ],
           "team": "DEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 6
+        },
+        {
+          "player_id": "7002",
+          "full_name": "Juwan Johnson",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
@@ -9424,16 +9424,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "9500",
-          "full_name": "Josh Downs",
-          "position": "WR",
+          "player_id": "NE",
+          "full_name": "New England Patriots",
+          "position": "DEF",
           "fantasy_positions": [
-            "WR"
+            "DEF"
           ],
-          "team": "IND",
-          "status": "Active",
+          "team": "NE",
+          "status": null,
           "injury_status": null,
-          "years_exp": 3
+          "years_exp": null
         }
       ],
       "taxi_details": [
@@ -14391,6 +14391,18 @@
       "injury_status": null,
       "years_exp": null
     },
+    "CIN": {
+      "player_id": "CIN",
+      "full_name": "Cincinnati Bengals",
+      "position": "DEF",
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "team": "CIN",
+      "status": null,
+      "injury_status": null,
+      "years_exp": null
+    },
     "NE": {
       "player_id": "NE",
       "full_name": "New England Patriots",
@@ -14557,18 +14569,6 @@
         "DEF"
       ],
       "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": null
-    },
-    {
-      "player_id": "CIN",
-      "full_name": "CIN D/ST",
-      "position": "DEF",
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "team": "CIN",
       "status": "Active",
       "injury_status": null,
       "years_exp": null
@@ -16252,6 +16252,18 @@
       "status": "Active",
       "injury_status": "Questionable",
       "years_exp": 6
+    },
+    {
+      "player_id": "6130",
+      "full_name": "Devin Singletary",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 7
     },
     {
       "player_id": "12471",
@@ -22016,7 +22028,6 @@
         "4984",
         "5844",
         "5872",
-        "6130",
         "6806",
         "7002",
         "7543",
@@ -22024,6 +22035,7 @@
         "8408",
         "9500",
         "9997",
+        "CIN",
         "NE"
       ],
       "roster_id": 11,
@@ -22037,9 +22049,9 @@
         "2449",
         "1466",
         "9997",
-        "7002",
+        "9500",
         "11533",
-        "NE"
+        "CIN"
       ],
       "starters_points": [
         0,
@@ -22060,7 +22072,6 @@
         "4984": 0,
         "5844": 0,
         "5872": 0,
-        "6130": 0,
         "6806": 0,
         "7002": 0,
         "7543": 0,
@@ -22076,6 +22087,7 @@
         "13301": 0,
         "13380": 0,
         "13545": 1,
+        "CIN": 0,
         "NE": 0
       }
     },
@@ -22161,6 +22173,31 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790339880084,
+      "settings": null,
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "857028021230608384",
+      "transaction_id": "1409191230184710144",
+      "adds": {
+        "CIN": 11
+      },
+      "consenter_ids": [
+        11
+      ],
+      "drops": {
+        "6130": 11
+      },
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1790339880084,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
