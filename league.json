@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:34:35.652Z",
+  "generated_at": "2026-09-27T13:28:21.976Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -70,10 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +200,11 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "last_message_id": "1409620616704708608",
+    "shard": 43,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,8 +213,8 @@
     "last_message_text_map": null,
     "last_message_time": 1790442253808,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "bracket_id": null,
@@ -1097,7 +1097,7 @@
         "3198",
         "8137",
         "2216",
-        "4993",
+        "12517",
         "5892",
         "7594",
         "6650",
@@ -6556,7 +6556,7 @@
         "3198",
         "8137",
         "2216",
-        "4993",
+        "12517",
         "5892",
         "7594",
         "6650",
@@ -6609,7 +6609,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6789,7 +6789,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 8,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -7006,16 +7006,16 @@
           "years_exp": 12
         },
         {
-          "player_id": "4993",
-          "full_name": "Mike Gesicki",
+          "player_id": "12517",
+          "full_name": "Colston Loveland",
           "position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "team": "CIN",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 8
+          "years_exp": 1
         },
         {
           "player_id": "5892",
@@ -7080,18 +7080,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "12517",
-          "full_name": "Colston Loveland",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
-        },
-        {
           "player_id": "12533",
           "full_name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -7135,6 +7123,18 @@
             "QB"
           ],
           "team": "TB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 8
+        },
+        {
+          "player_id": "4993",
+          "full_name": "Mike Gesicki",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
           "years_exp": 8
@@ -21802,7 +21802,7 @@
         "3198",
         "8137",
         "2216",
-        "4993",
+        "12517",
         "5892",
         "7594",
         "6650",
