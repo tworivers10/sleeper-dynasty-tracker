@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:28:22.548Z",
+  "generated_at": "2026-09-27T15:28:53.314Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -70,6 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
+    "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,11 +204,7 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "last_message_id": "1409620616704708608",
-    "shard": 43,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -590,7 +590,7 @@
         "7564",
         "11624",
         "8130",
-        "7611",
+        "11610",
         "7571",
         "8259",
         "SF"
@@ -1474,7 +1474,7 @@
         "7564",
         "11624",
         "8130",
-        "7611",
+        "11610",
         "7571",
         "8259",
         "SF"
@@ -1527,7 +1527,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -1782,7 +1782,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -1936,16 +1936,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "7611",
-          "full_name": "Rhamondre Stevenson",
-          "position": "RB",
+          "player_id": "11610",
+          "full_name": "Malik Washington",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "NE",
+          "team": "MIA",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 5
+          "years_exp": 2
         },
         {
           "player_id": "7571",
@@ -2005,18 +2005,6 @@
             "TE"
           ],
           "team": "SEA",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
-          "player_id": "11610",
-          "full_name": "Malik Washington",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "MIA",
           "status": "Active",
           "injury_status": null,
           "years_exp": 2
@@ -2092,6 +2080,18 @@
           "status": "Inactive",
           "injury_status": "Out",
           "years_exp": 6
+        },
+        {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "NE",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 5
         },
         {
           "player_id": "9225",
@@ -21231,7 +21231,7 @@
         "7564",
         "11624",
         "8130",
-        "7611",
+        "11610",
         "7571",
         "8259",
         "SF"
