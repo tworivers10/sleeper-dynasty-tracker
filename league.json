@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:28:55.965Z",
+  "generated_at": "2026-09-27T08:30:06.049Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -73,7 +73,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "shard": 43,
+    "last_message_id": "1409620616704708608",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,8 +204,7 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1409620616704708608",
-    "draft_id": "1353194300996878336",
+    "shard": 43,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -215,6 +214,7 @@
     "last_message_time": 1790442253808,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "bracket_id": null,
@@ -953,7 +953,7 @@
         "11635",
         "5001",
         "10232",
-        "8126",
+        "13298",
         "5189",
         "GB"
       ],
@@ -5098,7 +5098,7 @@
         "11635",
         "5001",
         "10232",
-        "8126",
+        "13298",
         "5189",
         "GB"
       ],
@@ -5285,7 +5285,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -5450,7 +5450,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -5556,16 +5556,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "8126",
-          "full_name": "Wan'Dale Robinson",
+          "player_id": "13298",
+          "full_name": "KC Concepcion",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "TEN",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 4
+          "years_exp": 0
         },
         {
           "player_id": "5189",
@@ -5654,18 +5654,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "13298",
-          "full_name": "KC Concepcion",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 0
-        },
-        {
           "player_id": "3321",
           "full_name": "Tyreek Hill",
           "position": "WR",
@@ -5712,6 +5700,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
+        },
+        {
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 4
         }
       ],
       "taxi_details": [
@@ -21639,7 +21639,7 @@
         "11635",
         "5001",
         "10232",
-        "8126",
+        "13298",
         "5189",
         "GB"
       ],
@@ -22344,12 +22344,12 @@
       "adds": {
         "12487": 3
       },
-      "drops": {
-        "12502": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12502": 3
+      },
       "roster_ids": [
         3
       ],
@@ -22374,12 +22374,12 @@
       "adds": {
         "11435": 6
       },
-      "drops": {
-        "6865": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "6865": 6
+      },
       "roster_ids": [
         6
       ],
@@ -22399,12 +22399,12 @@
       "adds": {
         "7571": 1
       },
-      "drops": {
-        "4177": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "4177": 1
+      },
       "roster_ids": [
         1
       ],
@@ -22424,10 +22424,10 @@
       "adds": {
         "4993": 8
       },
-      "drops": null,
       "consenter_ids": [
         8
       ],
+      "drops": null,
       "roster_ids": [
         8
       ],
@@ -22447,12 +22447,12 @@
       "adds": {
         "4454": 8
       },
-      "drops": {
-        "12485": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12485": 8
+      },
       "roster_ids": [
         8
       ],
@@ -22472,10 +22472,10 @@
       "adds": {
         "6130": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -22500,12 +22500,12 @@
       "adds": {
         "GB": 6
       },
-      "drops": {
-        "MIN": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "MIN": 6
+      },
       "roster_ids": [
         6
       ],
@@ -22525,12 +22525,12 @@
       "adds": {
         "11729": 10
       },
-      "drops": {
-        "11237": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "11237": 10
+      },
       "roster_ids": [
         10
       ],
@@ -22550,12 +22550,12 @@
       "adds": {
         "13545": 11
       },
-      "drops": {
-        "12487": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "12487": 11
+      },
       "roster_ids": [
         11
       ],
@@ -22575,12 +22575,12 @@
       "adds": {
         "12493": 11
       },
-      "drops": {
-        "9506": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "9506": 11
+      },
       "roster_ids": [
         11
       ],
@@ -22600,12 +22600,12 @@
       "adds": {
         "NE": 11
       },
-      "drops": {
-        "DET": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "DET": 11
+      },
       "roster_ids": [
         11
       ],
@@ -22625,10 +22625,10 @@
       "adds": {
         "4177": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -22648,12 +22648,12 @@
       "adds": {
         "SF": 1
       },
-      "drops": {
-        "GB": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "GB": 1
+      },
       "roster_ids": [
         1
       ],
