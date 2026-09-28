@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:30:11.864Z",
+  "generated_at": "2026-09-28T21:29:47.110Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -9049,7 +9049,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8,
           "starter": true,
           "taxi": false,
@@ -9231,7 +9231,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8
         },
         {
@@ -10804,7 +10804,7 @@
       ],
       "team": "BUF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     "4988": {
@@ -18251,6 +18251,18 @@
       "years_exp": 0
     },
     {
+      "player_id": "13431",
+      "full_name": "Miles Kitselman",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "DET",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "12473",
       "full_name": "Mitchell Evans",
       "position": "TE",
@@ -20831,6 +20843,18 @@
       "years_exp": 6
     },
     {
+      "player_id": "9490",
+      "full_name": "Tyler Scott",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
+    },
+    {
       "player_id": "8188",
       "full_name": "Tyquan Thornton",
       "position": "WR",
@@ -20999,7 +21023,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 536,
+  "waiver_wire_count": 538,
   "traded_picks": [
     {
       "round": 1,
