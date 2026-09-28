@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:30:19.668Z",
+  "generated_at": "2026-09-28T20:30:11.864Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
@@ -8399,8 +8399,8 @@
             "RB"
           ],
           "team": "MIA",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 3,
           "starter": true,
           "taxi": false,
@@ -8503,8 +8503,8 @@
             "RB"
           ],
           "team": "MIA",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 3
         },
         {
@@ -11991,8 +11991,8 @@
         "RB"
       ],
       "team": "MIA",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "years_exp": 3
     },
     "9228": {
