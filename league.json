@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T16:33:19.247Z",
+  "generated_at": "2026-09-28T17:30:44.449Z",
   "league_id": "1353194300984262656",
   "current_week": 3,
   "nfl_state": {
     "week": 3,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 3,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,6 +70,11 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 43,
+    "last_message_id": "1409620616704708608",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -200,11 +205,7 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 43,
-    "sport": "nfl",
-    "last_message_id": "1409620616704708608",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,11 +214,9 @@
     "last_message_text_map": null,
     "last_message_time": 1790442253808,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -240,6 +239,7 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "loser_bracket_id": null,
@@ -6772,7 +6772,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 8,
           "starter": false,
           "taxi": false,
@@ -7124,7 +7124,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 8
         },
         {
@@ -8113,7 +8113,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "MIN",
+          "team": "NYG",
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 2,
@@ -8612,7 +8612,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "MIN",
+          "team": "NYG",
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 2
@@ -10744,7 +10744,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 8
     },
     "4943": {
@@ -12482,7 +12482,7 @@
       "fantasy_positions": [
         "QB"
       ],
-      "team": "MIN",
+      "team": "NYG",
       "status": "Active",
       "injury_status": "Out",
       "years_exp": 2
@@ -22187,8 +22187,8 @@
       "created": 1790442253791,
       "settings": null,
       "leg": 3,
-      "creator": "857010974824214528",
       "draft_picks": [],
+      "creator": "857010974824214528",
       "transaction_id": "1409620616633417728",
       "adds": {
         "13423": 10
@@ -22210,8 +22210,8 @@
       "created": 1790339880084,
       "settings": null,
       "leg": 3,
-      "creator": "857028021230608384",
       "draft_picks": [],
+      "creator": "857028021230608384",
       "transaction_id": "1409191230184710144",
       "adds": {
         "CIN": 11
@@ -22235,8 +22235,8 @@
       "created": 1790297100204,
       "settings": null,
       "leg": 3,
-      "creator": "856393588634943488",
       "draft_picks": [],
+      "creator": "856393588634943488",
       "transaction_id": "1409011798358708224",
       "adds": null,
       "consenter_ids": [
@@ -22258,8 +22258,8 @@
       "created": 1790214055270,
       "settings": null,
       "leg": 3,
-      "creator": "833580396548575232",
       "draft_picks": [],
+      "creator": "833580396548575232",
       "transaction_id": "1408663482664030208",
       "adds": {
         "CAR": 2
@@ -22283,8 +22283,8 @@
       "created": 1790213945901,
       "settings": null,
       "leg": 3,
-      "creator": "856392128836804608",
       "draft_picks": [],
+      "creator": "856392128836804608",
       "transaction_id": "1408663023937245184",
       "adds": {
         "11792": 3
@@ -22308,8 +22308,8 @@
       "created": 1790158968281,
       "settings": null,
       "leg": 3,
-      "creator": "856411120485912576",
       "draft_picks": [],
+      "creator": "856411120485912576",
       "transaction_id": "1408432431085654016",
       "adds": {
         "MIN": 7
