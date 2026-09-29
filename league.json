@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:33:11.341Z",
+  "generated_at": "2026-09-29T21:30:49.847Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -4549,7 +4549,7 @@
           ],
           "team": "LV",
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -4934,7 +4934,7 @@
           ],
           "team": "LV",
           "status": "Inactive",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 1
         },
         {
@@ -13058,8 +13058,8 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": null,
-      "status": "Inactive",
+      "team": "MIN",
+      "status": "Active",
       "injury_status": "Questionable",
       "years_exp": 1
     },
@@ -13084,7 +13084,7 @@
       ],
       "team": "LV",
       "status": "Inactive",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "years_exp": 1
     },
     "12484": {
@@ -16253,7 +16253,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "LV",
+      "team": "HOU",
       "status": "Active",
       "injury_status": null,
       "years_exp": 9
@@ -16293,6 +16293,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 6
+    },
+    {
+      "player_id": "12476",
+      "full_name": "Devin Neal",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 1
     },
     {
       "player_id": "6130",
@@ -20555,6 +20567,18 @@
       "years_exp": 0
     },
     {
+      "player_id": "2334",
+      "full_name": "Phillip Dorsett",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 11
+    },
+    {
       "player_id": "12267",
       "full_name": "Qadir Ismail",
       "position": "WR",
@@ -21035,7 +21059,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 539,
+  "waiver_wire_count": 541,
   "traded_picks": [
     {
       "round": 1,
