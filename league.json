@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:39:04.389Z",
+  "generated_at": "2026-09-29T13:35:15.250Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -746,8 +746,8 @@
         "6786",
         "8146",
         "12506",
-        "11584",
         "6801",
+        "8150",
         "11792",
         "KC"
       ],
@@ -3000,8 +3000,8 @@
         "6786",
         "8146",
         "12506",
-        "11584",
         "6801",
+        "8150",
         "11792",
         "KC"
       ],
@@ -3037,7 +3037,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -3307,7 +3307,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3461,18 +3461,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "11584",
-          "full_name": "Bucky Irving",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "6801",
           "full_name": "Tee Higgins",
           "position": "WR",
@@ -3483,6 +3471,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
+        },
+        {
+          "player_id": "8150",
+          "full_name": "Kyren Williams",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "LAR",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 4
         },
         {
           "player_id": "11792",
@@ -3520,6 +3520,18 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": "Out",
+          "years_exp": 2
+        },
+        {
+          "player_id": "11584",
+          "full_name": "Bucky Irving",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 2
         },
         {
@@ -3590,18 +3602,6 @@
             "WR"
           ],
           "team": "DET",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4
-        },
-        {
-          "player_id": "8150",
-          "full_name": "Kyren Williams",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "LAR",
           "status": "Active",
           "injury_status": null,
           "years_exp": 4
@@ -20417,7 +20417,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "team": "HOU",
+      "team": "CIN",
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
@@ -21423,8 +21423,8 @@
         "6786",
         "8146",
         "12506",
-        "11584",
         "6801",
+        "8150",
         "11792",
         "KC"
       ],
