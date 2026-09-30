@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:33:01.576Z",
+  "generated_at": "2026-09-30T22:32:02.504Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -5180,7 +5180,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 2,
           "starter": true,
           "taxi": false,
@@ -5530,7 +5530,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 2
         },
         {
@@ -5953,7 +5953,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -6478,7 +6478,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -12863,7 +12863,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     "11637": {
@@ -14016,7 +14016,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13317": {
@@ -16190,7 +16190,7 @@
       ],
       "team": "HOU",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     {
@@ -18158,7 +18158,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     {
@@ -20142,6 +20142,18 @@
       "years_exp": 4
     },
     {
+      "player_id": "12971",
+      "full_name": "Ke'Shawn Williams",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "4454",
       "full_name": "Kendrick Bourne",
       "position": "WR",
@@ -21078,7 +21090,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 539,
   "traded_picks": [
     {
       "round": 1,
