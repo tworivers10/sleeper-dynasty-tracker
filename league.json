@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:36:20.628Z",
+  "generated_at": "2026-09-30T15:35:46.528Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -69,11 +69,12 @@
       "daily_waivers_last_ran": 25
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 43,
     "company_id": null,
+    "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1411036191591030784",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,19 +205,23 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1410984235627462656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790767365894,
+    "last_message_time": 1790779753161,
     "last_pinned_message_id": null,
     "draft_id": "1353194300996878336",
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1095,8 +1095,8 @@
         "421",
         "9509",
         "3198",
+        "5045",
         "8137",
-        "2216",
         "12517",
         "5892",
         "7594",
@@ -1278,6 +1278,7 @@
         "11628",
         "12493",
         "12519",
+        "13277",
         "13301",
         "13380",
         "13545",
@@ -1298,6 +1299,7 @@
         "NE"
       ],
       "reserve": [
+        "8142",
         "8408"
       ],
       "roster_id": 11,
@@ -4503,8 +4505,8 @@
             "WR"
           ],
           "team": "TB",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -4909,8 +4911,8 @@
             "WR"
           ],
           "team": "TB",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 2
         },
         {
@@ -6554,8 +6556,8 @@
         "421",
         "9509",
         "3198",
+        "5045",
         "8137",
-        "2216",
         "12517",
         "5892",
         "7594",
@@ -6729,7 +6731,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 12,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6804,7 +6806,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 8,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6982,6 +6984,18 @@
           "years_exp": 10
         },
         {
+          "player_id": "5045",
+          "full_name": "Courtland Sutton",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "DEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 8
+        },
+        {
           "player_id": "8137",
           "full_name": "George Pickens",
           "position": "WR",
@@ -6992,18 +7006,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4
-        },
-        {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "SF",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 12
         },
         {
           "player_id": "12517",
@@ -7116,6 +7118,18 @@
           "years_exp": 0
         },
         {
+          "player_id": "2216",
+          "full_name": "Mike Evans",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "SF",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "years_exp": 12
+        },
+        {
           "player_id": "4892",
           "full_name": "Baker Mayfield",
           "position": "QB",
@@ -7135,18 +7149,6 @@
             "TE"
           ],
           "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 8
-        },
-        {
-          "player_id": "5045",
-          "full_name": "Courtland Sutton",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "DEN",
           "status": "Active",
           "injury_status": null,
           "years_exp": 8
@@ -8821,6 +8823,7 @@
         "11628",
         "12493",
         "12519",
+        "13277",
         "13301",
         "13380",
         "13545",
@@ -8841,6 +8844,7 @@
         "NE"
       ],
       "reserve": [
+        "8142",
         "8408"
       ],
       "roster_id": 11,
@@ -8947,6 +8951,21 @@
           "injury_status": null,
           "years_exp": 1,
           "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "13277",
+          "full_name": "CJ Donaldson",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 0,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9143,7 +9162,7 @@
           "years_exp": 4,
           "starter": false,
           "taxi": false,
-          "reserve": false
+          "reserve": true
         },
         {
           "player_id": "8408",
@@ -9381,6 +9400,18 @@
           "years_exp": 1
         },
         {
+          "player_id": "13277",
+          "full_name": "CJ Donaldson",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 0
+        },
+        {
           "player_id": "13545",
           "full_name": "Trey Smack",
           "position": "K",
@@ -9441,18 +9472,6 @@
           "years_exp": 5
         },
         {
-          "player_id": "8142",
-          "full_name": "Alec Pierce",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "IND",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 4
-        },
-        {
           "player_id": "NE",
           "full_name": "New England Patriots",
           "position": "DEF",
@@ -9492,6 +9511,18 @@
         }
       ],
       "reserve_details": [
+        {
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "IND",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 4
+        },
         {
           "player_id": "8408",
           "full_name": "Jordan Mason",
@@ -12699,8 +12730,8 @@
         "WR"
       ],
       "team": "TB",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "years_exp": 2
     },
     "11619": {
@@ -13758,6 +13789,18 @@
       "team": "NYJ",
       "status": "Inactive",
       "injury_status": "IR",
+      "years_exp": 0
+    },
+    "13277": {
+      "player_id": "13277",
+      "full_name": "CJ Donaldson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
       "years_exp": 0
     },
     "13278": {
@@ -16185,18 +16228,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
-    },
-    {
-      "player_id": "13277",
-      "full_name": "CJ Donaldson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
     },
     {
       "player_id": "11644",
@@ -20267,6 +20298,18 @@
       "years_exp": 10
     },
     {
+      "player_id": "12001",
+      "full_name": "Lawrence Keys",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "DET",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 2
+    },
+    {
       "player_id": "13541",
       "full_name": "Lewis Bond",
       "position": "WR",
@@ -21896,7 +21939,7 @@
         "421",
         "9509",
         "3198",
-        "2216",
+        "5045",
         "8137",
         "12517",
         "5892",
@@ -22122,6 +22165,7 @@
         "11628",
         "12493",
         "12519",
+        "13277",
         "13301",
         "13380",
         "13545",
@@ -22187,6 +22231,7 @@
         "11628": 0,
         "12493": 0,
         "12519": 0,
+        "13277": 0,
         "13301": 0,
         "13380": 0,
         "13545": 0,
@@ -22276,6 +22321,29 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1790779753128,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "857028021230608384",
+      "transaction_id": "1411036191448379392",
+      "adds": {
+        "13277": 11
+      },
+      "drops": null,
+      "consenter_ids": [
+        11
+      ],
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1790779753128,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
