@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:30:40.532Z",
+  "generated_at": "2026-09-30T03:32:36.394Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -16343,6 +16343,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "14026",
+      "full_name": "DJ Herman",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "11574",
       "full_name": "Dylan Laube",
       "position": "RB",
@@ -21071,7 +21083,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 542,
+  "waiver_wire_count": 543,
   "traded_picks": [
     {
       "round": 1,
