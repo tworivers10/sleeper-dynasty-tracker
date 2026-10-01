@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:31:57.025Z",
+  "generated_at": "2026-10-01T12:40:15.093Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -205,6 +205,7 @@
       "st_ff": 1
     },
     "last_message_id": "1411058701820760064",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -214,7 +215,6 @@
     "last_message_time": 1790785120019,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "bracket_id": null,
