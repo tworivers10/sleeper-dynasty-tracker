@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:42:01.346Z",
+  "generated_at": "2026-10-01T01:31:25.890Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -1168,15 +1168,15 @@
       },
       "starters": [
         "8183",
-        "8155",
+        "12490",
         "12512",
         "9488",
         "8112",
         "8110",
-        "12490",
+        "7569",
         "8144",
         "1945",
-        "HOU"
+        "PIT"
       ],
       "taxi": [
         "13269",
@@ -7314,15 +7314,15 @@
       },
       "starters": [
         "8183",
-        "8155",
+        "12490",
         "12512",
         "9488",
         "8112",
         "8110",
-        "12490",
+        "7569",
         "8144",
         "1945",
-        "HOU"
+        "PIT"
       ],
       "taxi": [
         "13269",
@@ -7552,7 +7552,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 5,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -7627,7 +7627,7 @@
           "status": "Active",
           "injury_status": "Doubtful",
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -7687,7 +7687,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -7702,7 +7702,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         }
@@ -7721,16 +7721,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "8155",
-          "full_name": "Breece Hall",
+          "player_id": "12490",
+          "full_name": "Bhayshul Tuten",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "NYJ",
+          "team": "JAX",
           "status": "Active",
-          "injury_status": "Doubtful",
-          "years_exp": 4
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12512",
@@ -7781,16 +7781,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "12490",
-          "full_name": "Bhayshul Tuten",
-          "position": "RB",
+          "player_id": "7569",
+          "full_name": "Nico Collins",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "JAX",
+          "team": "HOU",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
+          "injury_status": "Questionable",
+          "years_exp": 5
         },
         {
           "player_id": "8144",
@@ -7817,13 +7817,13 @@
           "years_exp": 12
         },
         {
-          "player_id": "HOU",
-          "full_name": "Houston Texans",
+          "player_id": "PIT",
+          "full_name": "Pittsburgh Steelers",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "HOU",
+          "team": "PIT",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -7916,18 +7916,6 @@
           "years_exp": 6
         },
         {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 5
-        },
-        {
           "player_id": "7839",
           "full_name": "Evan McPherson",
           "position": "K",
@@ -7940,13 +7928,25 @@
           "years_exp": 5
         },
         {
-          "player_id": "PIT",
-          "full_name": "Pittsburgh Steelers",
+          "player_id": "8155",
+          "full_name": "Breece Hall",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": "Doubtful",
+          "years_exp": 4
+        },
+        {
+          "player_id": "HOU",
+          "full_name": "Houston Texans",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "PIT",
+          "team": "HOU",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -21985,15 +21985,15 @@
       "matchup_id": 1,
       "starters": [
         "8183",
-        "8155",
+        "12490",
         "12512",
         "9488",
         "8112",
         "8110",
-        "12490",
+        "7569",
         "8144",
         "1945",
-        "HOU"
+        "PIT"
       ],
       "starters_points": [
         0,
