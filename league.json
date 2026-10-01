@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:29:20.389Z",
+  "generated_at": "2026-10-01T00:42:01.346Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -3911,7 +3911,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": true,
           "taxi": false,
@@ -4120,7 +4120,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -13872,7 +13872,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13287": {
@@ -15254,7 +15254,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "years_exp": 0
     },
     {
@@ -15890,7 +15890,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": null,
       "years_exp": 3
     },
     {
@@ -16490,7 +16490,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     {
@@ -16790,7 +16790,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 5
     },
     {
@@ -17162,7 +17162,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     {
@@ -17966,7 +17966,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     {
@@ -19264,6 +19264,18 @@
       "status": "Active",
       "injury_status": "Out",
       "years_exp": 0
+    },
+    {
+      "player_id": "12829",
+      "full_name": "Coleman Owen",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
     },
     {
       "player_id": "12888",
@@ -21090,7 +21102,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 539,
+  "waiver_wire_count": 540,
   "traded_picks": [
     {
       "round": 1,
