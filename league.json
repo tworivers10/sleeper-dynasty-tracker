@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:34:15.597Z",
+  "generated_at": "2026-10-01T16:32:13.862Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -20139,18 +20139,6 @@
       "years_exp": 1
     },
     {
-      "player_id": "12151",
-      "full_name": "Julian Hicks",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 2
-    },
-    {
       "player_id": "7066",
       "full_name": "K.J. Osborn",
       "position": "WR",
@@ -20751,18 +20739,6 @@
       "years_exp": 1
     },
     {
-      "player_id": "11257",
-      "full_name": "Shedrick Jackson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "7812",
       "full_name": "Simi Fehoko",
       "position": "WR",
@@ -21159,7 +21135,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 541,
+  "waiver_wire_count": 539,
   "traded_picks": [
     {
       "round": 1,
