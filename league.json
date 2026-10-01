@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:32:07.685Z",
+  "generated_at": "2026-10-01T20:34:15.756Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -1662,7 +1662,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 13,
           "starter": false,
           "taxi": false,
@@ -2044,7 +2044,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 13
         },
         {
@@ -4709,7 +4709,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7,
           "starter": false,
           "taxi": false,
@@ -4995,7 +4995,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7
         },
         {
@@ -6021,7 +6021,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 9,
           "starter": true,
           "taxi": false,
@@ -6081,7 +6081,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -6257,7 +6257,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6
         },
         {
@@ -6305,7 +6305,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 9
         },
         {
@@ -8335,7 +8335,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 8,
           "starter": true,
           "taxi": false,
@@ -8517,7 +8517,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 8
         },
         {
@@ -9226,7 +9226,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3,
           "starter": true,
           "taxi": false,
@@ -9345,7 +9345,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3
         },
         {
@@ -10340,7 +10340,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 13
     },
     "1689": {
@@ -10592,7 +10592,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 9
     },
     "4039": {
@@ -10796,7 +10796,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 8
     },
     "4892": {
@@ -11096,7 +11096,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "5970": {
@@ -11216,7 +11216,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "6794": {
@@ -12320,7 +12320,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     "10213": {
@@ -17723,7 +17723,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 8
     },
     {
@@ -18419,7 +18419,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     {
@@ -19019,7 +19019,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     {
