@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:28:41.077Z",
+  "generated_at": "2026-10-02T00:39:55.032Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -860,7 +860,9 @@
         "96",
         "PHI"
       ],
-      "reserve": null,
+      "reserve": [
+        "10222"
+      ],
       "roster_id": 5,
       "settings": {
         "fpts": 274,
@@ -883,7 +885,7 @@
         "13279",
         "10213",
         "9480",
-        "10222",
+        "5967",
         "4199",
         "4227",
         "PHI"
@@ -1023,8 +1025,8 @@
         "4983",
         "8167",
         "11604",
-        "4037",
-        "5846",
+        "11576",
+        "9756",
         "2747",
         "MIN"
       ],
@@ -4427,7 +4429,9 @@
         "96",
         "PHI"
       ],
-      "reserve": null,
+      "reserve": [
+        "10222"
+      ],
       "roster_id": 5,
       "settings": {
         "fpts": 274,
@@ -4450,7 +4454,7 @@
         "13279",
         "10213",
         "9480",
-        "10222",
+        "5967",
         "4199",
         "4227",
         "PHI"
@@ -4501,9 +4505,9 @@
           "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 3,
-          "starter": true,
+          "starter": false,
           "taxi": false,
-          "reserve": false
+          "reserve": true
         },
         {
           "player_id": "11564",
@@ -4711,7 +4715,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -4865,16 +4869,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "10222",
-          "full_name": "Jayden Reed",
-          "position": "WR",
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "GB",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 3
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "4199",
@@ -4987,18 +4991,6 @@
           "years_exp": 9
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 7
-        },
-        {
           "player_id": "8136",
           "full_name": "Rachaad White",
           "position": "RB",
@@ -5061,7 +5053,20 @@
           "years_exp": 0
         }
       ],
-      "reserve_details": []
+      "reserve_details": [
+        {
+          "player_id": "10222",
+          "full_name": "Jayden Reed",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "GB",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 3
+        }
+      ]
     },
     {
       "co_owners": null,
@@ -5850,8 +5855,8 @@
         "4983",
         "8167",
         "11604",
-        "4037",
-        "5846",
+        "11576",
+        "9756",
         "2747",
         "MIN"
       ],
@@ -5888,7 +5893,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6023,7 +6028,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 9,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6053,7 +6058,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6188,7 +6193,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6297,28 +6302,28 @@
           "years_exp": 2
         },
         {
-          "player_id": "4037",
-          "full_name": "Chris Godwin",
-          "position": "WR",
+          "player_id": "11576",
+          "full_name": "Braelon Allen",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "TB",
+          "team": "NYJ",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 9
+          "years_exp": 2
         },
         {
-          "player_id": "5846",
-          "full_name": "DK Metcalf",
+          "player_id": "9756",
+          "full_name": "Jordan Addison",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "PIT",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 7
+          "years_exp": 3
         },
         {
           "player_id": "2747",
@@ -6359,18 +6364,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "11576",
-          "full_name": "Braelon Allen",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "11834",
           "full_name": "Devaughn Vele",
           "position": "WR",
@@ -6393,6 +6386,30 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1
+        },
+        {
+          "player_id": "4037",
+          "full_name": "Chris Godwin",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 9
+        },
+        {
+          "player_id": "5846",
+          "full_name": "DK Metcalf",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "PIT",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "5850",
@@ -6452,18 +6469,6 @@
           "team": "LAC",
           "status": "Active",
           "injury_status": "Questionable",
-          "years_exp": 3
-        },
-        {
-          "player_id": "9756",
-          "full_name": "Jordan Addison",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
           "years_exp": 3
         }
       ],
@@ -21597,7 +21602,7 @@
         "12487": 0,
         "12506": 0,
         "13345": 0,
-        "13346": 0,
+        "13346": 1.5,
         "13347": 0,
         "BAL": 0,
         "KC": 0,
@@ -21605,7 +21610,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1.9,
       "players": [
         "10859",
         "11581",
@@ -21653,7 +21658,7 @@
         0,
         0,
         0,
-        0,
+        1.9,
         0,
         0
       ],
@@ -21664,7 +21669,7 @@
         "5947": 0,
         "6039": 0,
         "6770": 0,
-        "6819": 0,
+        "6819": 1.9,
         "7526": 0,
         "8111": 0,
         "8172": 0,
@@ -21718,7 +21723,7 @@
         "13279",
         "10213",
         "9480",
-        "10222",
+        "5967",
         "4199",
         "4227",
         "PHI"
@@ -21736,7 +21741,7 @@
         0
       ],
       "players_points": {
-        "96": 0,
+        "96": 1.92,
         "4066": 0,
         "4199": 0,
         "4227": 0,
@@ -21843,7 +21848,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 4.2,
       "players": [
         "11566",
         "11576",
@@ -21880,14 +21885,14 @@
         "4983",
         "8167",
         "11604",
-        "4037",
-        "5846",
+        "11576",
+        "9756",
         "2747",
         "MIN"
       ],
       "starters_points": [
         0,
-        0,
+        4.2,
         0,
         0,
         0,
@@ -21901,13 +21906,13 @@
         "2747": 0,
         "4037": 0,
         "4983": 0,
-        "5846": 0,
+        "5846": 4.2,
         "5850": 0,
         "6790": 0,
         "7600": 0,
         "8154": 0,
         "8167": 0,
-        "8228": 0,
+        "8228": 4.2,
         "9482": 0,
         "9511": 0,
         "9756": 0,
@@ -22009,7 +22014,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 10.2,
       "players": [
         "11631",
         "11638",
@@ -22055,14 +22060,14 @@
       "starters_points": [
         0,
         0,
+        0.2,
         0,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0
+        10
       ],
       "players_points": {
         "1945": 0,
@@ -22083,13 +22088,13 @@
         "11638": 0,
         "12490": 0,
         "12499": 0,
-        "12512": 0,
+        "12512": 0.2,
         "12530": 0,
         "13269": 0,
         "13330": 0,
         "13405": 0,
         "HOU": 0,
-        "PIT": 0
+        "PIT": 10
       }
     },
     {
