@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:31:05.202Z",
+  "generated_at": "2026-10-02T21:31:05.054Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -3084,7 +3084,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -3559,7 +3559,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 1
         },
         {
@@ -3913,7 +3913,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": true,
           "taxi": false,
@@ -4122,7 +4122,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -6153,7 +6153,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -6445,7 +6445,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3
         }
       ],
@@ -8998,7 +8998,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -9511,7 +9511,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 0
         }
       ],
@@ -12220,7 +12220,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     "9753": {
@@ -13156,7 +13156,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "years_exp": 1
     },
     "12489": {
@@ -13877,7 +13877,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13287": {
@@ -14165,7 +14165,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13402": {
@@ -17203,7 +17203,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     {
@@ -17443,7 +17443,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "years_exp": 4
     },
     {
@@ -20455,7 +20455,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 7
     },
     {
