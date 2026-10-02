@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:32:31.518Z",
+  "generated_at": "2026-10-02T20:31:05.202Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -1250,7 +1250,7 @@
         "9493",
         "9487",
         "10236",
-        "6794",
+        "12514",
         "12526",
         "3451",
         "SEA"
@@ -2514,7 +2514,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 5,
           "starter": false,
           "taxi": false,
@@ -2818,7 +2818,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 5
         },
         {
@@ -3039,7 +3039,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -3174,7 +3174,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 8,
           "starter": false,
           "taxi": false,
@@ -3535,7 +3535,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2
         },
         {
@@ -3583,7 +3583,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 8
         },
         {
@@ -3973,7 +3973,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7,
           "starter": false,
           "taxi": false,
@@ -4268,7 +4268,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7
         },
         {
@@ -5958,7 +5958,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -6483,7 +6483,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0
         },
         {
@@ -7555,7 +7555,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5,
           "starter": true,
           "taxi": false,
@@ -7794,7 +7794,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5
         },
         {
@@ -8086,7 +8086,7 @@
         "9493",
         "9487",
         "10236",
-        "6794",
+        "12514",
         "12526",
         "3451",
         "SEA"
@@ -8214,7 +8214,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8334,7 +8334,7 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8563,16 +8563,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "6794",
-          "full_name": "Justin Jefferson",
+          "player_id": "12514",
+          "full_name": "Emeka Egbuka",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "MIN",
+          "team": "TB",
           "status": "Active",
-          "injury_status": "Out",
-          "years_exp": 6
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12526",
@@ -8649,16 +8649,16 @@
           "years_exp": 2
         },
         {
-          "player_id": "12514",
-          "full_name": "Emeka Egbuka",
+          "player_id": "6794",
+          "full_name": "Justin Jefferson",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "TB",
+          "team": "MIN",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
+          "injury_status": "Out",
+          "years_exp": 6
         },
         {
           "player_id": "8132",
@@ -9208,7 +9208,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3,
           "starter": true,
           "taxi": false,
@@ -9327,7 +9327,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3
         },
         {
@@ -10900,7 +10900,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "years_exp": 8
     },
     "5045": {
@@ -11056,7 +11056,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "5967": {
@@ -11380,7 +11380,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 5
     },
     "7526": {
@@ -11476,7 +11476,7 @@
       ],
       "team": "HOU",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 5
     },
     "7571": {
@@ -12292,7 +12292,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     "10213": {
@@ -12628,7 +12628,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     "11586": {
@@ -14021,7 +14021,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     "13317": {
@@ -16879,7 +16879,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 1
     },
     {
@@ -18019,7 +18019,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     {
@@ -18415,7 +18415,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     {
@@ -22104,7 +22104,7 @@
         "9493",
         "9487",
         "10236",
-        "6794",
+        "12514",
         "12526",
         "3451",
         "SEA"
