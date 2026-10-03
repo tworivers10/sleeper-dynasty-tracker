@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T14:39:39.833Z",
+  "generated_at": "2026-10-03T19:43:12.896Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
     "week": 4,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 4,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -663,10 +663,10 @@
         "6813",
         "9224",
         "7547",
-        "5927",
+        "11646",
         "12518",
         "11632",
-        "11646",
+        "9486",
         "11786",
         "ARI"
       ],
@@ -1649,7 +1649,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -1664,7 +1664,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 13,
           "starter": false,
           "taxi": false,
@@ -2046,7 +2046,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 13
         },
         {
@@ -2156,7 +2156,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0
         }
       ],
@@ -2236,10 +2236,10 @@
         "6813",
         "9224",
         "7547",
-        "5927",
+        "11646",
         "12518",
         "11632",
-        "11646",
+        "9486",
         "11786",
         "ARI"
       ],
@@ -2469,9 +2469,9 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "years_exp": 7,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -2606,7 +2606,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -2676,16 +2676,16 @@
           "years_exp": 5
         },
         {
-          "player_id": "5927",
-          "full_name": "Terry McLaurin",
+          "player_id": "11646",
+          "full_name": "Jalen Coker",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "WAS",
+          "team": "CAR",
           "status": "Active",
           "injury_status": "Questionable",
-          "years_exp": 7
+          "years_exp": 2
         },
         {
           "player_id": "12518",
@@ -2712,16 +2712,16 @@
           "years_exp": 2
         },
         {
-          "player_id": "11646",
-          "full_name": "Jalen Coker",
+          "player_id": "9486",
+          "full_name": "Dontayvion Wicks",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "CAR",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 2
+          "injury_status": null,
+          "years_exp": 3
         },
         {
           "player_id": "11786",
@@ -2798,6 +2798,18 @@
           "years_exp": 8
         },
         {
+          "player_id": "5927",
+          "full_name": "Terry McLaurin",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": "Doubtful",
+          "years_exp": 7
+        },
+        {
           "player_id": "6904",
           "full_name": "Jalen Hurts",
           "position": "QB",
@@ -2856,18 +2868,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4
-        },
-        {
-          "player_id": "9486",
-          "full_name": "Dontayvion Wicks",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 3
         }
       ],
       "taxi_details": [
@@ -10312,7 +10312,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 13
     },
     "1689": {
@@ -11044,7 +11044,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "years_exp": 7
     },
     "5947": {
@@ -14309,7 +14309,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     "13545": {
@@ -20315,18 +20315,6 @@
       "years_exp": 0
     },
     {
-      "player_id": "5938",
-      "full_name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "DEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 7
-    },
-    {
       "player_id": "11520",
       "full_name": "Lucky Jackson",
       "position": "WR",
@@ -21105,21 +21093,9 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
-    },
-    {
-      "player_id": "11168",
-      "full_name": "Xavier Smith",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
     }
   ],
-  "waiver_wire_count": 540,
+  "waiver_wire_count": 538,
   "traded_picks": [
     {
       "round": 1,
@@ -21433,10 +21409,10 @@
         "6813",
         "9224",
         "7547",
-        "5927",
+        "11646",
         "12518",
         "11632",
-        "11646",
+        "9486",
         "11786",
         "ARI"
       ],
