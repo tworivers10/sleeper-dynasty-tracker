@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:32:15.188Z",
+  "generated_at": "2026-10-05T18:39:27.536Z",
   "league_id": "1353194300984262656",
   "current_week": 4,
   "nfl_state": {
@@ -19072,18 +19072,6 @@
       "years_exp": 5
     },
     {
-      "player_id": "5121",
-      "full_name": "Braxton Berrios",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYG",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "years_exp": 8
-    },
-    {
       "player_id": "13011",
       "full_name": "Brennan Presley",
       "position": "WR",
@@ -21100,7 +21088,7 @@
       "years_exp": 1
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 537,
   "traded_picks": [
     {
       "round": 1,
