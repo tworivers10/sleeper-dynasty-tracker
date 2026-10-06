@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:32:25.158Z",
+  "generated_at": "2026-10-06T12:39:15.482Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -1024,7 +1024,7 @@
         "9758",
         "8228",
         "6790",
-        "4983",
+        "5846",
         "8167",
         "11604",
         "11576",
@@ -5834,7 +5834,7 @@
         "9758",
         "8228",
         "6790",
-        "4983",
+        "5846",
         "8167",
         "11604",
         "11576",
@@ -6040,7 +6040,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 8,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6055,7 +6055,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6248,16 +6248,16 @@
           "years_exp": 6
         },
         {
-          "player_id": "4983",
-          "full_name": "DJ Moore",
+          "player_id": "5846",
+          "full_name": "DK Metcalf",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "BUF",
+          "team": "PIT",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 8
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "8167",
@@ -6394,16 +6394,16 @@
           "years_exp": 9
         },
         {
-          "player_id": "5846",
-          "full_name": "DK Metcalf",
+          "player_id": "4983",
+          "full_name": "DJ Moore",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "PIT",
+          "team": "BUF",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 7
+          "injury_status": "Questionable",
+          "years_exp": 8
         },
         {
           "player_id": "5850",
@@ -21818,7 +21818,7 @@
         "9758",
         "8228",
         "6790",
-        "4983",
+        "5846",
         "8167",
         "11604",
         "11576",
