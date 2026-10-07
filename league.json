@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:31:20.395Z",
+  "generated_at": "2026-10-07T23:29:20.240Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -6786,7 +6786,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -7296,7 +7296,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         }
       ],
@@ -10002,7 +10002,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -10264,7 +10264,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3
         }
       ],
@@ -12359,7 +12359,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     "9756": {
@@ -14388,7 +14388,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13417": {
