@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:42:01.106Z",
+  "generated_at": "2026-10-07T13:35:51.271Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -204,7 +204,7 @@
     "season_type": "regular",
     "shard": 43,
     "sport": "nfl",
-    "last_message_id": "1413528306313175040",
+    "last_message_id": "1413554035650232320",
     "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -212,11 +212,16 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791373919613,
+    "last_message_time": 1791380053964,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -640,7 +640,7 @@
         "8180",
         "9224",
         "9486",
-        "ARI"
+        "JAX"
       ],
       "reserve": [
         "4137"
@@ -670,7 +670,7 @@
         "11632",
         "12529",
         "11786",
-        "ARI"
+        "0"
       ],
       "taxi": [
         "13307",
@@ -1063,6 +1063,7 @@
         "13285",
         "13414",
         "13417",
+        "13968",
         "2216",
         "3198",
         "421",
@@ -1070,7 +1071,6 @@
         "4993",
         "5045",
         "5892",
-        "6650",
         "7049",
         "7594",
         "8137",
@@ -1101,12 +1101,12 @@
         "421",
         "9509",
         "3198",
-        "5045",
+        "2216",
         "8137",
         "12517",
         "5892",
-        "7594",
-        "6650",
+        "13264",
+        "13968",
         "DEN"
       ],
       "taxi": [
@@ -2244,7 +2244,7 @@
         "8180",
         "9224",
         "9486",
-        "ARI"
+        "JAX"
       ],
       "reserve": [
         "4137"
@@ -2274,7 +2274,7 @@
         "11632",
         "12529",
         "11786",
-        "ARI"
+        "0"
       ],
       "taxi": [
         "13307",
@@ -2644,13 +2644,26 @@
           "reserve": false
         },
         {
-          "player_id": "ARI",
-          "full_name": "Arizona Cardinals",
+          "player_id": "JAX",
+          "full_name": "Jacksonville Jaguars",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "ARI",
+          "team": "JAX",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
           "status": null,
           "injury_status": null,
           "years_exp": null,
@@ -2769,13 +2782,11 @@
           "years_exp": 2
         },
         {
-          "player_id": "ARI",
-          "full_name": "Arizona Cardinals",
-          "position": "DEF",
-          "fantasy_positions": [
-            "DEF"
-          ],
-          "team": "ARI",
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -2901,6 +2912,18 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 4
+        },
+        {
+          "player_id": "JAX",
+          "full_name": "Jacksonville Jaguars",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "JAX",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null
         }
       ],
       "taxi_details": [
@@ -6582,6 +6605,7 @@
         "13285",
         "13414",
         "13417",
+        "13968",
         "2216",
         "3198",
         "421",
@@ -6589,7 +6613,6 @@
         "4993",
         "5045",
         "5892",
-        "6650",
         "7049",
         "7594",
         "8137",
@@ -6620,12 +6643,12 @@
         "421",
         "9509",
         "3198",
-        "5045",
+        "2216",
         "8137",
         "12517",
         "5892",
-        "7594",
-        "6650",
+        "13264",
+        "13968",
         "DEN"
       ],
       "taxi": [
@@ -6735,7 +6758,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6800,6 +6823,21 @@
           "reserve": true
         },
         {
+          "player_id": "13968",
+          "full_name": "Drew Stevens",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "WAS",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 0,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "2216",
           "full_name": "Mike Evans",
           "position": "WR",
@@ -6810,7 +6848,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 12,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6885,7 +6923,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 8,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6899,21 +6937,6 @@
           "team": "HOU",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 7,
-          "starter": true,
-          "taxi": false,
-          "reserve": false
-        },
-        {
-          "player_id": "6650",
-          "full_name": "Chase McLaughlin",
-          "position": "K",
-          "fantasy_positions": [
-            "K"
-          ],
-          "team": "TB",
-          "status": "Active",
-          "injury_status": "Questionable",
           "years_exp": 7,
           "starter": true,
           "taxi": false,
@@ -6945,7 +6968,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -7048,16 +7071,16 @@
           "years_exp": 10
         },
         {
-          "player_id": "5045",
-          "full_name": "Courtland Sutton",
+          "player_id": "2216",
+          "full_name": "Mike Evans",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "DEN",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 8
+          "years_exp": 12
         },
         {
           "player_id": "8137",
@@ -7096,28 +7119,28 @@
           "years_exp": 7
         },
         {
-          "player_id": "7594",
-          "full_name": "Chuba Hubbard",
-          "position": "RB",
+          "player_id": "13264",
+          "full_name": "Dohnte Meyers",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "CAR",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 5
+          "years_exp": 0
         },
         {
-          "player_id": "6650",
-          "full_name": "Chase McLaughlin",
+          "player_id": "13968",
+          "full_name": "Drew Stevens",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "TB",
+          "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 7
+          "injury_status": null,
+          "years_exp": 0
         },
         {
           "player_id": "DEN",
@@ -7170,18 +7193,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "13264",
-          "full_name": "Dohnte Meyers",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 0
-        },
-        {
           "player_id": "13285",
           "full_name": "Malachi Fields",
           "position": "WR",
@@ -7192,18 +7203,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0
-        },
-        {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "SF",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 12
         },
         {
           "player_id": "4892",
@@ -7230,6 +7229,18 @@
           "years_exp": 8
         },
         {
+          "player_id": "5045",
+          "full_name": "Courtland Sutton",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "DEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 8
+        },
+        {
           "player_id": "7049",
           "full_name": "Jauan Jennings",
           "position": "WR",
@@ -7240,6 +7251,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
+        },
+        {
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 5
         },
         {
           "player_id": "8676",
@@ -14453,6 +14476,18 @@
       "injury_status": null,
       "years_exp": 0
     },
+    "13968": {
+      "player_id": "13968",
+      "full_name": "Drew Stevens",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
     "SF": {
       "player_id": "SF",
       "full_name": "San Francisco 49ers",
@@ -14465,14 +14500,14 @@
       "injury_status": null,
       "years_exp": null
     },
-    "ARI": {
-      "player_id": "ARI",
-      "full_name": "Arizona Cardinals",
+    "JAX": {
+      "player_id": "JAX",
+      "full_name": "Jacksonville Jaguars",
       "position": "DEF",
       "fantasy_positions": [
         "DEF"
       ],
-      "team": "ARI",
+      "team": "JAX",
       "status": null,
       "injury_status": null,
       "years_exp": null
@@ -14645,6 +14680,18 @@
       "injury_status": null,
       "years_exp": null
     },
+    "ARI": {
+      "player_id": "ARI",
+      "full_name": "Arizona Cardinals",
+      "position": "DEF",
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "team": "ARI",
+      "status": null,
+      "injury_status": null,
+      "years_exp": null
+    },
     "CAR": {
       "player_id": "CAR",
       "full_name": "Carolina Panthers",
@@ -14665,18 +14712,6 @@
         "DEF"
       ],
       "team": "CIN",
-      "status": null,
-      "injury_status": null,
-      "years_exp": null
-    },
-    "JAX": {
-      "player_id": "JAX",
-      "full_name": "Jacksonville Jaguars",
-      "position": "DEF",
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "team": "JAX",
       "status": null,
       "injury_status": null,
       "years_exp": null
@@ -14768,6 +14803,18 @@
   },
   "waiver_wire": [
     {
+      "player_id": "ARI",
+      "full_name": "ARI D/ST",
+      "position": "DEF",
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": null
+    },
+    {
       "player_id": "ATL",
       "full_name": "ATL D/ST",
       "position": "DEF",
@@ -14847,18 +14894,6 @@
         "DEF"
       ],
       "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": null
-    },
-    {
-      "player_id": "JAX",
-      "full_name": "JAX D/ST",
-      "position": "DEF",
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "team": "JAX",
       "status": "Active",
       "injury_status": null,
       "years_exp": null
@@ -15044,6 +15079,18 @@
       "years_exp": 2
     },
     {
+      "player_id": "6650",
+      "full_name": "Chase McLaughlin",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 7
+    },
+    {
       "player_id": "5095",
       "full_name": "Daniel Carlson",
       "position": "K",
@@ -15063,18 +15110,6 @@
         "K"
       ],
       "team": "NYG",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
-    },
-    {
-      "player_id": "13968",
-      "full_name": "Drew Stevens",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "WAS",
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
@@ -19700,6 +19735,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "12946",
+      "full_name": "Dontae Fleming",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "7587",
       "full_name": "Dyami Brown",
       "position": "WR",
@@ -21272,7 +21319,7 @@
       "years_exp": 1
     }
   ],
-  "waiver_wire_count": 542,
+  "waiver_wire_count": 543,
   "traded_picks": [
     {
       "round": 1,
@@ -21578,7 +21625,7 @@
         "8180",
         "9224",
         "9486",
-        "ARI"
+        "JAX"
       ],
       "roster_id": 2,
       "custom_points": null,
@@ -21593,7 +21640,7 @@
         "8131",
         "5012",
         "11786",
-        "ARI"
+        "0"
       ],
       "starters_points": [
         0,
@@ -21632,7 +21679,7 @@
         "13329": 0,
         "13338": 0,
         "13424": 0,
-        "ARI": 0
+        "JAX": 0
       }
     },
     {
@@ -22053,6 +22100,7 @@
         "13285",
         "13414",
         "13417",
+        "13968",
         "2216",
         "3198",
         "421",
@@ -22060,7 +22108,6 @@
         "4993",
         "5045",
         "5892",
-        "6650",
         "7049",
         "7594",
         "8137",
@@ -22075,12 +22122,12 @@
         "421",
         "9509",
         "3198",
-        "5045",
+        "2216",
         "8137",
         "12517",
         "5892",
-        "7594",
-        "6650",
+        "13264",
+        "13968",
         "DEN"
       ],
       "starters_points": [
@@ -22104,7 +22151,6 @@
         "4993": 0,
         "5045": 0,
         "5892": 0,
-        "6650": 0,
         "7049": 0,
         "7594": 0,
         "8137": 0,
@@ -22120,6 +22166,7 @@
         "13285": 0,
         "13414": 0,
         "13417": 0,
+        "13968": 0,
         "DEN": 0
       }
     },
@@ -22461,6 +22508,56 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791380053930,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "833580396548575232",
+      "transaction_id": "1413554035507675136",
+      "adds": {
+        "JAX": 2
+      },
+      "drops": {
+        "ARI": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791380053930,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791380001296,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "856424496159113216",
+      "transaction_id": "1413553814740484096",
+      "adds": {
+        "13968": 8
+      },
+      "drops": {
+        "6650": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1791380001296,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791373919571,
       "settings": null,
       "leg": 5,
@@ -22470,10 +22567,10 @@
       "adds": {
         "3271": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -22493,12 +22590,12 @@
       "adds": {
         "4017": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "9757": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
