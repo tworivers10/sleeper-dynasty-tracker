@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T15:42:57.149Z",
+  "generated_at": "2026-10-07T16:36:51.466Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
     "week": 5,
     "leg": 5,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,10 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 43,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,7 +205,6 @@
       "st_ff": 1
     },
     "last_message_id": "1413578518071128064",
-    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -214,14 +213,10 @@
     "last_message_text_map": null,
     "last_message_time": 1791385891029,
     "last_pinned_message_id": null,
+    "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "last_read_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -244,6 +239,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1253,7 +1253,7 @@
         "7588",
         "12514",
         "9487",
-        "10236",
+        "9484",
         "6794",
         "9493",
         "3451",
@@ -8121,7 +8121,7 @@
         "7588",
         "12514",
         "9487",
-        "10236",
+        "9484",
         "6794",
         "9493",
         "3451",
@@ -8145,7 +8145,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8475,7 +8475,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8587,13 +8587,13 @@
           "years_exp": 3
         },
         {
-          "player_id": "10236",
-          "full_name": "Dalton Kincaid",
+          "player_id": "9484",
+          "full_name": "Tucker Kraft",
           "position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "team": "BUF",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "years_exp": 3
@@ -8648,6 +8648,18 @@
         }
       ],
       "bench_details": [
+        {
+          "player_id": "10236",
+          "full_name": "Dalton Kincaid",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 3
+        },
         {
           "player_id": "11565",
           "full_name": "J.J. McCarthy",
@@ -8752,18 +8764,6 @@
             "QB"
           ],
           "team": "CAR",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 3
-        },
-        {
-          "player_id": "9484",
-          "full_name": "Tucker Kraft",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "years_exp": 3
@@ -11200,7 +11200,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "6770": {
@@ -13178,7 +13178,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
@@ -15031,7 +15031,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     {
@@ -16211,18 +16211,6 @@
       "years_exp": 7
     },
     {
-      "player_id": "12939",
-      "full_name": "Anthony Tyus",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "11579",
       "full_name": "Audric Estime",
       "position": "RB",
@@ -16317,18 +16305,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 2
-    },
-    {
-      "player_id": "13595",
-      "full_name": "Cash Jones",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
     },
     {
       "player_id": "11370",
@@ -16475,18 +16451,6 @@
       "years_exp": 3
     },
     {
-      "player_id": "12476",
-      "full_name": "Devin Neal",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "6130",
       "full_name": "Devin Singletary",
       "position": "RB",
@@ -16578,18 +16542,6 @@
         "RB"
       ],
       "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
-      "player_id": "10223",
-      "full_name": "Eric Gray",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CLE",
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
@@ -16773,6 +16725,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
+    },
+    {
+      "player_id": "7537",
+      "full_name": "Jaret Patterson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 5
     },
     {
       "player_id": "11569",
@@ -18297,18 +18261,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
-    },
-    {
-      "player_id": "13957",
-      "full_name": "Kenny Fletcher",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
     },
     {
       "player_id": "7597",
@@ -20735,6 +20687,18 @@
       "years_exp": 3
     },
     {
+      "player_id": "13963",
+      "full_name": "Nick DeGennaro",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "7496",
       "full_name": "Nick Westbrook-Ikhine",
       "position": "WR",
@@ -21095,18 +21059,6 @@
       "years_exp": 4
     },
     {
-      "player_id": "13862",
-      "full_name": "Treyvhon Saunders",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "years_exp": 0
-    },
-    {
       "player_id": "7562",
       "full_name": "Tutu Atwell",
       "position": "WR",
@@ -21299,7 +21251,7 @@
       "years_exp": 1
     }
   ],
-  "waiver_wire_count": 546,
+  "waiver_wire_count": 542,
   "traded_picks": [
     {
       "round": 1,
@@ -22273,7 +22225,7 @@
         "7588",
         "12514",
         "9487",
-        "10236",
+        "9484",
         "6794",
         "9493",
         "3451",
