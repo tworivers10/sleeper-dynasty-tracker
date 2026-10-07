@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T16:36:51.466Z",
+  "generated_at": "2026-10-07T17:35:03.481Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
     "week": 5,
     "leg": 5,
-    "season_type": "regular",
     "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,10 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,6 +205,7 @@
       "st_ff": 1
     },
     "last_message_id": "1413578518071128064",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,10 +214,14 @@
     "last_message_text_map": null,
     "last_message_time": 1791385891029,
     "last_pinned_message_id": null,
-    "last_read_id": null,
-    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "last_read_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -956,9 +956,9 @@
         "12489",
         "11435",
         "13298",
-        "11635",
-        "5001",
         "10232",
+        "5001",
+        "7567",
         "8126",
         "5189",
         "GB"
@@ -5138,9 +5138,9 @@
         "12489",
         "11435",
         "13298",
-        "11635",
-        "5001",
         "10232",
+        "5001",
+        "7567",
         "8126",
         "5189",
         "GB"
@@ -5223,7 +5223,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 2,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -5266,7 +5266,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -5478,7 +5478,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -5563,16 +5563,16 @@
           "years_exp": 0
         },
         {
-          "player_id": "11635",
-          "full_name": "Ladd McConkey",
+          "player_id": "10232",
+          "full_name": "Michael Wilson",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "LAC",
+          "team": "ARI",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 2
+          "injury_status": null,
+          "years_exp": 3
         },
         {
           "player_id": "5001",
@@ -5587,16 +5587,16 @@
           "years_exp": 8
         },
         {
-          "player_id": "10232",
-          "full_name": "Michael Wilson",
-          "position": "WR",
+          "player_id": "7567",
+          "full_name": "Kenny Gainwell",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "ARI",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 3
+          "years_exp": 5
         },
         {
           "player_id": "8126",
@@ -5661,6 +5661,18 @@
           "years_exp": 3
         },
         {
+          "player_id": "11635",
+          "full_name": "Ladd McConkey",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "years_exp": 2
+        },
+        {
           "player_id": "11783",
           "full_name": "Ryan Flournoy",
           "position": "WR",
@@ -5681,7 +5693,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "years_exp": 1
         },
         {
@@ -5743,18 +5755,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
-        },
-        {
-          "player_id": "7567",
-          "full_name": "Kenny Gainwell",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "TB",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 5
         }
       ],
       "taxi_details": [
@@ -13324,7 +13324,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     "12499": {
@@ -15801,6 +15801,18 @@
       "status": "Active",
       "injury_status": "Doubtful",
       "years_exp": 11
+    },
+    {
+      "player_id": "13816",
+      "full_name": "Mark Gronowski",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
     },
     {
       "player_id": "4972",
@@ -21251,7 +21263,7 @@
       "years_exp": 1
     }
   ],
-  "waiver_wire_count": 542,
+  "waiver_wire_count": 543,
   "traded_picks": [
     {
       "round": 1,
@@ -21890,9 +21902,9 @@
         "12489",
         "11435",
         "13298",
-        "11635",
-        "5001",
         "10232",
+        "5001",
+        "7567",
         "8126",
         "5189",
         "GB"
