@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:33:21.017Z",
+  "generated_at": "2026-10-08T18:38:37.416Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -70,10 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 43,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,22 +200,28 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1413666963363803136",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1413989433656586240",
+    "shard": 43,
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791406978029,
+    "last_message_time": 1791483860939,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -242,8 +244,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -700,7 +700,6 @@
         "11584",
         "11586",
         "11792",
-        "12487",
         "12506",
         "13345",
         "13346",
@@ -717,6 +716,7 @@
         "8148",
         "8150",
         "9221",
+        "9482",
         "9753",
         "BAL",
         "KC",
@@ -2991,7 +2991,6 @@
         "11584",
         "11586",
         "11792",
-        "12487",
         "12506",
         "13345",
         "13346",
@@ -3008,6 +3007,7 @@
         "8148",
         "8150",
         "9221",
+        "9482",
         "9753",
         "BAL",
         "KC",
@@ -3107,21 +3107,6 @@
           "injury_status": null,
           "years_exp": 2,
           "starter": true,
-          "taxi": false,
-          "reserve": false
-        },
-        {
-          "player_id": "12487",
-          "full_name": "Terrance Ferguson",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "LAR",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 1,
-          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -3366,6 +3351,21 @@
           "reserve": false
         },
         {
+          "player_id": "9482",
+          "full_name": "Michael Mayer",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 3,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "9753",
           "full_name": "Zach Charbonnet",
           "position": "RB",
@@ -3586,18 +3586,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "12487",
-          "full_name": "Terrance Ferguson",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "LAR",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 1
-        },
-        {
           "player_id": "4981",
           "full_name": "Calvin Ridley",
           "position": "WR",
@@ -3644,6 +3632,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4
+        },
+        {
+          "player_id": "9482",
+          "full_name": "Michael Mayer",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 3
         },
         {
           "player_id": "KC",
@@ -18474,18 +18474,6 @@
       "years_exp": 7
     },
     {
-      "player_id": "9482",
-      "full_name": "Michael Mayer",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "13401",
       "full_name": "Michael Trigg",
       "position": "TE",
@@ -21330,7 +21318,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 544,
+  "waiver_wire_count": 543,
   "traded_picks": [
     {
       "round": 1,
@@ -21700,7 +21688,6 @@
         "11584",
         "11586",
         "11792",
-        "12487",
         "12506",
         "13345",
         "13346",
@@ -21717,6 +21704,7 @@
         "8148",
         "8150",
         "9221",
+        "9482",
         "9753",
         "BAL",
         "KC",
@@ -21762,12 +21750,12 @@
         "8148": 0,
         "8150": 0,
         "9221": 0,
+        "9482": 0,
         "9753": 0,
         "11560": 0,
         "11584": 0,
         "11586": 0,
         "11792": 0,
-        "12487": 0,
         "12506": 0,
         "13345": 0,
         "13346": 0,
@@ -22517,6 +22505,31 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791483860901,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "856392128836804608",
+      "transaction_id": "1413989433497120768",
+      "adds": {
+        "9482": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "12487": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791483860901,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
