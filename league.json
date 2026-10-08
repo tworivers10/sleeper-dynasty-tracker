@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:33:44.641Z",
+  "generated_at": "2026-10-08T22:33:08.484Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -1184,7 +1184,7 @@
         "7569",
         "8144",
         "1945",
-        "PIT"
+        "HOU"
       ],
       "taxi": [
         "13269",
@@ -7394,7 +7394,7 @@
         "7569",
         "8144",
         "1945",
-        "PIT"
+        "HOU"
       ],
       "taxi": [
         "13269",
@@ -7759,7 +7759,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -7774,7 +7774,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         }
@@ -7889,13 +7889,13 @@
           "years_exp": 12
         },
         {
-          "player_id": "PIT",
-          "full_name": "Pittsburgh Steelers",
+          "player_id": "HOU",
+          "full_name": "Houston Texans",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "PIT",
+          "team": "HOU",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -8012,13 +8012,13 @@
           "years_exp": 4
         },
         {
-          "player_id": "HOU",
-          "full_name": "Houston Texans",
+          "player_id": "PIT",
+          "full_name": "Pittsburgh Steelers",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "HOU",
+          "team": "PIT",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -17138,7 +17138,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     {
@@ -17176,6 +17176,18 @@
       "status": "Active",
       "injury_status": "Questionable",
       "years_exp": 6
+    },
+    {
+      "player_id": "13433",
+      "full_name": "Riley Nowakowski",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
     },
     {
       "player_id": "13418",
@@ -18676,18 +18688,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 5
-    },
-    {
-      "player_id": "13433",
-      "full_name": "Riley Nowakowski",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
     },
     {
       "player_id": "4602",
@@ -22213,7 +22213,7 @@
         "7569",
         "8144",
         "1945",
-        "PIT"
+        "HOU"
       ],
       "starters_points": [
         0,
