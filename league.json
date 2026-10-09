@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:34:13.266Z",
+  "generated_at": "2026-10-09T06:41:45.638Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -70,11 +70,11 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1413989433656586240",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1413989433656586240",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
