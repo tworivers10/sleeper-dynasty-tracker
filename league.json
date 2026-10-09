@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:35:23.666Z",
+  "generated_at": "2026-10-09T11:32:00.105Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -74,6 +74,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
+    "last_message_id": "1413989433656586240",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +205,7 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1413989433656586240",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,10 +214,14 @@
     "last_message_text_map": null,
     "last_message_time": 1791483860939,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
-    "league_id": "1353194300984262656",
     "last_read_id": null,
+    "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -23355,12 +23355,12 @@
       "adds": {
         "12487": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "12502": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -23385,12 +23385,12 @@
       "adds": {
         "11435": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "6865": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -23410,12 +23410,12 @@
       "adds": {
         "7571": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "4177": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -23435,10 +23435,10 @@
       "adds": {
         "4993": 8
       },
+      "drops": null,
       "consenter_ids": [
         8
       ],
-      "drops": null,
       "roster_ids": [
         8
       ],
@@ -23458,12 +23458,12 @@
       "adds": {
         "4454": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "12485": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -23483,10 +23483,10 @@
       "adds": {
         "6130": 11
       },
+      "drops": null,
       "consenter_ids": [
         11
       ],
-      "drops": null,
       "roster_ids": [
         11
       ],
@@ -23511,12 +23511,12 @@
       "adds": {
         "GB": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "MIN": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -23536,12 +23536,12 @@
       "adds": {
         "11729": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "11237": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -23561,12 +23561,12 @@
       "adds": {
         "13545": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "12487": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -23586,12 +23586,12 @@
       "adds": {
         "12493": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "9506": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -23611,12 +23611,12 @@
       "adds": {
         "NE": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "DET": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -23636,10 +23636,10 @@
       "adds": {
         "4177": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23659,12 +23659,12 @@
       "adds": {
         "SF": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "GB": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
