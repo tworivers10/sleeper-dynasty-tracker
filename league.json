@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:37:09.216Z",
+  "generated_at": "2026-10-09T14:38:16.087Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -70,9 +70,7 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
+    "last_message_id": "1414289046632472576",
     "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
@@ -204,18 +202,20 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1413989433656586240",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 43,
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791483860939,
+    "last_message_time": 1791555294238,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
-    "league_id": "1353194300984262656",
     "last_read_id": null,
+    "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "roster_positions": [
       "QB",
@@ -582,7 +582,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 12,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -637,9 +637,9 @@
         "7525",
         "7547",
         "8131",
-        "8161",
         "9224",
         "9486",
+        "9508",
         "JAX"
       ],
       "reserve": [
@@ -668,7 +668,7 @@
         "11632",
         "12518",
         "8131",
-        "5012",
+        "12529",
         "11786",
         "JAX"
       ],
@@ -1021,7 +1021,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 29,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 3
       },
       "starters": [
@@ -1096,7 +1096,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -1211,13 +1211,13 @@
         "12469",
         "12495",
         "12514",
+        "12522",
         "12526",
         "13275",
         "13305",
         "13337",
         "13413",
         "3451",
-        "4017",
         "4881",
         "6794",
         "7588",
@@ -1245,12 +1245,12 @@
         "ppts_decimal": 12,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 41,
-        "waiver_position": 9,
+        "waiver_budget_used": 59,
+        "waiver_position": 12,
         "wins": 3
       },
       "starters": [
-        "4017",
+        "0",
         "12495",
         "7588",
         "12514",
@@ -1476,7 +1476,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 12,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -2243,9 +2243,9 @@
         "7525",
         "7547",
         "8131",
-        "8161",
         "9224",
         "9486",
+        "9508",
         "JAX"
       ],
       "reserve": [
@@ -2274,7 +2274,7 @@
         "11632",
         "12518",
         "8131",
-        "5012",
+        "12529",
         "11786",
         "JAX"
       ],
@@ -2371,7 +2371,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -2506,7 +2506,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 8,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -2601,21 +2601,6 @@
           "reserve": false
         },
         {
-          "player_id": "8161",
-          "full_name": "Malik Willis",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4,
-          "starter": false,
-          "taxi": false,
-          "reserve": false
-        },
-        {
           "player_id": "9224",
           "full_name": "Chase Brown",
           "position": "RB",
@@ -2640,6 +2625,21 @@
           "team": "PHI",
           "status": "Active",
           "injury_status": "Questionable",
+          "years_exp": 3,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "9508",
+          "full_name": "Tyjae Spears",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -2747,16 +2747,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "5012",
-          "full_name": "Mark Andrews",
-          "position": "TE",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
+          "position": "RB",
           "fantasy_positions": [
-            "TE"
+            "RB"
           ],
-          "team": "BAL",
+          "team": "NE",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 8
+          "years_exp": 1
         },
         {
           "player_id": "11786",
@@ -2809,18 +2809,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NE",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
-        },
-        {
           "player_id": "12536",
           "full_name": "Jaylin Noel",
           "position": "WR",
@@ -2843,6 +2831,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 9
+        },
+        {
+          "player_id": "5012",
+          "full_name": "Mark Andrews",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "BAL",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 8
         },
         {
           "player_id": "5927",
@@ -2881,18 +2881,6 @@
           "years_exp": 5
         },
         {
-          "player_id": "8161",
-          "full_name": "Malik Willis",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "MIA",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4
-        },
-        {
           "player_id": "9486",
           "full_name": "Dontayvion Wicks",
           "position": "WR",
@@ -2902,6 +2890,18 @@
           "team": "PHI",
           "status": "Active",
           "injury_status": "Questionable",
+          "years_exp": 3
+        },
+        {
+          "player_id": "9508",
+          "full_name": "Tyjae Spears",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 3
         }
       ],
@@ -5889,7 +5889,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 29,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 3
       },
       "starters": [
@@ -6621,7 +6621,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -8108,13 +8108,13 @@
         "12469",
         "12495",
         "12514",
+        "12522",
         "12526",
         "13275",
         "13305",
         "13337",
         "13413",
         "3451",
-        "4017",
         "4881",
         "6794",
         "7588",
@@ -8142,12 +8142,12 @@
         "ppts_decimal": 12,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 41,
-        "waiver_position": 9,
+        "waiver_budget_used": 59,
+        "waiver_position": 12,
         "wins": 3
       },
       "starters": [
-        "4017",
+        "0",
         "12495",
         "7588",
         "12514",
@@ -8286,6 +8286,21 @@
           "reserve": false
         },
         {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "12526",
           "full_name": "Tetairoa McMillan",
           "position": "WR",
@@ -8371,21 +8386,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 10,
-          "starter": true,
-          "taxi": false,
-          "reserve": false
-        },
-        {
-          "player_id": "4017",
-          "full_name": "Deshaun Watson",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "CLE",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 9,
           "starter": true,
           "taxi": false,
           "reserve": false
@@ -8554,20 +8554,31 @@
           "starter": true,
           "taxi": false,
           "reserve": false
+        },
+        {
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "years_exp": null,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
         }
       ],
       "starter_details": [
         {
-          "player_id": "4017",
-          "full_name": "Deshaun Watson",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "CLE",
-          "status": "Active",
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
+          "status": null,
           "injury_status": null,
-          "years_exp": 9
+          "years_exp": null
         },
         {
           "player_id": "12495",
@@ -8726,6 +8737,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2
+        },
+        {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12526",
@@ -10310,6 +10333,16 @@
     }
   ],
   "player_directory": {
+    "0": {
+      "player_id": "0",
+      "full_name": null,
+      "position": null,
+      "fantasy_positions": [],
+      "team": null,
+      "status": null,
+      "injury_status": null,
+      "years_exp": null
+    },
     "96": {
       "player_id": "96",
       "full_name": "Aaron Rodgers",
@@ -15390,18 +15423,6 @@
       "years_exp": 0
     },
     {
-      "player_id": "12522",
-      "full_name": "Cam Ward",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "3161",
       "full_name": "Carson Wentz",
       "position": "QB",
@@ -15472,6 +15493,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 5
+    },
+    {
+      "player_id": "4017",
+      "full_name": "Deshaun Watson",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 9
     },
     {
       "player_id": "12773",
@@ -15832,6 +15865,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 5
+    },
+    {
+      "player_id": "8161",
+      "full_name": "Malik Willis",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
     },
     {
       "player_id": "2307",
@@ -17308,18 +17353,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 7
-    },
-    {
-      "player_id": "9508",
-      "full_name": "Tyjae Spears",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
     },
     {
       "player_id": "8208",
@@ -21621,9 +21654,9 @@
         "7525",
         "7547",
         "8131",
-        "8161",
         "9224",
         "9486",
+        "9508",
         "JAX"
       ],
       "roster_id": 2,
@@ -21637,7 +21670,7 @@
         "11632",
         "12518",
         "8131",
-        "5012",
+        "12529",
         "11786",
         "JAX"
       ],
@@ -21664,9 +21697,9 @@
         "7525": 0,
         "7547": 0,
         "8131": 0,
-        "8161": 0,
         "9224": 0,
         "9486": 0,
+        "9508": 0,
         "11632": 0,
         "11646": 0,
         "11786": 0,
@@ -22266,13 +22299,13 @@
         "12469",
         "12495",
         "12514",
+        "12522",
         "12526",
         "13275",
         "13305",
         "13337",
         "13413",
         "3451",
-        "4017",
         "4881",
         "6794",
         "7588",
@@ -22289,7 +22322,7 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "4017",
+        "0",
         "12495",
         "7588",
         "12514",
@@ -22314,7 +22347,6 @@
       ],
       "players_points": {
         "3451": 0,
-        "4017": 0,
         "4881": 0,
         "6794": 0,
         "7588": 14.2,
@@ -22333,6 +22365,7 @@
         "12469": 0,
         "12495": 0,
         "12514": 17.2,
+        "12522": 0,
         "12526": 0,
         "13275": 0,
         "13305": 0,
@@ -22509,6 +22542,31 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1791555294205,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "833580396548575232",
+      "transaction_id": "1414289046489792512",
+      "adds": {
+        "9508": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": {
+        "8161": 2
+      },
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791555294205,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1791483860901,
       "settings": null,
       "leg": 5,
@@ -22528,6 +22586,34 @@
         3
       ],
       "status_updated": 1791483860901,
+      "waiver_budget": []
+    },
+    {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      },
+      "created": 1791407817647,
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 1
+      },
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "833580396548575232",
+      "transaction_id": "1413670484976979968",
+      "adds": {
+        "12522": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "drops": null,
+      "roster_ids": [
+        2
+      ],
+      "status_updated": 1791554820486,
       "waiver_budget": []
     },
     {
@@ -22601,6 +22687,36 @@
         1
       ],
       "status_updated": 1791396557377,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1791388982436,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 18
+      },
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "857010974824214528",
+      "transaction_id": "1413591484371873792",
+      "adds": {
+        "12522": 10
+      },
+      "consenter_ids": [
+        10
+      ],
+      "drops": {
+        "4017": 10
+      },
+      "roster_ids": [
+        10
+      ],
+      "status_updated": 1791554820486,
       "waiver_budget": []
     },
     {
