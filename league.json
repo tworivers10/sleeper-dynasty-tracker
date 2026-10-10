@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:37:39.499Z",
+  "generated_at": "2026-10-10T13:32:19.842Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -11708,7 +11708,7 @@
       ],
       "team": "BUF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     "7839": {
@@ -20279,7 +20279,7 @@
       ],
       "team": "BUF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     {
