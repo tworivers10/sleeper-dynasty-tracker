@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:32:20.485Z",
+  "generated_at": "2026-10-11T16:32:51.369Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -70,10 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 43,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,17 +200,21 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1414355019792146432",
-    "draft_id": "1353194300996878336",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 43,
+    "sport": "nfl",
+    "last_message_id": "1415045317061042176",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791571023465,
+    "last_message_time": 1791735603160,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "roster_positions": [
@@ -542,6 +542,7 @@
         "11603",
         "11610",
         "11624",
+        "12504",
         "12534",
         "12535",
         "12545",
@@ -559,7 +560,6 @@
         "7021",
         "7564",
         "7611",
-        "8129",
         "8130",
         "8151",
         "8259",
@@ -588,7 +588,7 @@
       "starters": [
         "12545",
         "7611",
-        "7021",
+        "0",
         "7564",
         "11610",
         "8130",
@@ -819,7 +819,7 @@
         "2133",
         "10859",
         "5947",
-        "6819",
+        "12509",
         "12711",
         "DAL"
       ],
@@ -1436,6 +1436,7 @@
         "11603",
         "11610",
         "11624",
+        "12504",
         "12534",
         "12535",
         "12545",
@@ -1453,7 +1454,6 @@
         "7021",
         "7564",
         "7611",
-        "8129",
         "8130",
         "8151",
         "8259",
@@ -1482,7 +1482,7 @@
       "starters": [
         "12545",
         "7611",
-        "7021",
+        "0",
         "7564",
         "11610",
         "8130",
@@ -1539,6 +1539,21 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "12504",
+          "full_name": "Kaleb Johnson",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "GB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1,
           "starter": false,
           "taxi": false,
           "reserve": false
@@ -1657,7 +1672,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -1672,7 +1687,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 13,
           "starter": true,
           "taxi": false,
@@ -1762,9 +1777,9 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -1777,7 +1792,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5,
           "starter": true,
           "taxi": false,
@@ -1792,24 +1807,9 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5,
           "starter": true,
-          "taxi": false,
-          "reserve": false
-        },
-        {
-          "player_id": "8129",
-          "full_name": "Dameon Pierce",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4,
-          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -1887,6 +1887,19 @@
           "starter": true,
           "taxi": false,
           "reserve": false
+        },
+        {
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "years_exp": null,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
         }
       ],
       "starter_details": [
@@ -1911,20 +1924,18 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5
         },
         {
-          "player_id": "7021",
-          "full_name": "Rico Dowdle",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "PIT",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 6
+          "player_id": "0",
+          "full_name": null,
+          "position": null,
+          "fantasy_positions": [],
+          "team": null,
+          "status": null,
+          "injury_status": null,
+          "years_exp": null
         },
         {
           "player_id": "7564",
@@ -1935,7 +1946,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5
         },
         {
@@ -1983,7 +1994,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 13
         },
         {
@@ -2035,6 +2046,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2
+        },
+        {
+          "player_id": "12504",
+          "full_name": "Kaleb Johnson",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "GB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12534",
@@ -2109,16 +2132,16 @@
           "years_exp": 7
         },
         {
-          "player_id": "8129",
-          "full_name": "Dameon Pierce",
+          "player_id": "7021",
+          "full_name": "Rico Dowdle",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "PHI",
+          "team": "PIT",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 4
+          "injury_status": "Out",
+          "years_exp": 6
         },
         {
           "player_id": "8151",
@@ -2179,7 +2202,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0
         }
       ],
@@ -2399,7 +2422,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -2519,7 +2542,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7,
           "starter": false,
           "taxi": false,
@@ -2853,7 +2876,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7
         },
         {
@@ -2915,7 +2938,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -3059,7 +3082,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -3239,7 +3262,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -3520,7 +3543,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6
         },
         {
@@ -3558,7 +3581,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 2
         },
         {
@@ -3795,7 +3818,7 @@
         "2133",
         "10859",
         "5947",
-        "6819",
+        "12509",
         "12711",
         "DAL"
       ],
@@ -3862,7 +3885,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3995,7 +4018,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 9,
           "starter": true,
           "taxi": false,
@@ -4057,7 +4080,7 @@
           "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -4159,7 +4182,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 9
         },
         {
@@ -4223,16 +4246,16 @@
           "years_exp": 7
         },
         {
-          "player_id": "6819",
-          "full_name": "Michael Pittman",
+          "player_id": "12509",
+          "full_name": "Tre' Harris",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "PIT",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 6
+          "team": "LAC",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12711",
@@ -4273,18 +4296,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "12509",
-          "full_name": "Tre' Harris",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
-        },
-        {
           "player_id": "1373",
           "full_name": "Geno Smith",
           "position": "QB",
@@ -4307,6 +4318,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7
+        },
+        {
+          "player_id": "6819",
+          "full_name": "Michael Pittman",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "PIT",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 6
         },
         {
           "player_id": "8111",
@@ -4625,7 +4648,7 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 1,
           "starter": true,
           "taxi": false,
@@ -4655,7 +4678,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0,
           "starter": true,
           "taxi": false,
@@ -4849,7 +4872,7 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 1
         },
         {
@@ -4873,7 +4896,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 0
         },
         {
@@ -5327,7 +5350,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -5798,7 +5821,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -5950,7 +5973,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 2,
           "starter": true,
           "taxi": false,
@@ -6235,7 +6258,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -6354,7 +6377,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 2
         },
         {
@@ -6500,7 +6523,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 3
         },
         {
@@ -7532,7 +7555,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -8058,7 +8081,7 @@
           ],
           "team": "MIA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         }
       ],
@@ -8414,7 +8437,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -8638,7 +8661,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6
         },
         {
@@ -9867,7 +9890,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -9897,7 +9920,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -10290,7 +10313,7 @@
           ],
           "team": "CIN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -10302,7 +10325,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         }
       ],
@@ -10310,6 +10333,16 @@
     }
   ],
   "player_directory": {
+    "0": {
+      "player_id": "0",
+      "full_name": null,
+      "position": null,
+      "fantasy_positions": [],
+      "team": null,
+      "status": null,
+      "injury_status": null,
+      "years_exp": null
+    },
     "96": {
       "player_id": "96",
       "full_name": "Aaron Rodgers",
@@ -10391,7 +10424,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 13
     },
     "1689": {
@@ -10655,7 +10688,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 9
     },
     "4037": {
@@ -11147,7 +11180,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "5947": {
@@ -11219,7 +11252,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 7
     },
     "6149": {
@@ -11303,7 +11336,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "6797": {
@@ -11327,7 +11360,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "6803": {
@@ -11435,7 +11468,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 6
     },
     "7049": {
@@ -11555,7 +11588,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 5
     },
     "7567": {
@@ -11651,7 +11684,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 5
     },
     "7611": {
@@ -11663,7 +11696,7 @@
       ],
       "team": "NE",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 5
     },
     "7670": {
@@ -12371,7 +12404,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 3
     },
     "9757": {
@@ -12478,6 +12511,18 @@
         "WR"
       ],
       "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
+    },
+    "10235": {
+      "player_id": "10235",
+      "full_name": "Roschon Johnson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
@@ -12599,7 +12644,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 2
     },
     "11563": {
@@ -12707,7 +12752,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 2
     },
     "11579": {
@@ -13031,7 +13076,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     "11646": {
@@ -13643,7 +13688,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 1
     },
     "12529": {
@@ -13992,7 +14037,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     "13281": {
@@ -14016,7 +14061,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13285": {
@@ -14064,7 +14109,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13289": {
@@ -14076,7 +14121,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13293": {
@@ -14172,7 +14217,7 @@
       ],
       "team": "HOU",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13311": {
@@ -14364,7 +14409,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13411": {
@@ -14436,7 +14481,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13424": {
@@ -14460,7 +14505,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13533": {
@@ -14472,7 +14517,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     "13545": {
@@ -15290,7 +15335,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 3
     },
     {
@@ -15326,7 +15371,7 @@
       ],
       "team": "NE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -15352,18 +15397,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 8
-    },
-    {
-      "player_id": "12538",
-      "full_name": "Brady Cook",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
     },
     {
       "player_id": "6037",
@@ -15602,7 +15635,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 3
     },
     {
@@ -15858,18 +15891,6 @@
       "years_exp": 11
     },
     {
-      "player_id": "13816",
-      "full_name": "Mark Gronowski",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
-    },
-    {
       "player_id": "4972",
       "full_name": "Mason Rudolph",
       "position": "QB",
@@ -15890,7 +15911,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     {
@@ -15962,7 +15983,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     {
@@ -16082,7 +16103,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -16154,7 +16175,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     {
@@ -16190,7 +16211,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 5
     },
     {
@@ -16422,6 +16443,18 @@
       "years_exp": 7
     },
     {
+      "player_id": "8129",
+      "full_name": "Dameon Pierce",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "13949",
       "full_name": "Damon Bankston",
       "position": "RB",
@@ -16502,7 +16535,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 7
     },
     {
@@ -16562,7 +16595,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -16814,7 +16847,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     {
@@ -16888,18 +16921,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 7
-    },
-    {
-      "player_id": "12504",
-      "full_name": "Kaleb Johnson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
     },
     {
       "player_id": "12516",
@@ -17042,7 +17063,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 5
     },
     {
@@ -17174,7 +17195,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -17438,7 +17459,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 1
     },
     {
@@ -17750,7 +17771,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 2
     },
     {
@@ -19206,18 +19227,6 @@
       "years_exp": 0
     },
     {
-      "player_id": "11959",
-      "full_name": "Bryce Oliver",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 2
-    },
-    {
       "player_id": "11157",
       "full_name": "Brycen Tremayne",
       "position": "WR",
@@ -19418,7 +19427,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -20034,18 +20043,6 @@
       "years_exp": 3
     },
     {
-      "player_id": "12925",
-      "full_name": "Jamaal Pritchett",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "6957",
       "full_name": "James Proche",
       "position": "WR",
@@ -20308,18 +20305,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 9
-    },
-    {
-      "player_id": "8200",
-      "full_name": "Kevin Austin",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 4
     },
     {
       "player_id": "6866",
@@ -20738,7 +20723,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 12
     },
     {
@@ -21270,7 +21255,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 533,
   "traded_picks": [
     {
       "round": 1,
@@ -21469,6 +21454,7 @@
         "11603",
         "11610",
         "11624",
+        "12504",
         "12534",
         "12535",
         "12545",
@@ -21499,7 +21485,7 @@
       "starters": [
         "12545",
         "7611",
-        "7021",
+        "0",
         "7564",
         "11610",
         "8130",
@@ -21530,7 +21516,7 @@
         "7021": 0,
         "7564": 0,
         "7611": 0,
-        "8129": 1.5,
+        "8129": 3.4,
         "8130": 0,
         "8151": 0,
         "8259": 0,
@@ -21538,10 +21524,11 @@
         "11603": 0,
         "11610": 0,
         "11624": 0,
+        "12504": 0,
         "12534": 0,
         "12535": 0,
         "12545": 0,
-        "13150": 13.2,
+        "13150": 15.2,
         "13402": 0,
         "13411": 0,
         "13421": 0,
@@ -21550,7 +21537,7 @@
       }
     },
     {
-      "points": 5,
+      "points": 7,
       "players": [
         "11632",
         "11646",
@@ -21602,8 +21589,8 @@
         0,
         0,
         0,
-        1,
-        4
+        4,
+        3
       ],
       "players_points": {
         "3163": 0,
@@ -21612,16 +21599,16 @@
         "5012": 0,
         "5927": 0,
         "6813": 0,
-        "6904": 9.36,
+        "6904": 11.28,
         "7525": 0,
         "7547": 0,
         "8131": 0,
         "9224": 0,
-        "9486": 4.8,
+        "9486": 7.7,
         "9508": 0,
         "11632": 0,
         "11646": 0,
-        "11786": 1,
+        "11786": 4,
         "12474": 0,
         "12518": 0,
         "12529": 0,
@@ -21630,11 +21617,11 @@
         "13329": 0,
         "13338": 0,
         "13424": 0,
-        "JAX": 4
+        "JAX": 3
       }
     },
     {
-      "points": 13.96,
+      "points": 15.2,
       "players": [
         "11560",
         "11584",
@@ -21678,7 +21665,7 @@
         "BAL"
       ],
       "starters_points": [
-        11.06,
+        12.3,
         0,
         0,
         2.9,
@@ -21696,7 +21683,7 @@
         "6786": 2.9,
         "6801": 0,
         "6803": 0,
-        "7523": 11.06,
+        "7523": 12.3,
         "8138": 0,
         "8146": 0,
         "8148": 0,
@@ -21754,7 +21741,7 @@
         "2133",
         "10859",
         "5947",
-        "6819",
+        "12509",
         "12711",
         "DAL"
       ],
@@ -21796,7 +21783,7 @@
       }
     },
     {
-      "points": 17.7,
+      "points": 21.1,
       "players": [
         "10213",
         "10218",
@@ -21843,11 +21830,11 @@
         0,
         0,
         0,
-        7.7,
+        10.1,
         0,
         0,
         0,
-        10
+        11
       ],
       "players_points": {
         "96": 0,
@@ -21857,7 +21844,7 @@
         "4227": 0,
         "5967": 0,
         "8136": 0,
-        "9480": 7.7,
+        "9480": 10.1,
         "9504": 0,
         "10213": 0,
         "10218": 0,
@@ -21872,7 +21859,7 @@
         "13274": 0,
         "13279": 0,
         "13320": 0,
-        "PHI": 10
+        "PHI": 11
       }
     },
     {
@@ -21940,7 +21927,7 @@
         "6804": 0,
         "7567": 5.8,
         "8126": 0,
-        "10219": 0.5,
+        "10219": 2.1,
         "10229": 0,
         "10232": 0,
         "11435": 0,
@@ -22124,7 +22111,7 @@
       }
     },
     {
-      "points": 8.4,
+      "points": 13,
       "players": [
         "11631",
         "11638",
@@ -22169,7 +22156,7 @@
       ],
       "starters_points": [
         0,
-        3.5,
+        8.1,
         0,
         0,
         0,
@@ -22196,7 +22183,7 @@
         "9502": 0,
         "11631": 0,
         "11638": 0,
-        "12490": 3.5,
+        "12490": 8.1,
         "12499": 0,
         "12512": 0,
         "12530": 1.9,
@@ -22376,7 +22363,7 @@
       }
     },
     {
-      "points": 17.44,
+      "points": 20.24,
       "players": [
         "11539",
         "11559",
@@ -22425,7 +22412,7 @@
         0,
         0,
         0,
-        4.8,
+        7.6,
         0,
         0
       ],
@@ -22451,12 +22438,62 @@
         "13287": 0,
         "13289": 0,
         "13293": 0,
-        "13294": 4.8,
+        "13294": 7.6,
         "LV": 0
       }
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791735603120,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "832502005837729792",
+      "transaction_id": "1415045316897452032",
+      "adds": {
+        "12504": 1
+      },
+      "drops": {
+        "10235": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1791735603120,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791735136398,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "832502005837729792",
+      "transaction_id": "1415043359319359488",
+      "adds": {
+        "10235": 1
+      },
+      "drops": {
+        "8129": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1791735136398,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -22470,12 +22507,12 @@
       "adds": {
         "13150": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "7571": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -22495,12 +22532,12 @@
       "adds": {
         "9508": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "8161": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22520,12 +22557,12 @@
       "adds": {
         "9482": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "12487": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -22550,10 +22587,10 @@
       "adds": {
         "12522": 2
       },
+      "drops": null,
       "consenter_ids": [
         2
       ],
-      "drops": null,
       "roster_ids": [
         2
       ],
@@ -22573,10 +22610,10 @@
       "adds": {
         "650": 5
       },
+      "drops": null,
       "consenter_ids": [
         5
       ],
-      "drops": null,
       "roster_ids": [
         5
       ],
@@ -22596,12 +22633,12 @@
       "adds": {
         "CLE": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "SF": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -22621,12 +22658,12 @@
       "adds": {
         "8129": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "4018": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -22651,12 +22688,12 @@
       "adds": {
         "12522": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "4017": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -22676,12 +22713,12 @@
       "adds": {
         "12536": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "8180": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22701,12 +22738,12 @@
       "adds": {
         "3257": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "12522": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -22726,12 +22763,12 @@
       "adds": {
         "JAX": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "ARI": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22751,12 +22788,12 @@
       "adds": {
         "13968": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "6650": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -22776,10 +22813,10 @@
       "adds": {
         "3271": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -22799,12 +22836,12 @@
       "adds": {
         "4017": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "9757": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
