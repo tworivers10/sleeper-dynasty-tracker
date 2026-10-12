@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:40:00.583Z",
+  "generated_at": "2026-10-12T19:34:10.086Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -205,7 +205,6 @@
       "st_ff": 1
     },
     "last_message_id": "1415103455776755712",
-    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -215,8 +214,14 @@
     "last_message_time": 1791749464509,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -18770,7 +18770,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     {
@@ -22896,12 +22896,12 @@
       "adds": {
         "12185": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "2747": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -22926,12 +22926,12 @@
       "adds": {
         "11577": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "4037": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -22956,10 +22956,10 @@
       "adds": {
         "13264": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -22984,12 +22984,12 @@
       "adds": {
         "13264": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "9508": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -23014,12 +23014,12 @@
       "adds": {
         "4018": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "11575": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -23044,10 +23044,10 @@
       "adds": {
         "11577": 1
       },
+      "drops": null,
       "consenter_ids": [
         1
       ],
-      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23067,12 +23067,12 @@
       "adds": {
         "1166": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "12718": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -23092,12 +23092,12 @@
       "adds": {
         "2505": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "9482": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -23117,12 +23117,12 @@
       "adds": {
         "ARI": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "CAR": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -23142,12 +23142,12 @@
       "adds": {
         "9757": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "11729": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -23167,10 +23167,10 @@
       "adds": {
         "13277": 11
       },
+      "drops": null,
       "consenter_ids": [
         11
       ],
-      "drops": null,
       "roster_ids": [
         11
       ],
@@ -23190,12 +23190,12 @@
       "adds": {
         "CHI": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "CIN": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
