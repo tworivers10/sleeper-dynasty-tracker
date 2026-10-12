@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:33:10.786Z",
+  "generated_at": "2026-10-12T23:33:10.677Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -6010,7 +6010,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -6100,7 +6100,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 8,
           "starter": false,
           "taxi": false,
@@ -6440,7 +6440,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 8
         },
         {
@@ -6526,7 +6526,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -6756,7 +6756,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -7284,7 +7284,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -8324,7 +8324,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -8810,7 +8810,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 0
         },
         {
@@ -10931,7 +10931,7 @@
       ],
       "team": "BUF",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 8
     },
     "4984": {
@@ -13932,7 +13932,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13272": {
@@ -13968,7 +13968,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13276": {
@@ -14004,7 +14004,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     "13279": {
