@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:38:06.165Z",
+  "generated_at": "2026-10-12T16:35:49.771Z",
   "league_id": "1353194300984262656",
   "current_week": 5,
   "nfl_state": {
@@ -15870,6 +15870,18 @@
       "years_exp": 11
     },
     {
+      "player_id": "13816",
+      "full_name": "Mark Gronowski",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "4972",
       "full_name": "Mason Rudolph",
       "position": "QB",
@@ -19206,6 +19218,18 @@
       "years_exp": 0
     },
     {
+      "player_id": "11959",
+      "full_name": "Bryce Oliver",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 2
+    },
+    {
       "player_id": "11157",
       "full_name": "Brycen Tremayne",
       "position": "WR",
@@ -21234,7 +21258,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 533,
+  "waiver_wire_count": 535,
   "traded_picks": [
     {
       "round": 1,
