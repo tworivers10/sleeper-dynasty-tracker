@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:41:17.622Z",
+  "generated_at": "2026-10-13T15:38:45.877Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -24,7 +24,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 4,
+      "last_report": 5,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -70,7 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "last_message_id": "1415590014829576192",
     "shard": 43,
     "season": "2026",
     "season_type": "regular",
@@ -205,19 +204,19 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1415754417507991552",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1353194300996878336",
     "last_message_text_map": null,
-    "last_message_time": 1791865469228,
+    "last_message_time": 1791904665881,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -242,6 +241,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -12729,7 +12729,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "MIN",
+      "team": "CLE",
       "status": "Active",
       "injury_status": null,
       "years_exp": 2
@@ -16308,7 +16308,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "MIN",
+      "team": "CLE",
       "status": "Active",
       "injury_status": null,
       "years_exp": 2
@@ -20058,6 +20058,18 @@
       "years_exp": 3
     },
     {
+      "player_id": "12925",
+      "full_name": "Jamaal Pritchett",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "11633",
       "full_name": "Jamari Thrash",
       "position": "WR",
@@ -21282,7 +21294,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 537,
+  "waiver_wire_count": 538,
   "traded_picks": [
     {
       "round": 1,
