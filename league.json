@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:38:45.877Z",
+  "generated_at": "2026-10-13T16:38:13.769Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -12669,7 +12669,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
@@ -13257,7 +13257,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
@@ -16530,6 +16530,18 @@
       "years_exp": 3
     },
     {
+      "player_id": "12476",
+      "full_name": "Devin Neal",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "6130",
       "full_name": "Devin Singletary",
       "position": "RB",
@@ -16792,18 +16804,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 5
-    },
-    {
-      "player_id": "11569",
-      "full_name": "Jarquez Hunter",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
     },
     {
       "player_id": "11588",
@@ -18782,7 +18782,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 8
     },
     {
@@ -20094,18 +20094,6 @@
       "years_exp": 6
     },
     {
-      "player_id": "11056",
-      "full_name": "Jared Wayne",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "11911",
       "full_name": "Jeshaun Jones",
       "position": "WR",
@@ -21126,18 +21114,6 @@
       "years_exp": 5
     },
     {
-      "player_id": "6960",
-      "full_name": "Tyler Johnson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 6
-    },
-    {
       "player_id": "9490",
       "full_name": "Tyler Scott",
       "position": "WR",
@@ -21294,7 +21270,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 536,
   "traded_picks": [
     {
       "round": 1,
