@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:46:22.686Z",
+  "generated_at": "2026-10-13T07:40:32.093Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -1025,13 +1025,13 @@
         "wins": 4
       },
       "starters": [
-        "3257",
+        "11566",
         "8228",
         "6790",
         "5846",
         "8167",
         "11604",
-        "11577",
+        "4983",
         "11576",
         "12185",
         "MIN"
@@ -5893,13 +5893,13 @@
         "wins": 4
       },
       "starters": [
-        "3257",
+        "11566",
         "8228",
         "6790",
         "5846",
         "8167",
         "11604",
-        "11577",
+        "4983",
         "11576",
         "12185",
         "MIN"
@@ -5922,7 +5922,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -5952,7 +5952,7 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 2,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6087,7 +6087,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 10,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6102,7 +6102,7 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 8,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6274,16 +6274,16 @@
       ],
       "starter_details": [
         {
-          "player_id": "3257",
-          "full_name": "Jacoby Brissett",
+          "player_id": "11566",
+          "full_name": "Jayden Daniels",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "ARI",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 10
+          "years_exp": 2
         },
         {
           "player_id": "8228",
@@ -6346,16 +6346,16 @@
           "years_exp": 2
         },
         {
-          "player_id": "11577",
-          "full_name": "Will Shipley",
-          "position": "RB",
+          "player_id": "4983",
+          "full_name": "DJ Moore",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "PHI",
+          "team": "BUF",
           "status": "Active",
           "injury_status": "Out",
-          "years_exp": 2
+          "years_exp": 8
         },
         {
           "player_id": "11576",
@@ -6396,15 +6396,15 @@
       ],
       "bench_details": [
         {
-          "player_id": "11566",
-          "full_name": "Jayden Daniels",
-          "position": "QB",
+          "player_id": "11577",
+          "full_name": "Will Shipley",
+          "position": "RB",
           "fantasy_positions": [
-            "QB"
+            "RB"
           ],
-          "team": "WAS",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 2
         },
         {
@@ -6432,16 +6432,16 @@
           "years_exp": 11
         },
         {
-          "player_id": "4983",
-          "full_name": "DJ Moore",
-          "position": "WR",
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "position": "QB",
           "fantasy_positions": [
-            "WR"
+            "QB"
           ],
-          "team": "BUF",
+          "team": "ARI",
           "status": "Active",
-          "injury_status": "Out",
-          "years_exp": 8
+          "injury_status": null,
+          "years_exp": 10
         },
         {
           "player_id": "5850",
@@ -21989,13 +21989,13 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "3257",
+        "11566",
         "8228",
         "6790",
         "5846",
         "8167",
         "11604",
-        "11577",
+        "4983",
         "11576",
         "12185",
         "MIN"
