@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:36:56.146Z",
+  "generated_at": "2026-10-13T12:46:34.798Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -70,11 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "last_message_id": "1415590014829576192",
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 43,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,19 +204,24 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1415590014829576192",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1353194300996878336",
     "last_message_text_map": null,
     "last_message_time": 1791865469228,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -240,10 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -960,7 +960,7 @@
         "13298",
         "10232",
         "5001",
-        "7567",
+        "10229",
         "8126",
         "5189",
         "GB"
@@ -5171,7 +5171,7 @@
         "13298",
         "10232",
         "5001",
-        "7567",
+        "10229",
         "8126",
         "5189",
         "GB"
@@ -5209,7 +5209,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -5509,7 +5509,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -5618,16 +5618,16 @@
           "years_exp": 8
         },
         {
-          "player_id": "7567",
-          "full_name": "Kenny Gainwell",
-          "position": "RB",
+          "player_id": "10229",
+          "full_name": "Rashee Rice",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "TB",
+          "team": "KC",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 5
+          "injury_status": "Questionable",
+          "years_exp": 3
         },
         {
           "player_id": "8126",
@@ -5677,18 +5677,6 @@
           "team": "JAX",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 3
-        },
-        {
-          "player_id": "10229",
-          "full_name": "Rashee Rice",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "KC",
-          "status": "Active",
-          "injury_status": "Questionable",
           "years_exp": 3
         },
         {
@@ -5786,6 +5774,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
+        },
+        {
+          "player_id": "7567",
+          "full_name": "Kenny Gainwell",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "TB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 5
         }
       ],
       "taxi_details": [
@@ -21913,7 +21913,7 @@
         "13298",
         "10232",
         "5001",
-        "7567",
+        "10229",
         "8126",
         "5189",
         "GB"
