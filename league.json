@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:43:15.299Z",
+  "generated_at": "2026-10-13T14:41:17.622Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -70,10 +70,11 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
+    "last_message_id": "1415590014829576192",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,24 +205,19 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1415590014829576192",
-    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "draft_id": "1353194300996878336",
     "last_message_text_map": null,
     "last_message_time": 1791865469228,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -244,6 +240,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1250,13 +1250,13 @@
         "wins": 4
       },
       "starters": [
-        "12522",
-        "12495",
+        "9228",
+        "8132",
         "7588",
-        "12514",
+        "12526",
         "9487",
         "9484",
-        "6794",
+        "12514",
         "9493",
         "3451",
         "SEA"
@@ -8147,13 +8147,13 @@
         "wins": 4
       },
       "starters": [
-        "12522",
-        "12495",
+        "9228",
+        "8132",
         "7588",
-        "12514",
+        "12526",
         "9487",
         "9484",
-        "6794",
+        "12514",
         "9493",
         "3451",
         "SEA"
@@ -8266,7 +8266,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8296,7 +8296,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8311,7 +8311,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8416,7 +8416,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8446,7 +8446,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8491,7 +8491,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8558,28 +8558,28 @@
       ],
       "starter_details": [
         {
-          "player_id": "12522",
-          "full_name": "Cam Ward",
+          "player_id": "9228",
+          "full_name": "Bryce Young",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "TEN",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 1
+          "years_exp": 3
         },
         {
-          "player_id": "12495",
-          "full_name": "Ollie Gordon",
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "MIA",
+          "team": "ARI",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 1
+          "injury_status": null,
+          "years_exp": 4
         },
         {
           "player_id": "7588",
@@ -8594,13 +8594,13 @@
           "years_exp": 5
         },
         {
-          "player_id": "12514",
-          "full_name": "Emeka Egbuka",
+          "player_id": "12526",
+          "full_name": "Tetairoa McMillan",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "TB",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
           "years_exp": 1
@@ -8630,16 +8630,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "6794",
-          "full_name": "Justin Jefferson",
+          "player_id": "12514",
+          "full_name": "Emeka Egbuka",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "MIN",
+          "team": "TB",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 6
+          "years_exp": 1
         },
         {
           "player_id": "9493",
@@ -8728,13 +8728,25 @@
           "years_exp": 2
         },
         {
-          "player_id": "12526",
-          "full_name": "Tetairoa McMillan",
-          "position": "WR",
+          "player_id": "12495",
+          "full_name": "Ollie Gordon",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "CAR",
+          "team": "MIA",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "years_exp": 1
+        },
+        {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "TEN",
           "status": "Active",
           "injury_status": null,
           "years_exp": 1
@@ -8752,16 +8764,16 @@
           "years_exp": 8
         },
         {
-          "player_id": "8132",
-          "full_name": "Tyler Allgeier",
-          "position": "RB",
+          "player_id": "6794",
+          "full_name": "Justin Jefferson",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "ARI",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 4
+          "years_exp": 6
         },
         {
           "player_id": "8134",
@@ -8785,18 +8797,6 @@
           "team": "MIA",
           "status": "Inactive",
           "injury_status": "IR",
-          "years_exp": 3
-        },
-        {
-          "player_id": "9228",
-          "full_name": "Bryce Young",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": null,
           "years_exp": 3
         }
       ],
@@ -15378,6 +15378,18 @@
       "years_exp": 8
     },
     {
+      "player_id": "12538",
+      "full_name": "Brady Cook",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "6037",
       "full_name": "Brett Rypien",
       "position": "QB",
@@ -21270,7 +21282,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 536,
+  "waiver_wire_count": 537,
   "traded_picks": [
     {
       "round": 1,
@@ -22241,13 +22253,13 @@
       "custom_points": null,
       "matchup_id": 1,
       "starters": [
-        "12522",
-        "12495",
+        "9228",
+        "8132",
         "7588",
-        "12514",
+        "12526",
         "9487",
         "9484",
-        "6794",
+        "12514",
         "9493",
         "3451",
         "SEA"
