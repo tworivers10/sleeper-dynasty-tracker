@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:51:23.912Z",
+  "generated_at": "2026-10-14T14:49:12.752Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -6876,7 +6876,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "years_exp": 8,
           "starter": false,
           "taxi": false,
@@ -7198,7 +7198,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "years_exp": 8
         },
         {
@@ -10883,7 +10883,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "years_exp": 8
     },
     "4943": {
