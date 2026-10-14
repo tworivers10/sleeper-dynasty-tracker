@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:57:54.110Z",
+  "generated_at": "2026-10-14T19:47:26.951Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -892,7 +892,7 @@
         "10213",
         "9480",
         "5967",
-        "4199",
+        "11647",
         "650",
         "PHI"
       ],
@@ -4472,7 +4472,7 @@
         "10213",
         "9480",
         "5967",
-        "4199",
+        "11647",
         "650",
         "PHI"
       ],
@@ -4567,7 +4567,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -4702,7 +4702,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 9,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -4913,16 +4913,16 @@
           "years_exp": 7
         },
         {
-          "player_id": "4199",
-          "full_name": "Aaron Jones",
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "MIN",
+          "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 9
+          "injury_status": null,
+          "years_exp": 2
         },
         {
           "player_id": "650",
@@ -4963,18 +4963,6 @@
           "years_exp": 3
         },
         {
-          "player_id": "11647",
-          "full_name": "Kimani Vidal",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "LAC",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "12483",
           "full_name": "Jack Bech",
           "position": "WR",
@@ -5008,6 +4996,18 @@
           "team": "DEN",
           "status": "Active",
           "injury_status": null,
+          "years_exp": 9
+        },
+        {
+          "player_id": "4199",
+          "full_name": "Aaron Jones",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Questionable",
           "years_exp": 9
         },
         {
@@ -16902,6 +16902,18 @@
       "years_exp": 2
     },
     {
+      "player_id": "8143",
+      "full_name": "Jerome Ford",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "7087",
       "full_name": "Jonathan Ward",
       "position": "RB",
@@ -20922,6 +20934,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "11257",
+      "full_name": "Shedrick Jackson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
+    },
+    {
       "player_id": "7812",
       "full_name": "Simi Fehoko",
       "position": "WR",
@@ -21258,7 +21282,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 532,
+  "waiver_wire_count": 534,
   "traded_picks": [
     {
       "round": 1,
@@ -21821,7 +21845,7 @@
         "10213",
         "9480",
         "5967",
-        "4199",
+        "11647",
         "650",
         "PHI"
       ],
