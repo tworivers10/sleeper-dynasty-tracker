@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:47:55.354Z",
+  "generated_at": "2026-10-14T21:47:25.109Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -1672,7 +1672,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 13,
           "starter": true,
           "taxi": false,
@@ -1935,7 +1935,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 13
         },
         {
@@ -2369,7 +2369,7 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -2793,7 +2793,7 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "years_exp": 1
         },
         {
@@ -3209,7 +3209,7 @@
           ],
           "team": "DAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -3472,7 +3472,7 @@
           ],
           "team": "DAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6
         },
         {
@@ -3995,7 +3995,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 9,
           "starter": true,
           "taxi": false,
@@ -4159,7 +4159,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 9
         },
         {
@@ -9260,7 +9260,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3,
           "starter": true,
           "taxi": false,
@@ -9370,7 +9370,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3
         },
         {
@@ -9702,7 +9702,7 @@
           ],
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -9882,7 +9882,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": true,
           "taxi": false,
@@ -10058,7 +10058,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -10156,7 +10156,7 @@
           ],
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2
         },
         {
@@ -10391,7 +10391,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 13
     },
     "1689": {
@@ -10655,7 +10655,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 9
     },
     "4037": {
@@ -11231,7 +11231,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "6650": {
@@ -11279,7 +11279,7 @@
       ],
       "team": "DAL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "6790": {
@@ -12275,7 +12275,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     "9502": {
@@ -12611,7 +12611,7 @@
       ],
       "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     "11560": {
@@ -13691,7 +13691,7 @@
       ],
       "team": "NE",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     "12530": {
@@ -14100,7 +14100,7 @@
       ],
       "team": "ARI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13288": {
@@ -17966,7 +17966,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -19538,7 +19538,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     {
