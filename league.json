@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T15:53:53.896Z",
+  "generated_at": "2026-10-14T16:51:42.111Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
     "week": 6,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 6,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,10 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +200,12 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 43,
+    "sport": "nfl",
     "last_message_id": "1416089159285657600",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,10 +214,14 @@
     "last_message_text_map": null,
     "last_message_time": 1791984474539,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -6651,7 +6651,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -7150,7 +7150,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "years_exp": 2
         },
         {
@@ -12935,7 +12935,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "years_exp": 2
     },
     "11626": {
@@ -15174,18 +15174,6 @@
       "years_exp": 0
     },
     {
-      "player_id": "12015",
-      "full_name": "Harrison Mevis",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 2
-    },
-    {
       "player_id": "4195",
       "full_name": "Jake Elliott",
       "position": "K",
@@ -17394,18 +17382,6 @@
       "years_exp": 2
     },
     {
-      "player_id": "12826",
-      "full_name": "Ulysses Bentley",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "3309",
       "full_name": "Wendell Smallwood",
       "position": "RB",
@@ -17728,18 +17704,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
-    },
-    {
-      "player_id": "13834",
-      "full_name": "Cody Hardy",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
     },
     {
       "player_id": "6865",
@@ -18325,18 +18289,6 @@
         "TE"
       ],
       "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 6
-    },
-    {
-      "player_id": "7050",
-      "full_name": "Josiah Deguara",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PHI",
       "status": "Active",
       "injury_status": null,
       "years_exp": 6
@@ -19482,18 +19434,6 @@
       "years_exp": 9
     },
     {
-      "player_id": "3269",
-      "full_name": "Chris Moore",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 10
-    },
-    {
       "player_id": "13554",
       "full_name": "CJ Williams",
       "position": "WR",
@@ -19561,18 +19501,6 @@
         "WR"
       ],
       "team": "DEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 0
-    },
-    {
-      "player_id": "13861",
-      "full_name": "Daniel Sobkowicz",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "HOU",
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
@@ -20164,18 +20092,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 2
-    },
-    {
-      "player_id": "6957",
-      "full_name": "James Proche",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 6
     },
     {
       "player_id": "11056",
@@ -20982,18 +20898,6 @@
       "years_exp": 1
     },
     {
-      "player_id": "11421",
-      "full_name": "Ryan Miller",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "6290",
       "full_name": "Scotty Miller",
       "position": "WR",
@@ -21174,18 +21078,6 @@
       "years_exp": 8
     },
     {
-      "player_id": "9492",
-      "full_name": "Trey Palmer",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "8135",
       "full_name": "Treylon Burks",
       "position": "WR",
@@ -21342,18 +21234,6 @@
       "years_exp": 3
     },
     {
-      "player_id": "13042",
-      "full_name": "Xavier Guillory",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "12520",
       "full_name": "Xavier Restrepo",
       "position": "WR",
@@ -21378,7 +21258,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 542,
+  "waiver_wire_count": 532,
   "traded_picks": [
     {
       "round": 1,
@@ -22578,12 +22458,12 @@
       "adds": {
         "7042": 3
       },
-      "drops": {
-        "4981": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "4981": 3
+      },
       "roster_ids": [
         3
       ],
@@ -22603,12 +22483,12 @@
       "adds": {
         "IND": 7
       },
-      "drops": {
-        "3257": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "3257": 7
+      },
       "roster_ids": [
         7
       ],
@@ -22628,12 +22508,12 @@
       "adds": {
         "SF": 2
       },
-      "drops": {
-        "JAX": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "JAX": 2
+      },
       "roster_ids": [
         2
       ],
@@ -23235,12 +23115,12 @@
       "adds": {
         "12185": 7
       },
-      "drops": {
-        "2747": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "2747": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23265,12 +23145,12 @@
       "adds": {
         "11577": 7
       },
-      "drops": {
-        "4037": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "4037": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23295,10 +23175,10 @@
       "adds": {
         "13264": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23323,12 +23203,12 @@
       "adds": {
         "13264": 8
       },
-      "drops": {
-        "9508": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "9508": 8
+      },
       "roster_ids": [
         8
       ],
@@ -23353,12 +23233,12 @@
       "adds": {
         "4018": 1
       },
-      "drops": {
-        "11575": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "11575": 1
+      },
       "roster_ids": [
         1
       ],
@@ -23383,10 +23263,10 @@
       "adds": {
         "11577": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23406,12 +23286,12 @@
       "adds": {
         "1166": 8
       },
-      "drops": {
-        "12718": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12718": 8
+      },
       "roster_ids": [
         8
       ],
@@ -23431,12 +23311,12 @@
       "adds": {
         "2505": 7
       },
-      "drops": {
-        "9482": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "9482": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23456,12 +23336,12 @@
       "adds": {
         "ARI": 2
       },
-      "drops": {
-        "CAR": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "CAR": 2
+      },
       "roster_ids": [
         2
       ],
@@ -23481,12 +23361,12 @@
       "adds": {
         "9757": 10
       },
-      "drops": {
-        "11729": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "11729": 10
+      },
       "roster_ids": [
         10
       ],
@@ -23506,10 +23386,10 @@
       "adds": {
         "13277": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -23529,12 +23409,12 @@
       "adds": {
         "CHI": 11
       },
-      "drops": {
-        "CIN": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "CIN": 11
+      },
       "roster_ids": [
         11
       ],
