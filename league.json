@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:47:25.109Z",
+  "generated_at": "2026-10-14T22:45:22.701Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -3149,7 +3149,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -3692,7 +3692,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -11603,7 +11603,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     "7588": {
@@ -12681,7 +12681,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
@@ -14328,7 +14328,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13347": {
@@ -16866,6 +16866,18 @@
       "years_exp": 5
     },
     {
+      "player_id": "11569",
+      "full_name": "Jarquez Hunter",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "11588",
       "full_name": "Jawhar Jordan",
       "position": "RB",
@@ -18494,7 +18506,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     {
@@ -20370,6 +20382,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "8200",
+      "full_name": "Kevin Austin",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "6866",
       "full_name": "KJ Hill",
       "position": "WR",
@@ -20882,7 +20906,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     {
@@ -21282,7 +21306,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 534,
+  "waiver_wire_count": 536,
   "traded_picks": [
     {
       "round": 1,
