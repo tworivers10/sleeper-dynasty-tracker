@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:47:21.196Z",
+  "generated_at": "2026-10-15T07:03:02.113Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -208,17 +208,15 @@
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
-    "draft_id": "1353194300996878336",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1791984474539,
+    "draft_id": "1353194300996878336",
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "group_id": null,
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -241,6 +239,8 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
     "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
