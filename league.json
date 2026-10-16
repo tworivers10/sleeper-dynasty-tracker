@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:46:02.067Z",
+  "generated_at": "2026-10-16T22:46:22.452Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -4061,7 +4061,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7,
           "starter": false,
           "taxi": false,
@@ -4368,7 +4368,7 @@
           ],
           "team": "BUF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7
         },
         {
@@ -4847,7 +4847,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 4,
           "starter": false,
           "taxi": false,
@@ -5118,7 +5118,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 4
         },
         {
@@ -11306,7 +11306,7 @@
       ],
       "team": "BUF",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "6083": {
@@ -11942,7 +11942,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     "8137": {
@@ -12122,7 +12122,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     "8183": {
@@ -20141,7 +20141,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     {
