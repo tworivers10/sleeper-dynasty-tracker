@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:53:58.132Z",
+  "generated_at": "2026-10-16T19:43:47.453Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -1555,7 +1555,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -1765,7 +1765,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6,
           "starter": false,
           "taxi": false,
@@ -2048,7 +2048,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "years_exp": 1
         },
         {
@@ -2108,7 +2108,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6
         },
         {
@@ -3866,7 +3866,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -4344,7 +4344,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 1
         },
         {
@@ -5339,7 +5339,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2,
           "starter": true,
           "taxi": false,
@@ -5713,7 +5713,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2
         },
         {
@@ -6187,7 +6187,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 7,
           "starter": true,
           "taxi": false,
@@ -6405,7 +6405,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 7
         },
         {
@@ -10089,7 +10089,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -10351,7 +10351,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3
         }
       ],
@@ -11162,7 +11162,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 7
     },
     "5849": {
@@ -11546,7 +11546,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "7042": {
@@ -12482,7 +12482,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     "9756": {
@@ -13130,7 +13130,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     "11637": {
@@ -13646,7 +13646,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "years_exp": 1
     },
     "12510": {
@@ -13851,7 +13851,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 1
     },
     "12535": {
