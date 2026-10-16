@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:57:15.463Z",
+  "generated_at": "2026-10-16T01:45:32.635Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -70,7 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "last_message_id": "1416611050245103616",
     "shard": 43,
     "season": "2026",
     "season_type": "regular",
@@ -205,21 +204,19 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1416632279853215744",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792108903041,
+    "last_message_time": 1792113964574,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -242,6 +239,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -1068,7 +1068,6 @@
         "13285",
         "13414",
         "13417",
-        "13968",
         "2216",
         "3198",
         "421",
@@ -1076,6 +1075,7 @@
         "4993",
         "5045",
         "5892",
+        "6083",
         "7049",
         "7594",
         "8137",
@@ -1109,9 +1109,9 @@
         "2216",
         "8137",
         "12517",
-        "5892",
-        "13264",
-        "13968",
+        "7594",
+        "13285",
+        "6083",
         "DEN"
       ],
       "taxi": [
@@ -6677,7 +6677,6 @@
         "13285",
         "13414",
         "13417",
-        "13968",
         "2216",
         "3198",
         "421",
@@ -6685,6 +6684,7 @@
         "4993",
         "5045",
         "5892",
+        "6083",
         "7049",
         "7594",
         "8137",
@@ -6718,9 +6718,9 @@
         "2216",
         "8137",
         "12517",
-        "5892",
-        "13264",
-        "13968",
+        "7594",
+        "13285",
+        "6083",
         "DEN"
       ],
       "taxi": [
@@ -6830,7 +6830,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6860,7 +6860,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6893,21 +6893,6 @@
           "starter": false,
           "taxi": false,
           "reserve": true
-        },
-        {
-          "player_id": "13968",
-          "full_name": "Drew Stevens",
-          "position": "K",
-          "fantasy_positions": [
-            "K"
-          ],
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 0,
-          "starter": true,
-          "taxi": false,
-          "reserve": false
         },
         {
           "player_id": "2216",
@@ -7010,6 +6995,21 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 7,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "6083",
+          "full_name": "Matt Gay",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "LV",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 7,
           "starter": true,
           "taxi": false,
           "reserve": false
@@ -7040,7 +7040,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -7179,40 +7179,40 @@
           "years_exp": 1
         },
         {
-          "player_id": "5892",
-          "full_name": "David Montgomery",
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "HOU",
+          "team": "CAR",
           "status": "Active",
-          "injury_status": "Out",
-          "years_exp": 7
+          "injury_status": null,
+          "years_exp": 5
         },
         {
-          "player_id": "13264",
-          "full_name": "Dohnte Meyers",
+          "player_id": "13285",
+          "full_name": "Malachi Fields",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "CIN",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
           "years_exp": 0
         },
         {
-          "player_id": "13968",
-          "full_name": "Drew Stevens",
+          "player_id": "6083",
+          "full_name": "Matt Gay",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "WAS",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 0
+          "years_exp": 7
         },
         {
           "player_id": "DEN",
@@ -7265,13 +7265,13 @@
           "years_exp": 1
         },
         {
-          "player_id": "13285",
-          "full_name": "Malachi Fields",
+          "player_id": "13264",
+          "full_name": "Dohnte Meyers",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NYG",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
           "years_exp": 0
@@ -7313,6 +7313,18 @@
           "years_exp": 8
         },
         {
+          "player_id": "5892",
+          "full_name": "David Montgomery",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": "Out",
+          "years_exp": 7
+        },
+        {
           "player_id": "7049",
           "full_name": "Jauan Jennings",
           "position": "WR",
@@ -7323,18 +7335,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
-        },
-        {
-          "player_id": "7594",
-          "full_name": "Chuba Hubbard",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 5
         },
         {
           "player_id": "8676",
@@ -9924,7 +9924,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Doubtful",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -10327,7 +10327,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Doubtful",
           "years_exp": 1
         },
         {
@@ -11307,6 +11307,18 @@
       "team": "BUF",
       "status": "Active",
       "injury_status": "Questionable",
+      "years_exp": 7
+    },
+    "6083": {
+      "player_id": "6083",
+      "full_name": "Matt Gay",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
       "years_exp": 7
     },
     "6130": {
@@ -13730,7 +13742,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Doubtful",
       "years_exp": 1
     },
     "12522": {
@@ -15261,6 +15273,18 @@
       "years_exp": 0
     },
     {
+      "player_id": "13968",
+      "full_name": "Drew Stevens",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "4195",
       "full_name": "Jake Elliott",
       "position": "K",
@@ -15331,18 +15355,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 4
-    },
-    {
-      "player_id": "6083",
-      "full_name": "Matt Gay",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 7
     },
     {
       "player_id": "7922",
@@ -17465,7 +17477,7 @@
       ],
       "team": "DEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     {
@@ -21853,7 +21865,7 @@
       }
     },
     {
-      "points": 1.8,
+      "points": 3.5,
       "players": [
         "10859",
         "11581",
@@ -21900,7 +21912,7 @@
         0,
         0,
         0,
-        1.8,
+        3.5,
         0,
         0,
         0,
@@ -21918,7 +21930,7 @@
         "6039": 0,
         "6770": 0,
         "6819": 0,
-        "7526": 1.8,
+        "7526": 3.5,
         "8111": 0,
         "8172": 0,
         "8210": 0,
@@ -21993,7 +22005,7 @@
       "players_points": {
         "96": 0,
         "650": 0,
-        "4066": 1.9,
+        "4066": 3.3,
         "4199": 0,
         "4227": 0,
         "5967": 0,
@@ -22017,7 +22029,7 @@
       }
     },
     {
-      "points": 7.4,
+      "points": 16.2,
       "players": [
         "10219",
         "10229",
@@ -22061,8 +22073,8 @@
       ],
       "starters_points": [
         0,
-        6.1,
-        1.3,
+        13.2,
+        3,
         0,
         0,
         0,
@@ -22073,8 +22085,8 @@
       ],
       "players_points": {
         "3321": 0,
-        "4039": 1.8,
-        "4943": 1.08,
+        "4039": 7.3,
+        "4943": 2.08,
         "5001": 0,
         "5189": 0,
         "6804": 0,
@@ -22083,10 +22095,10 @@
         "10219": 0,
         "10229": 0,
         "10232": 0,
-        "11435": 1.3,
+        "11435": 3,
         "11635": 0,
         "11783": 0,
-        "12489": 6.1,
+        "12489": 13.2,
         "12498": 0,
         "12542": 0,
         "12547": 0,
@@ -22181,7 +22193,7 @@
       }
     },
     {
-      "points": 11,
+      "points": 15,
       "players": [
         "11625",
         "1166",
@@ -22194,7 +22206,6 @@
         "13285",
         "13414",
         "13417",
-        "13968",
         "2216",
         "3198",
         "421",
@@ -22202,6 +22213,7 @@
         "4993",
         "5045",
         "5892",
+        "6083",
         "7049",
         "7594",
         "8137",
@@ -22220,8 +22232,8 @@
         "8137",
         "12517",
         "7594",
-        "12533",
-        "13968",
+        "13285",
+        "6083",
         "DEN"
       ],
       "starters_points": [
@@ -22234,7 +22246,7 @@
         0,
         0,
         0,
-        11
+        15
       ],
       "players_points": {
         "421": 0,
@@ -22245,10 +22257,11 @@
         "4993": 0,
         "5045": 1.9,
         "5892": 0,
+        "6083": 0,
         "7049": 0,
         "7594": 0,
         "8137": 0,
-        "8676": 1.8,
+        "8676": 0,
         "9509": 0,
         "11625": 0,
         "12484": 0,
@@ -22260,8 +22273,7 @@
         "13285": 0,
         "13414": 0,
         "13417": 0,
-        "13968": 0,
-        "DEN": 11
+        "DEN": 15
       }
     },
     {
@@ -22349,7 +22361,7 @@
       }
     },
     {
-      "points": 8,
+      "points": 4,
       "players": [
         "10236",
         "11565",
@@ -22403,7 +22415,7 @@
         0,
         0,
         0,
-        8
+        4
       ],
       "players_points": {
         "3451": 0,
@@ -22431,11 +22443,11 @@
         "13305": 0,
         "13337": 0,
         "13413": 0,
-        "SEA": 8
+        "SEA": 4
       }
     },
     {
-      "points": 7.6,
+      "points": 9.5,
       "players": [
         "11533",
         "11563",
@@ -22480,7 +22492,7 @@
       "starters_points": [
         0,
         0,
-        7.6,
+        9.5,
         0,
         0,
         0,
@@ -22496,7 +22508,7 @@
         "4984": 0,
         "5844": 0,
         "5872": 0,
-        "6806": 7.6,
+        "6806": 9.5,
         "7002": 0,
         "7543": 0,
         "8142": 0,
@@ -22504,7 +22516,7 @@
         "9500": 0,
         "9997": 0,
         "11533": 0,
-        "11563": 2.36,
+        "11563": 3.12,
         "11628": 0,
         "12493": 0,
         "12519": 0,
@@ -22598,6 +22610,52 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792113964544,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "856424496159113216",
+      "transaction_id": "1416632279731625984",
+      "adds": {
+        "6083": 8
+      },
+      "consenter_ids": [
+        8
+      ],
+      "drops": null,
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1792113964544,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792113959356,
+      "settings": null,
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "856424496159113216",
+      "transaction_id": "1416632257967345664",
+      "adds": null,
+      "consenter_ids": [
+        8
+      ],
+      "drops": {
+        "13968": 8
+      },
+      "roster_ids": [
+        8
+      ],
+      "status_updated": 1792113959356,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
