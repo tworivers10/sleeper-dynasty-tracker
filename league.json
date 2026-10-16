@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:47:48.588Z",
+  "generated_at": "2026-10-16T21:46:02.067Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -70,10 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,7 +205,6 @@
       "st_ff": 1
     },
     "last_message_id": "1416632279853215744",
-    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -215,6 +214,7 @@
     "last_message_time": 1792113964574,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1353194300996878336",
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "roster_positions": [
@@ -593,7 +593,7 @@
         "11624",
         "8130",
         "3271",
-        "4866",
+        "8129",
         "8259",
         "CLE"
       ],
@@ -1490,7 +1490,7 @@
         "11624",
         "8130",
         "3271",
-        "4866",
+        "8129",
         "8259",
         "CLE"
       ],
@@ -1722,7 +1722,7 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 8,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -1812,7 +1812,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -1978,16 +1978,16 @@
           "years_exp": 10
         },
         {
-          "player_id": "4866",
-          "full_name": "Saquon Barkley",
+          "player_id": "8129",
+          "full_name": "Dameon Pierce",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Out",
-          "years_exp": 8
+          "injury_status": null,
+          "years_exp": 4
         },
         {
           "player_id": "8259",
@@ -2088,6 +2088,18 @@
           "years_exp": 1
         },
         {
+          "player_id": "4866",
+          "full_name": "Saquon Barkley",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": "Out",
+          "years_exp": 8
+        },
+        {
           "player_id": "5849",
           "full_name": "Kyler Murray",
           "position": "QB",
@@ -2122,18 +2134,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5
-        },
-        {
-          "player_id": "8129",
-          "full_name": "Dameon Pierce",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4
         }
       ],
       "taxi_details": [
@@ -11510,7 +11510,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "6904": {
@@ -12938,7 +12938,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 2
     },
     "11600": {
@@ -17837,7 +17837,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     {
@@ -17933,7 +17933,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     {
@@ -17945,7 +17945,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     {
@@ -18029,7 +18029,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     {
@@ -18977,7 +18977,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 2
     },
     {
@@ -19745,7 +19745,7 @@
       ],
       "team": "ARI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     {
@@ -20729,7 +20729,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     {
@@ -21089,7 +21089,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "years_exp": 4
     },
     {
@@ -21627,7 +21627,7 @@
         "11624",
         "8130",
         "3271",
-        "4866",
+        "8129",
         "8259",
         "CLE"
       ],
@@ -23982,12 +23982,12 @@
       "adds": {
         "12487": 3
       },
-      "drops": {
-        "12502": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12502": 3
+      },
       "roster_ids": [
         3
       ],
@@ -24012,12 +24012,12 @@
       "adds": {
         "11435": 6
       },
-      "drops": {
-        "6865": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "6865": 6
+      },
       "roster_ids": [
         6
       ],
@@ -24037,12 +24037,12 @@
       "adds": {
         "7571": 1
       },
-      "drops": {
-        "4177": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "4177": 1
+      },
       "roster_ids": [
         1
       ],
@@ -24062,10 +24062,10 @@
       "adds": {
         "4993": 8
       },
-      "drops": null,
       "consenter_ids": [
         8
       ],
+      "drops": null,
       "roster_ids": [
         8
       ],
@@ -24085,12 +24085,12 @@
       "adds": {
         "4454": 8
       },
-      "drops": {
-        "12485": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12485": 8
+      },
       "roster_ids": [
         8
       ],
@@ -24110,10 +24110,10 @@
       "adds": {
         "6130": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -24138,12 +24138,12 @@
       "adds": {
         "GB": 6
       },
-      "drops": {
-        "MIN": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "MIN": 6
+      },
       "roster_ids": [
         6
       ],
@@ -24163,12 +24163,12 @@
       "adds": {
         "11729": 10
       },
-      "drops": {
-        "11237": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "11237": 10
+      },
       "roster_ids": [
         10
       ],
@@ -24188,12 +24188,12 @@
       "adds": {
         "13545": 11
       },
-      "drops": {
-        "12487": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "12487": 11
+      },
       "roster_ids": [
         11
       ],
@@ -24213,12 +24213,12 @@
       "adds": {
         "12493": 11
       },
-      "drops": {
-        "9506": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "9506": 11
+      },
       "roster_ids": [
         11
       ],
@@ -24238,12 +24238,12 @@
       "adds": {
         "NE": 11
       },
-      "drops": {
-        "DET": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "DET": 11
+      },
       "roster_ids": [
         11
       ],
@@ -24263,10 +24263,10 @@
       "adds": {
         "4177": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -24286,12 +24286,12 @@
       "adds": {
         "SF": 1
       },
-      "drops": {
-        "GB": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "GB": 1
+      },
       "roster_ids": [
         1
       ],
