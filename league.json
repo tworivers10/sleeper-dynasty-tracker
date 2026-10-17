@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:45:55.883Z",
+  "generated_at": "2026-10-17T19:38:49.529Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -2522,7 +2522,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7,
           "starter": true,
           "taxi": false,
@@ -2758,7 +2758,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 7
         },
         {
@@ -4847,7 +4847,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 4,
           "starter": false,
           "taxi": false,
@@ -5118,7 +5118,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 4
         },
         {
@@ -8306,7 +8306,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -8799,7 +8799,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "years_exp": 2
         },
         {
@@ -10946,7 +10946,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 9
     },
     "4866": {
@@ -11246,7 +11246,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 7
     },
     "5947": {
@@ -11942,7 +11942,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     "8137": {
@@ -13094,7 +13094,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "years_exp": 2
     },
     "11631": {
@@ -16421,7 +16421,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 9
     },
     {
@@ -21233,7 +21233,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     {
