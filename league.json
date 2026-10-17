@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T20:42:47.759Z",
+  "generated_at": "2026-10-17T21:42:55.624Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
     "week": 6,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 6,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -217,6 +217,11 @@
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,11 +244,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -2539,7 +2539,7 @@
             "QB"
           ],
           "team": "PHI",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 6,
           "starter": false,
@@ -2967,7 +2967,7 @@
             "QB"
           ],
           "team": "PHI",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 6
         }
@@ -9998,7 +9998,7 @@
             "WR"
           ],
           "team": "BAL",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
@@ -10338,7 +10338,7 @@
             "WR"
           ],
           "team": "BAL",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 0
         },
@@ -11521,7 +11521,7 @@
         "QB"
       ],
       "team": "PHI",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "years_exp": 6
     },
@@ -14246,7 +14246,7 @@
         "WR"
       ],
       "team": "BAL",
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "Questionable",
       "years_exp": 0
     },
@@ -21045,6 +21045,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "12482",
+      "full_name": "Savion Williams",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 1
+    },
+    {
       "player_id": "6290",
       "full_name": "Scotty Miller",
       "position": "WR",
@@ -21405,7 +21417,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 535,
+  "waiver_wire_count": 536,
   "traded_picks": [
     {
       "round": 1,
@@ -22611,12 +22623,12 @@
       "creator": "832502005837729792",
       "transaction_id": "1417280549336125440",
       "adds": null,
-      "drops": {
-        "11603": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "11603": 1
+      },
       "roster_ids": [
         1
       ],
@@ -22636,10 +22648,10 @@
       "adds": {
         "4147": 2
       },
-      "drops": null,
       "consenter_ids": [
         2
       ],
+      "drops": null,
       "roster_ids": [
         2
       ],
@@ -22659,10 +22671,10 @@
       "adds": {
         "6083": 8
       },
-      "drops": null,
       "consenter_ids": [
         8
       ],
+      "drops": null,
       "roster_ids": [
         8
       ],
@@ -22680,12 +22692,12 @@
       "creator": "856424496159113216",
       "transaction_id": "1416632257967345664",
       "adds": null,
-      "drops": {
-        "13968": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "13968": 8
+      },
       "roster_ids": [
         8
       ],
@@ -22705,10 +22717,10 @@
       "adds": {
         "4037": 4
       },
-      "drops": null,
       "consenter_ids": [
         4
       ],
+      "drops": null,
       "roster_ids": [
         4
       ],
@@ -22728,10 +22740,10 @@
       "adds": {
         "4017": 4
       },
-      "drops": null,
       "consenter_ids": [
         4
       ],
+      "drops": null,
       "roster_ids": [
         4
       ],
@@ -22751,10 +22763,10 @@
       "adds": {
         "CAR": 4
       },
-      "drops": null,
       "consenter_ids": [
         4
       ],
+      "drops": null,
       "roster_ids": [
         4
       ],
@@ -22774,12 +22786,12 @@
       "adds": {
         "2306": 2
       },
-      "drops": {
-        "4147": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "4147": 2
+      },
       "roster_ids": [
         2
       ],
@@ -22799,12 +22811,12 @@
       "adds": {
         "7042": 3
       },
-      "drops": {
-        "4981": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "4981": 3
+      },
       "roster_ids": [
         3
       ],
@@ -22824,12 +22836,12 @@
       "adds": {
         "IND": 7
       },
-      "drops": {
-        "3257": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "3257": 7
+      },
       "roster_ids": [
         7
       ],
@@ -22849,12 +22861,12 @@
       "adds": {
         "SF": 2
       },
-      "drops": {
-        "JAX": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "JAX": 2
+      },
       "roster_ids": [
         2
       ],
