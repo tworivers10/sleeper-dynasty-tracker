@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:46:11.547Z",
+  "generated_at": "2026-10-19T23:45:39.681Z",
   "league_id": "1353194300984262656",
   "current_week": 6,
   "nfl_state": {
@@ -6903,7 +6903,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 12,
           "starter": true,
           "taxi": false,
@@ -7151,7 +7151,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 12
         },
         {
@@ -9197,7 +9197,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 11,
           "starter": false,
           "taxi": false,
@@ -9591,7 +9591,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 11
         },
         {
@@ -9924,7 +9924,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 1,
           "starter": false,
           "taxi": false,
@@ -10303,7 +10303,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "years_exp": 1
         },
         {
@@ -10538,7 +10538,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 12
     },
     "2306": {
@@ -10562,7 +10562,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 11
     },
     "2505": {
@@ -13754,7 +13754,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "years_exp": 1
     },
     "12522": {
@@ -15917,7 +15917,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     {
