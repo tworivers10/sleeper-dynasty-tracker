@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T20:50:04.621Z",
+  "generated_at": "2026-10-21T21:50:23.694Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
     "week": 7,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 7,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,10 +70,6 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "shard": 43,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,7 +200,12 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 43,
     "last_message_id": "1418640728476729344",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -213,15 +214,11 @@
     "last_message_text_map": null,
     "last_message_time": 1792592816041,
     "last_pinned_message_id": null,
-    "draft_id": "1353194300996878336",
     "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -244,6 +241,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1747,7 +1747,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6,
           "starter": false,
           "taxi": false,
@@ -1815,7 +1815,7 @@
         },
         {
           "player_id": "8151",
-          "full_name": "Kenneth Walker",
+          "full_name": "Kenneth Walker III",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -1901,7 +1901,7 @@
         },
         {
           "player_id": "8151",
-          "full_name": "Kenneth Walker",
+          "full_name": "Kenneth Walker III",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -2102,7 +2102,7 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6
         },
         {
@@ -2292,7 +2292,7 @@
         },
         {
           "player_id": "11655",
-          "full_name": "Tyrone Tracy",
+          "full_name": "Tyrone Tracy Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -2397,7 +2397,7 @@
         },
         {
           "player_id": "13338",
-          "full_name": "Kevin Coleman",
+          "full_name": "Kevin Coleman Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -2776,7 +2776,7 @@
       "bench_details": [
         {
           "player_id": "11655",
-          "full_name": "Tyrone Tracy",
+          "full_name": "Tyrone Tracy Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -2922,7 +2922,7 @@
         },
         {
           "player_id": "13338",
-          "full_name": "Kevin Coleman",
+          "full_name": "Kevin Coleman Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -3114,7 +3114,7 @@
         },
         {
           "player_id": "12506",
-          "full_name": "Harold Fannin",
+          "full_name": "Harold Fannin Jr.",
           "position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3279,7 +3279,7 @@
         },
         {
           "player_id": "8138",
-          "full_name": "James Cook",
+          "full_name": "James Cook III",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3565,7 +3565,7 @@
         },
         {
           "player_id": "12506",
-          "full_name": "Harold Fannin",
+          "full_name": "Harold Fannin Jr.",
           "position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3613,7 +3613,7 @@
         },
         {
           "player_id": "8138",
-          "full_name": "James Cook",
+          "full_name": "James Cook III",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3917,7 +3917,7 @@
         },
         {
           "player_id": "13276",
-          "full_name": "Omar Cooper",
+          "full_name": "Omar Cooper Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4022,7 +4022,7 @@
         },
         {
           "player_id": "4037",
-          "full_name": "Chris Godwin",
+          "full_name": "Chris Godwin Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4082,7 +4082,7 @@
         },
         {
           "player_id": "6819",
-          "full_name": "Michael Pittman",
+          "full_name": "Michael Pittman Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4237,7 +4237,7 @@
         },
         {
           "player_id": "4037",
-          "full_name": "Chris Godwin",
+          "full_name": "Chris Godwin Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4335,7 +4335,7 @@
         },
         {
           "player_id": "13276",
-          "full_name": "Omar Cooper",
+          "full_name": "Omar Cooper Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4407,7 +4407,7 @@
         },
         {
           "player_id": "6819",
-          "full_name": "Michael Pittman",
+          "full_name": "Michael Pittman Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -4778,7 +4778,7 @@
         },
         {
           "player_id": "4199",
-          "full_name": "Aaron Jones",
+          "full_name": "Aaron Jones Sr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4999,7 +4999,7 @@
         },
         {
           "player_id": "4199",
-          "full_name": "Aaron Jones",
+          "full_name": "Aaron Jones Sr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5270,7 +5270,7 @@
       "player_details": [
         {
           "player_id": "10219",
-          "full_name": "Chris Rodriguez",
+          "full_name": "Chris Rodriguez Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5390,7 +5390,7 @@
         },
         {
           "player_id": "12542",
-          "full_name": "Efton Chism",
+          "full_name": "Efton Chism III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -5450,7 +5450,7 @@
         },
         {
           "player_id": "13298",
-          "full_name": "KC Concepcion",
+          "full_name": "KC Concepcion Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -5465,7 +5465,7 @@
         },
         {
           "player_id": "13317",
-          "full_name": "Ted Hurst",
+          "full_name": "Ted Hurst III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -5547,7 +5547,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8,
           "starter": true,
           "taxi": false,
@@ -5668,7 +5668,7 @@
         },
         {
           "player_id": "13298",
-          "full_name": "KC Concepcion",
+          "full_name": "KC Concepcion Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -5699,7 +5699,7 @@
           ],
           "team": "HOU",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8
         },
         {
@@ -5754,7 +5754,7 @@
       "bench_details": [
         {
           "player_id": "10219",
-          "full_name": "Chris Rodriguez",
+          "full_name": "Chris Rodriguez Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5814,7 +5814,7 @@
         },
         {
           "player_id": "12542",
-          "full_name": "Efton Chism",
+          "full_name": "Efton Chism III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -5900,7 +5900,7 @@
         },
         {
           "player_id": "13317",
-          "full_name": "Ted Hurst",
+          "full_name": "Ted Hurst III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -6118,7 +6118,7 @@
         },
         {
           "player_id": "13353",
-          "full_name": "Chris Brazzell",
+          "full_name": "Chris Brazzell II",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -6305,7 +6305,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -6585,7 +6585,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 3
         },
         {
@@ -6640,7 +6640,7 @@
         },
         {
           "player_id": "13353",
-          "full_name": "Chris Brazzell",
+          "full_name": "Chris Brazzell II",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -7489,7 +7489,7 @@
       "player_details": [
         {
           "player_id": "11631",
-          "full_name": "Brian Thomas",
+          "full_name": "Brian Thomas Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -7989,7 +7989,7 @@
       "bench_details": [
         {
           "player_id": "11631",
-          "full_name": "Brian Thomas",
+          "full_name": "Brian Thomas Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -8342,7 +8342,7 @@
         },
         {
           "player_id": "12495",
-          "full_name": "Ollie Gordon",
+          "full_name": "Ollie Gordon II",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8417,7 +8417,7 @@
         },
         {
           "player_id": "13305",
-          "full_name": "Mike Washington",
+          "full_name": "Mike Washington Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8499,7 +8499,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -8656,7 +8656,7 @@
         },
         {
           "player_id": "12495",
-          "full_name": "Ollie Gordon",
+          "full_name": "Ollie Gordon II",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8699,7 +8699,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6
         },
         {
@@ -8900,7 +8900,7 @@
         },
         {
           "player_id": "13305",
-          "full_name": "Mike Washington",
+          "full_name": "Mike Washington Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9068,7 +9068,7 @@
         },
         {
           "player_id": "11628",
-          "full_name": "Marvin Harrison",
+          "full_name": "Marvin Harrison Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9098,7 +9098,7 @@
         },
         {
           "player_id": "12519",
-          "full_name": "Luther Burden",
+          "full_name": "Luther Burden III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9248,7 +9248,7 @@
         },
         {
           "player_id": "5872",
-          "full_name": "Deebo Samuel",
+          "full_name": "Deebo Samuel Sr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9293,7 +9293,7 @@
         },
         {
           "player_id": "7543",
-          "full_name": "Travis Etienne",
+          "full_name": "Travis Etienne Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9448,7 +9448,7 @@
         },
         {
           "player_id": "12519",
-          "full_name": "Luther Burden",
+          "full_name": "Luther Burden III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9522,7 +9522,7 @@
       "bench_details": [
         {
           "player_id": "11628",
-          "full_name": "Marvin Harrison",
+          "full_name": "Marvin Harrison Jr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9606,7 +9606,7 @@
         },
         {
           "player_id": "5872",
-          "full_name": "Deebo Samuel",
+          "full_name": "Deebo Samuel Sr.",
           "position": "WR",
           "fantasy_positions": [
             "WR"
@@ -9618,7 +9618,7 @@
         },
         {
           "player_id": "7543",
-          "full_name": "Travis Etienne",
+          "full_name": "Travis Etienne Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9780,7 +9780,7 @@
         },
         {
           "player_id": "11559",
-          "full_name": "Michael Penix",
+          "full_name": "Michael Penix Jr.",
           "position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10050,7 +10050,7 @@
         },
         {
           "player_id": "7553",
-          "full_name": "Kyle Pitts",
+          "full_name": "Kyle Pitts Sr.",
           "position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10172,7 +10172,7 @@
         },
         {
           "player_id": "7553",
-          "full_name": "Kyle Pitts",
+          "full_name": "Kyle Pitts Sr.",
           "position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10234,7 +10234,7 @@
       "bench_details": [
         {
           "player_id": "11559",
-          "full_name": "Michael Penix",
+          "full_name": "Michael Penix Jr.",
           "position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10757,7 +10757,7 @@
     },
     "4037": {
       "player_id": "4037",
-      "full_name": "Chris Godwin",
+      "full_name": "Chris Godwin Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -10865,7 +10865,7 @@
     },
     "4199": {
       "player_id": "4199",
-      "full_name": "Aaron Jones",
+      "full_name": "Aaron Jones Sr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -11076,7 +11076,7 @@
       ],
       "team": "HOU",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     "5012": {
@@ -11213,7 +11213,7 @@
     },
     "5872": {
       "player_id": "5872",
-      "full_name": "Deebo Samuel",
+      "full_name": "Deebo Samuel Sr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -11412,7 +11412,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "6797": {
@@ -11489,7 +11489,7 @@
     },
     "6819": {
       "player_id": "6819",
-      "full_name": "Michael Pittman",
+      "full_name": "Michael Pittman Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -11544,7 +11544,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "7042": {
@@ -11633,7 +11633,7 @@
     },
     "7543": {
       "player_id": "7543",
-      "full_name": "Travis Etienne",
+      "full_name": "Travis Etienne Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -11657,7 +11657,7 @@
     },
     "7553": {
       "player_id": "7553",
-      "full_name": "Kyle Pitts",
+      "full_name": "Kyle Pitts Sr.",
       "position": "TE",
       "fantasy_positions": [
         "TE"
@@ -11969,7 +11969,7 @@
     },
     "8138": {
       "player_id": "8138",
-      "full_name": "James Cook",
+      "full_name": "James Cook III",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -12017,7 +12017,7 @@
     },
     "8147": {
       "player_id": "8147",
-      "full_name": "John Metchie",
+      "full_name": "John Metchie III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -12053,7 +12053,7 @@
     },
     "8151": {
       "player_id": "8151",
-      "full_name": "Kenneth Walker",
+      "full_name": "Kenneth Walker III",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -12065,7 +12065,7 @@
     },
     "8154": {
       "player_id": "8154",
-      "full_name": "Brian Robinson",
+      "full_name": "Brian Robinson Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -12293,7 +12293,7 @@
     },
     "9229": {
       "player_id": "9229",
-      "full_name": "Anthony Richardson",
+      "full_name": "Anthony Richardson Sr.",
       "position": "QB",
       "fantasy_positions": [
         "QB"
@@ -12528,7 +12528,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     "9757": {
@@ -12593,7 +12593,7 @@
     },
     "10219": {
       "player_id": "10219",
-      "full_name": "Chris Rodriguez",
+      "full_name": "Chris Rodriguez Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -12761,7 +12761,7 @@
     },
     "11559": {
       "player_id": "11559",
-      "full_name": "Michael Penix",
+      "full_name": "Michael Penix Jr.",
       "position": "QB",
       "fantasy_positions": [
         "QB"
@@ -13121,7 +13121,7 @@
     },
     "11628": {
       "player_id": "11628",
-      "full_name": "Marvin Harrison",
+      "full_name": "Marvin Harrison Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -13145,7 +13145,7 @@
     },
     "11631": {
       "player_id": "11631",
-      "full_name": "Brian Thomas",
+      "full_name": "Brian Thomas Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -13212,7 +13212,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     "11646": {
@@ -13241,7 +13241,7 @@
     },
     "11655": {
       "player_id": "11655",
-      "full_name": "Tyrone Tracy",
+      "full_name": "Tyrone Tracy Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -13541,7 +13541,7 @@
     },
     "12495": {
       "player_id": "12495",
-      "full_name": "Ollie Gordon",
+      "full_name": "Ollie Gordon II",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -13649,7 +13649,7 @@
     },
     "12506": {
       "player_id": "12506",
-      "full_name": "Harold Fannin",
+      "full_name": "Harold Fannin Jr.",
       "position": "TE",
       "fantasy_positions": [
         "TE"
@@ -13757,7 +13757,7 @@
     },
     "12519": {
       "player_id": "12519",
-      "full_name": "Luther Burden",
+      "full_name": "Luther Burden III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -13938,7 +13938,7 @@
     },
     "12541": {
       "player_id": "12541",
-      "full_name": "Dont'e Thornton",
+      "full_name": "Dont'e Thornton Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -13950,7 +13950,7 @@
     },
     "12542": {
       "player_id": "12542",
-      "full_name": "Efton Chism",
+      "full_name": "Efton Chism III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14154,7 +14154,7 @@
     },
     "13276": {
       "player_id": "13276",
-      "full_name": "Omar Cooper",
+      "full_name": "Omar Cooper Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14322,7 +14322,7 @@
     },
     "13298": {
       "player_id": "13298",
-      "full_name": "KC Concepcion",
+      "full_name": "KC Concepcion Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14358,7 +14358,7 @@
     },
     "13305": {
       "player_id": "13305",
-      "full_name": "Mike Washington",
+      "full_name": "Mike Washington Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -14394,7 +14394,7 @@
     },
     "13317": {
       "player_id": "13317",
-      "full_name": "Ted Hurst",
+      "full_name": "Ted Hurst III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14454,7 +14454,7 @@
     },
     "13338": {
       "player_id": "13338",
-      "full_name": "Kevin Coleman",
+      "full_name": "Kevin Coleman Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14514,7 +14514,7 @@
     },
     "13353": {
       "player_id": "13353",
-      "full_name": "Chris Brazzell",
+      "full_name": "Chris Brazzell II",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -14665,7 +14665,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     "13533": {
@@ -15512,7 +15512,7 @@
     },
     {
       "player_id": "9229",
-      "full_name": "Anthony Richardson",
+      "full_name": "Anthony Richardson Sr.",
       "position": "QB",
       "fantasy_positions": [
         "QB"
@@ -15716,7 +15716,7 @@
     },
     {
       "player_id": "6011",
-      "full_name": "Gardner Minshew",
+      "full_name": "Gardner Minshew II",
       "position": "QB",
       "fantasy_positions": [
         "QB"
@@ -16268,7 +16268,7 @@
     },
     {
       "player_id": "10857",
-      "full_name": "Stetson Bennett",
+      "full_name": "Stetson Bennett IV",
       "position": "QB",
       "fantasy_positions": [
         "QB"
@@ -16472,7 +16472,7 @@
     },
     {
       "player_id": "12939",
-      "full_name": "Anthony Tyus",
+      "full_name": "Anthony Tyus III",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -16556,7 +16556,7 @@
     },
     {
       "player_id": "8154",
-      "full_name": "Brian Robinson",
+      "full_name": "Brian Robinson Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -16568,7 +16568,7 @@
     },
     {
       "player_id": "11186",
-      "full_name": "Carlos Washington",
+      "full_name": "Carlos Washington Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -16808,7 +16808,7 @@
     },
     {
       "player_id": "11573",
-      "full_name": "Frank Gore",
+      "full_name": "Frank Gore Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -17031,7 +17031,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 2
     },
     {
@@ -17228,7 +17228,7 @@
     },
     {
       "player_id": "12544",
-      "full_name": "LeQuint Allen",
+      "full_name": "LeQuint Allen Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -17324,7 +17324,7 @@
     },
     {
       "player_id": "8116",
-      "full_name": "Pierre Strong",
+      "full_name": "Pierre Strong Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -17372,7 +17372,7 @@
     },
     {
       "player_id": "13418",
-      "full_name": "Robert Henry",
+      "full_name": "Robert Henry Jr.",
       "position": "RB",
       "fantasy_positions": [
         "RB"
@@ -18068,7 +18068,7 @@
     },
     {
       "player_id": "11592",
-      "full_name": "Erick All",
+      "full_name": "Erick All Jr.",
       "position": "TE",
       "fantasy_positions": [
         "TE"
@@ -18459,7 +18459,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     {
@@ -19016,7 +19016,7 @@
     },
     {
       "player_id": "12715",
-      "full_name": "Thomas Fidone",
+      "full_name": "Thomas Fidone II",
       "position": "TE",
       "fantasy_positions": [
         "TE"
@@ -19292,7 +19292,7 @@
     },
     {
       "player_id": "12460",
-      "full_name": "Antwane Wells",
+      "full_name": "Antwane Wells Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -19635,7 +19635,7 @@
       ],
       "team": "CIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 0
     },
     {
@@ -19712,7 +19712,7 @@
     },
     {
       "player_id": "14020",
-      "full_name": "Dean Patterson",
+      "full_name": "Dean Patterson IV",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -19892,7 +19892,7 @@
     },
     {
       "player_id": "13313",
-      "full_name": "Emmanuel Henderson",
+      "full_name": "Emmanuel Henderson Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -19904,7 +19904,7 @@
     },
     {
       "player_id": "13316",
-      "full_name": "Eric Rivers",
+      "full_name": "Eric Rivers Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -19976,7 +19976,7 @@
     },
     {
       "player_id": "13670",
-      "full_name": "Harrison Wallace",
+      "full_name": "Harrison Wallace III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20288,7 +20288,7 @@
     },
     {
       "player_id": "12523",
-      "full_name": "Jimmy Horn",
+      "full_name": "Jimmy Horn Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20312,7 +20312,7 @@
     },
     {
       "player_id": "8147",
-      "full_name": "John Metchie",
+      "full_name": "John Metchie III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20756,7 +20756,7 @@
     },
     {
       "player_id": "9494",
-      "full_name": "Marvin Mims",
+      "full_name": "Marvin Mims Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20780,7 +20780,7 @@
     },
     {
       "player_id": "5917",
-      "full_name": "Mecole Hardman",
+      "full_name": "Mecole Hardman Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20852,7 +20852,7 @@
     },
     {
       "player_id": "13199",
-      "full_name": "Montorie Foster",
+      "full_name": "Montorie Foster Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20948,7 +20948,7 @@
     },
     {
       "player_id": "2078",
-      "full_name": "Odell Beckham",
+      "full_name": "Odell Beckham Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -20984,7 +20984,7 @@
     },
     {
       "player_id": "2334",
-      "full_name": "Phillip Dorsett",
+      "full_name": "Phillip Dorsett II",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21020,7 +21020,7 @@
     },
     {
       "player_id": "12884",
-      "full_name": "Quincy Skinner",
+      "full_name": "Quincy Skinner Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21056,7 +21056,7 @@
     },
     {
       "player_id": "12475",
-      "full_name": "Ricky White",
+      "full_name": "Ricky White III",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21200,7 +21200,7 @@
     },
     {
       "player_id": "12860",
-      "full_name": "Theo Wease",
+      "full_name": "Theo Wease Jr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21248,7 +21248,7 @@
     },
     {
       "player_id": "5154",
-      "full_name": "Trent Sherfield",
+      "full_name": "Trent Sherfield Sr.",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21332,7 +21332,7 @@
     },
     {
       "player_id": "8223",
-      "full_name": "Velus Jones",
+      "full_name": "Velus Jones Jr.",
       "position": "WR",
       "fantasy_positions": [
         "RB"
@@ -21344,7 +21344,7 @@
     },
     {
       "player_id": "13343",
-      "full_name": "Vinny Anthony",
+      "full_name": "Vinny Anthony II",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -22633,12 +22633,12 @@
       "adds": {
         "11655": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "9508": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22663,12 +22663,12 @@
       "adds": {
         "9501": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "IND": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -22693,10 +22693,10 @@
       "adds": {
         "11655": 7
       },
+      "drops": null,
       "consenter_ids": [
         7
       ],
-      "drops": null,
       "roster_ids": [
         7
       ],
@@ -22721,12 +22721,12 @@
       "adds": {
         "6650": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "11786": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22751,10 +22751,10 @@
       "adds": {
         "8154": 8
       },
+      "drops": null,
       "consenter_ids": [
         8
       ],
-      "drops": null,
       "roster_ids": [
         8
       ],
@@ -22779,10 +22779,10 @@
       "adds": {
         "9501": 8
       },
+      "drops": null,
       "consenter_ids": [
         8
       ],
-      "drops": null,
       "roster_ids": [
         8
       ],
@@ -22807,12 +22807,12 @@
       "adds": {
         "8135": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "13264": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -22837,12 +22837,12 @@
       "adds": {
         "9230": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "2306": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22867,10 +22867,10 @@
       "adds": {
         "9501": 6
       },
+      "drops": null,
       "consenter_ids": [
         6
       ],
-      "drops": null,
       "roster_ids": [
         6
       ],
@@ -22890,12 +22890,12 @@
       "adds": {
         "TB": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "LV": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -22915,12 +22915,12 @@
       "adds": {
         "11058": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "11539": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -22938,12 +22938,12 @@
       "creator": "832502005837729792",
       "transaction_id": "1417280549336125440",
       "adds": null,
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "11603": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -22963,10 +22963,10 @@
       "adds": {
         "4147": 2
       },
+      "drops": null,
       "consenter_ids": [
         2
       ],
-      "drops": null,
       "roster_ids": [
         2
       ],
@@ -22986,10 +22986,10 @@
       "adds": {
         "6083": 8
       },
+      "drops": null,
       "consenter_ids": [
         8
       ],
-      "drops": null,
       "roster_ids": [
         8
       ],
@@ -23007,12 +23007,12 @@
       "creator": "856424496159113216",
       "transaction_id": "1416632257967345664",
       "adds": null,
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "13968": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -23032,10 +23032,10 @@
       "adds": {
         "4037": 4
       },
+      "drops": null,
       "consenter_ids": [
         4
       ],
-      "drops": null,
       "roster_ids": [
         4
       ],
@@ -23055,10 +23055,10 @@
       "adds": {
         "4017": 4
       },
+      "drops": null,
       "consenter_ids": [
         4
       ],
-      "drops": null,
       "roster_ids": [
         4
       ],
@@ -23078,10 +23078,10 @@
       "adds": {
         "CAR": 4
       },
+      "drops": null,
       "consenter_ids": [
         4
       ],
-      "drops": null,
       "roster_ids": [
         4
       ],
@@ -23101,12 +23101,12 @@
       "adds": {
         "2306": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "4147": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -23126,12 +23126,12 @@
       "adds": {
         "7042": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "4981": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -23151,12 +23151,12 @@
       "adds": {
         "IND": 7
       },
-      "consenter_ids": [
-        7
-      ],
       "drops": {
         "3257": 7
       },
+      "consenter_ids": [
+        7
+      ],
       "roster_ids": [
         7
       ],
@@ -23176,12 +23176,12 @@
       "adds": {
         "SF": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "JAX": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -23777,8 +23777,8 @@
         "waiver_bid": 2
       },
       "leg": 4,
-      "creator": "856411120485912576",
       "draft_picks": [],
+      "creator": "856411120485912576",
       "transaction_id": "1413424420126556160",
       "adds": {
         "12185": 7
@@ -23807,8 +23807,8 @@
         "waiver_bid": 27
       },
       "leg": 4,
-      "creator": "856411120485912576",
       "draft_picks": [],
+      "creator": "856411120485912576",
       "transaction_id": "1413424247010824192",
       "adds": {
         "11577": 7
@@ -23837,8 +23837,8 @@
         "waiver_bid": 7
       },
       "leg": 4,
-      "creator": "832502005837729792",
       "draft_picks": [],
+      "creator": "832502005837729792",
       "transaction_id": "1413382994797903872",
       "adds": {
         "13264": 1
@@ -23865,8 +23865,8 @@
         "waiver_bid": 14
       },
       "leg": 4,
-      "creator": "856424496159113216",
       "draft_picks": [],
+      "creator": "856424496159113216",
       "transaction_id": "1413340907977056256",
       "adds": {
         "13264": 8
@@ -23895,8 +23895,8 @@
         "waiver_bid": 12
       },
       "leg": 4,
-      "creator": "832502005837729792",
       "draft_picks": [],
+      "creator": "832502005837729792",
       "transaction_id": "1413337741588004864",
       "adds": {
         "4018": 1
@@ -23925,8 +23925,8 @@
         "waiver_bid": 21
       },
       "leg": 4,
-      "creator": "832502005837729792",
       "draft_picks": [],
+      "creator": "832502005837729792",
       "transaction_id": "1413337625305116672",
       "adds": {
         "11577": 1
@@ -23948,8 +23948,8 @@
       "created": 1791144796849,
       "settings": null,
       "leg": 4,
-      "creator": "856424496159113216",
       "draft_picks": [],
+      "creator": "856424496159113216",
       "transaction_id": "1412567295787610112",
       "adds": {
         "1166": 8
@@ -23973,8 +23973,8 @@
       "created": 1791129504898,
       "settings": null,
       "leg": 4,
-      "creator": "856411120485912576",
       "draft_picks": [],
+      "creator": "856411120485912576",
       "transaction_id": "1412503156696289280",
       "adds": {
         "2505": 7
@@ -23998,8 +23998,8 @@
       "created": 1790864194457,
       "settings": null,
       "leg": 4,
-      "creator": "833580396548575232",
       "draft_picks": [],
+      "creator": "833580396548575232",
       "transaction_id": "1411390364056637440",
       "adds": {
         "ARI": 2
@@ -24023,8 +24023,8 @@
       "created": 1790785119987,
       "settings": null,
       "leg": 4,
-      "creator": "857010974824214528",
       "draft_picks": [],
+      "creator": "857010974824214528",
       "transaction_id": "1411058701686558720",
       "adds": {
         "9757": 10
@@ -24048,8 +24048,8 @@
       "created": 1790779753128,
       "settings": null,
       "leg": 4,
-      "creator": "857028021230608384",
       "draft_picks": [],
+      "creator": "857028021230608384",
       "transaction_id": "1411036191448379392",
       "adds": {
         "13277": 11
@@ -24071,8 +24071,8 @@
       "created": 1790767365864,
       "settings": null,
       "leg": 4,
-      "creator": "857028021230608384",
       "draft_picks": [],
+      "creator": "857028021230608384",
       "transaction_id": "1410984235501711360",
       "adds": {
         "CHI": 11
