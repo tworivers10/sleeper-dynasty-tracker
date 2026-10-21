@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T19:47:33.903Z",
+  "generated_at": "2026-10-21T20:50:04.621Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
     "week": 7,
-    "leg": 7,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "leg": 7,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -70,10 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -3151,7 +3151,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -3694,7 +3694,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -5457,7 +5457,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": true,
           "taxi": false,
@@ -5577,7 +5577,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -5639,7 +5639,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 6
         },
         {
@@ -5675,7 +5675,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -6245,7 +6245,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 4,
           "starter": true,
           "taxi": false,
@@ -6415,7 +6415,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 4
         },
         {
@@ -9877,7 +9877,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 1,
           "starter": true,
           "taxi": false,
@@ -10167,7 +10167,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 1
         },
         {
@@ -11016,7 +11016,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     "4983": {
@@ -11460,7 +11460,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "6806": {
@@ -11580,7 +11580,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "7523": {
@@ -12108,7 +12108,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     "8172": {
@@ -12468,7 +12468,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     "9509": {
@@ -13596,7 +13596,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     "12502": {
@@ -14329,7 +14329,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13301": {
@@ -14485,7 +14485,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13347": {
@@ -17175,7 +17175,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     {
@@ -17511,7 +17511,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 3
     },
     {
@@ -18015,7 +18015,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     {
@@ -19155,7 +19155,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     {
@@ -19347,7 +19347,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 4
     },
     {
@@ -19479,7 +19479,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     {
@@ -19563,7 +19563,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     {
@@ -19695,7 +19695,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     {
@@ -21087,7 +21087,7 @@
       ],
       "team": "GB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     {
@@ -22633,12 +22633,12 @@
       "adds": {
         "11655": 2
       },
-      "drops": {
-        "9508": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "9508": 2
+      },
       "roster_ids": [
         2
       ],
@@ -23777,18 +23777,18 @@
         "waiver_bid": 2
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "856411120485912576",
+      "draft_picks": [],
       "transaction_id": "1413424420126556160",
       "adds": {
         "12185": 7
       },
-      "drops": {
-        "2747": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "2747": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23807,18 +23807,18 @@
         "waiver_bid": 27
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "856411120485912576",
+      "draft_picks": [],
       "transaction_id": "1413424247010824192",
       "adds": {
         "11577": 7
       },
-      "drops": {
-        "4037": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "4037": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23837,16 +23837,16 @@
         "waiver_bid": 7
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "832502005837729792",
+      "draft_picks": [],
       "transaction_id": "1413382994797903872",
       "adds": {
         "13264": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23865,18 +23865,18 @@
         "waiver_bid": 14
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "856424496159113216",
+      "draft_picks": [],
       "transaction_id": "1413340907977056256",
       "adds": {
         "13264": 8
       },
-      "drops": {
-        "9508": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "9508": 8
+      },
       "roster_ids": [
         8
       ],
@@ -23895,18 +23895,18 @@
         "waiver_bid": 12
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "832502005837729792",
+      "draft_picks": [],
       "transaction_id": "1413337741588004864",
       "adds": {
         "4018": 1
       },
-      "drops": {
-        "11575": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "11575": 1
+      },
       "roster_ids": [
         1
       ],
@@ -23925,16 +23925,16 @@
         "waiver_bid": 21
       },
       "leg": 4,
-      "draft_picks": [],
       "creator": "832502005837729792",
+      "draft_picks": [],
       "transaction_id": "1413337625305116672",
       "adds": {
         "11577": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -23948,18 +23948,18 @@
       "created": 1791144796849,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "856424496159113216",
+      "draft_picks": [],
       "transaction_id": "1412567295787610112",
       "adds": {
         "1166": 8
       },
-      "drops": {
-        "12718": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "12718": 8
+      },
       "roster_ids": [
         8
       ],
@@ -23973,18 +23973,18 @@
       "created": 1791129504898,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "856411120485912576",
+      "draft_picks": [],
       "transaction_id": "1412503156696289280",
       "adds": {
         "2505": 7
       },
-      "drops": {
-        "9482": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "9482": 7
+      },
       "roster_ids": [
         7
       ],
@@ -23998,18 +23998,18 @@
       "created": 1790864194457,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "833580396548575232",
+      "draft_picks": [],
       "transaction_id": "1411390364056637440",
       "adds": {
         "ARI": 2
       },
-      "drops": {
-        "CAR": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "CAR": 2
+      },
       "roster_ids": [
         2
       ],
@@ -24023,18 +24023,18 @@
       "created": 1790785119987,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "857010974824214528",
+      "draft_picks": [],
       "transaction_id": "1411058701686558720",
       "adds": {
         "9757": 10
       },
-      "drops": {
-        "11729": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "11729": 10
+      },
       "roster_ids": [
         10
       ],
@@ -24048,16 +24048,16 @@
       "created": 1790779753128,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "857028021230608384",
+      "draft_picks": [],
       "transaction_id": "1411036191448379392",
       "adds": {
         "13277": 11
       },
-      "drops": null,
       "consenter_ids": [
         11
       ],
+      "drops": null,
       "roster_ids": [
         11
       ],
@@ -24071,18 +24071,18 @@
       "created": 1790767365864,
       "settings": null,
       "leg": 4,
-      "draft_picks": [],
       "creator": "857028021230608384",
+      "draft_picks": [],
       "transaction_id": "1410984235501711360",
       "adds": {
         "CHI": 11
       },
-      "drops": {
-        "CIN": 11
-      },
       "consenter_ids": [
         11
       ],
+      "drops": {
+        "CIN": 11
+      },
       "roster_ids": [
         11
       ],
