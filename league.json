@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:47:15.496Z",
+  "generated_at": "2026-10-22T22:46:12.666Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
@@ -1400,11 +1400,11 @@
         "3294",
         "12507",
         "11571",
-        "8121",
         "12501",
+        "11620",
         "7553",
         "4217",
-        "11620",
+        "13293",
         "11058",
         "TB"
       ],
@@ -8501,7 +8501,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6,
           "starter": true,
           "taxi": false,
@@ -8621,7 +8621,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3,
           "starter": true,
           "taxi": false,
@@ -8701,7 +8701,7 @@
           ],
           "team": "MIN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 6
         },
         {
@@ -8737,7 +8737,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3
         },
         {
@@ -9751,11 +9751,11 @@
         "3294",
         "12507",
         "11571",
-        "8121",
         "12501",
+        "11620",
         "7553",
         "4217",
-        "11620",
+        "13293",
         "11058",
         "TB"
       ],
@@ -9969,7 +9969,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": false,
@@ -10001,7 +10001,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -10076,7 +10076,7 @@
           "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -10149,18 +10149,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "8121",
-          "full_name": "Romeo Doubs",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "NE",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 4
-        },
-        {
           "player_id": "12501",
           "full_name": "Matthew Golden",
           "position": "WR",
@@ -10171,6 +10159,18 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 1
+        },
+        {
+          "player_id": "11620",
+          "full_name": "Rome Odunze",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 2
         },
         {
           "player_id": "7553",
@@ -10197,16 +10197,16 @@
           "years_exp": 9
         },
         {
-          "player_id": "11620",
-          "full_name": "Rome Odunze",
+          "player_id": "13293",
+          "full_name": "Ja'Kobi Lane",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "CHI",
+          "team": "BAL",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 2
+          "years_exp": 0
         },
         {
           "player_id": "11058",
@@ -10315,19 +10315,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": "Doubtful",
-          "years_exp": 0
-        },
-        {
-          "player_id": "13293",
-          "full_name": "Ja'Kobi Lane",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "BAL",
-          "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         },
         {
@@ -10341,6 +10329,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0
+        },
+        {
+          "player_id": "8121",
+          "full_name": "Romeo Doubs",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "NE",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 4
         },
         {
           "player_id": "9754",
@@ -11414,7 +11414,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 6
     },
     "6797": {
@@ -12410,7 +12410,7 @@
       ],
       "team": "LAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     "9500": {
@@ -14271,7 +14271,7 @@
       ],
       "team": "ARI",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13288": {
@@ -22574,11 +22574,11 @@
         "3294",
         "12507",
         "11571",
-        "8121",
         "12501",
+        "11620",
         "7553",
         "4217",
-        "11620",
+        "13293",
         "11058",
         "TB"
       ],
