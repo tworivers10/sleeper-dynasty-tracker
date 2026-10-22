@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:46:12.666Z",
+  "generated_at": "2026-10-22T23:43:56.456Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
@@ -1179,7 +1179,7 @@
       },
       "starters": [
         "8183",
-        "12490",
+        "8155",
         "12512",
         "9488",
         "8112",
@@ -2555,7 +2555,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 5,
           "starter": true,
           "taxi": false,
@@ -2630,7 +2630,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3,
           "starter": false,
           "taxi": false,
@@ -2746,7 +2746,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 5
         },
         {
@@ -2892,7 +2892,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 3
         }
       ],
@@ -3182,7 +3182,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8,
           "starter": true,
           "taxi": false,
@@ -3499,7 +3499,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 8
         },
         {
@@ -6037,7 +6037,7 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2,
           "starter": true,
           "taxi": false,
@@ -6429,7 +6429,7 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 2
         },
         {
@@ -7068,7 +7068,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 4,
           "starter": false,
           "taxi": false,
@@ -7345,7 +7345,7 @@
           ],
           "team": "SEA",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 4
         }
       ],
@@ -7473,7 +7473,7 @@
       },
       "starters": [
         "8183",
-        "12490",
+        "8155",
         "12512",
         "9488",
         "8112",
@@ -7530,7 +7530,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -7786,7 +7786,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 4,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -7880,16 +7880,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "12490",
-          "full_name": "Bhayshul Tuten",
+          "player_id": "8155",
+          "full_name": "Breece Hall",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "JAX",
+          "team": "NYJ",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
+          "injury_status": "Questionable",
+          "years_exp": 4
         },
         {
           "player_id": "12512",
@@ -8002,6 +8002,18 @@
           "years_exp": 2
         },
         {
+          "player_id": "12490",
+          "full_name": "Bhayshul Tuten",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "JAX",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
+        },
+        {
           "player_id": "12499",
           "full_name": "Elic Ayomanor",
           "position": "WR",
@@ -8085,18 +8097,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5
-        },
-        {
-          "player_id": "8155",
-          "full_name": "Breece Hall",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 4
         },
         {
           "player_id": "PIT",
@@ -11102,7 +11102,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 8
     },
     "5045": {
@@ -11606,7 +11606,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 5
     },
     "7526": {
@@ -12230,7 +12230,7 @@
       ],
       "team": "SEA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 4
     },
     "8800": {
@@ -12374,7 +12374,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     "9487": {
@@ -13034,7 +13034,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     "11610": {
@@ -15569,7 +15569,7 @@
       ],
       "team": "NE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 0
     },
     {
@@ -15653,7 +15653,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 14
     },
     {
@@ -22322,7 +22322,7 @@
       "matchup_id": 1,
       "starters": [
         "8183",
-        "12490",
+        "8155",
         "12512",
         "9488",
         "8112",
