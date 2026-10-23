@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:52:59.561Z",
+  "generated_at": "2026-10-23T16:51:35.928Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
@@ -6933,7 +6933,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 8,
           "starter": false,
           "taxi": false,
@@ -7285,7 +7285,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 8
         },
         {
@@ -8366,7 +8366,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "years_exp": 1,
           "starter": true,
           "taxi": false,
@@ -8725,7 +8725,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "years_exp": 1
         },
         {
@@ -10982,7 +10982,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 8
     },
     "4943": {
@@ -13742,7 +13742,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "years_exp": 1
     },
     "12517": {
@@ -18021,18 +18021,6 @@
       "years_exp": 7
     },
     {
-      "player_id": "11304",
-      "full_name": "E.J. Jenkins",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 3
-    },
-    {
       "player_id": "10231",
       "full_name": "Elijah Higgins",
       "position": "TE",
@@ -21429,7 +21417,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 531,
+  "waiver_wire_count": 530,
   "traded_picks": [
     {
       "round": 1,
