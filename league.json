@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:42:40.361Z",
+  "generated_at": "2026-10-24T18:49:24.120Z",
   "league_id": "1353194300984262656",
   "current_week": 7,
   "nfl_state": {
@@ -13326,7 +13326,7 @@
         "RB"
       ],
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "years_exp": 1
     },
@@ -16548,18 +16548,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
-    },
-    {
-      "player_id": "12455",
-      "full_name": "Brashard Smith",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "KC",
-      "status": "Active",
-      "injury_status": "IR",
-      "years_exp": 1
     },
     {
       "player_id": "8154",
@@ -21386,7 +21374,7 @@
       "years_exp": 3
     }
   ],
-  "waiver_wire_count": 530,
+  "waiver_wire_count": 529,
   "traded_picks": [
     {
       "round": 1,
