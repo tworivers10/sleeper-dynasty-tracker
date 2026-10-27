@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:46:21.891Z",
+  "generated_at": "2026-10-27T22:59:01.596Z",
   "league_id": "1353194300984262656",
   "current_week": 8,
   "nfl_state": {
@@ -665,10 +665,10 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "5012",
         "11646",
-        "12474",
+        "5012",
+        "12529",
+        "4147",
         "6650",
         "SF"
       ],
@@ -2241,10 +2241,10 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "5012",
         "11646",
-        "12474",
+        "5012",
+        "12529",
+        "4147",
         "6650",
         "SF"
       ],
@@ -2266,7 +2266,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -2293,8 +2293,8 @@
             "RB"
           ],
           "team": "NYG",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 2,
           "starter": false,
           "taxi": false,
@@ -2311,7 +2311,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -2341,7 +2341,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -2461,7 +2461,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 9,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -2696,15 +2696,15 @@
           "years_exp": 5
         },
         {
-          "player_id": "11632",
-          "full_name": "Malik Nabers",
+          "player_id": "11646",
+          "full_name": "Jalen Coker",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NYG",
+          "team": "CAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 2
         },
         {
@@ -2720,28 +2720,28 @@
           "years_exp": 8
         },
         {
-          "player_id": "11646",
-          "full_name": "Jalen Coker",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CAR",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 2
-        },
-        {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
+          "player_id": "12529",
+          "full_name": "TreVeyon Henderson",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "HOU",
+          "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 1
+        },
+        {
+          "player_id": "4147",
+          "full_name": "Samaje Perine",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "CIN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 9
         },
         {
           "player_id": "6650",
@@ -2770,6 +2770,18 @@
       ],
       "bench_details": [
         {
+          "player_id": "11632",
+          "full_name": "Malik Nabers",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 2
+        },
+        {
           "player_id": "11655",
           "full_name": "Tyrone Tracy Jr.",
           "position": "RB",
@@ -2777,9 +2789,21 @@
             "RB"
           ],
           "team": "NYG",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "years_exp": 2
+        },
+        {
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "years_exp": 1
         },
         {
           "player_id": "12518",
@@ -2794,18 +2818,6 @@
           "years_exp": 1
         },
         {
-          "player_id": "12529",
-          "full_name": "TreVeyon Henderson",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NE",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
-        },
-        {
           "player_id": "12536",
           "full_name": "Jaylin Noel",
           "position": "WR",
@@ -2816,18 +2828,6 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 1
-        },
-        {
-          "player_id": "4147",
-          "full_name": "Samaje Perine",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 9
         },
         {
           "player_id": "5927",
@@ -13168,8 +13168,8 @@
         "RB"
       ],
       "team": "NYG",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "years_exp": 2
     },
     "11729": {
@@ -13865,7 +13865,7 @@
         "WR"
       ],
       "team": "LV",
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "IR",
       "years_exp": 1
     },
@@ -16476,6 +16476,18 @@
       "years_exp": 9
     },
     {
+      "player_id": "14080",
+      "full_name": "Barika Kpeenu",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "11273",
       "full_name": "Ben VanSumeren",
       "position": "RB",
@@ -16794,7 +16806,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "LAC",
+      "team": "NYG",
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
@@ -19728,6 +19740,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "12541",
+      "full_name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": "IR",
+      "years_exp": 1
+    },
+    {
       "player_id": "12946",
       "full_name": "Dontae Fleming",
       "position": "WR",
@@ -19783,6 +19807,18 @@
         "WR"
       ],
       "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
+      "player_id": "12909",
+      "full_name": "Eli Pancol",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "DEN",
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
@@ -20050,18 +20086,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
-    },
-    {
-      "player_id": "11034",
-      "full_name": "Jalen Brooks",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": "Out",
-      "years_exp": 3
     },
     {
       "player_id": "11506",
@@ -21096,6 +21120,18 @@
       "years_exp": 4
     },
     {
+      "player_id": "11802",
+      "full_name": "Tejhaun Palmer",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 2
+    },
+    {
       "player_id": "12485",
       "full_name": "Tez Johnson",
       "position": "WR",
@@ -21334,9 +21370,21 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
+    },
+    {
+      "player_id": "4080",
+      "full_name": "Zay Jones",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 9
     }
   ],
-  "waiver_wire_count": 531,
+  "waiver_wire_count": 535,
   "traded_picks": [
     {
       "round": 1,
@@ -21651,10 +21699,10 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "5012",
         "11646",
-        "12474",
+        "5012",
+        "12529",
+        "4147",
         "6650",
         "SF"
       ],
