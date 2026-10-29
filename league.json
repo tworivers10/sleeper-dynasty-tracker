@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:35:19.643Z",
+  "generated_at": "2026-10-29T16:12:47.573Z",
   "league_id": "1353194300984262656",
   "current_week": 8,
   "nfl_state": {
@@ -70,11 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1421349824590094336",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -205,18 +204,22 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
+    "last_message_id": "1421513657572962304",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793238714887,
+    "last_message_time": 1793277775714,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1353194300996878336",
+    "last_read_id": null,
     "league_id": "1353194300984262656",
     "previous_league_id": "1228871901330296832",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,9 +242,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -557,6 +557,7 @@
         "5849",
         "5859",
         "7021",
+        "7561",
         "7564",
         "7611",
         "8129",
@@ -566,6 +567,7 @@
         "CLE"
       ],
       "reserve": [
+        "8129",
         "9225"
       ],
       "roster_id": 1,
@@ -744,7 +746,7 @@
         "9221",
         "8138",
         "6786",
-        "8146",
+        "6801",
         "12506",
         "8150",
         "11584",
@@ -1029,11 +1031,11 @@
         "11566",
         "8228",
         "6790",
-        "5846",
+        "4983",
         "8167",
         "11604",
         "5850",
-        "4983",
+        "5846",
         "12185",
         "JAX"
       ],
@@ -1448,6 +1450,7 @@
         "5849",
         "5859",
         "7021",
+        "7561",
         "7564",
         "7611",
         "8129",
@@ -1457,6 +1460,7 @@
         "CLE"
       ],
       "reserve": [
+        "8129",
         "9225"
       ],
       "roster_id": 1,
@@ -1764,6 +1768,21 @@
           "reserve": false
         },
         {
+          "player_id": "7561",
+          "full_name": "Elijah Mitchell",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 5,
+          "starter": false,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "7564",
           "full_name": "Ja'Marr Chase",
           "position": "WR",
@@ -1806,7 +1825,7 @@
           "years_exp": 4,
           "starter": false,
           "taxi": false,
-          "reserve": false
+          "reserve": true
         },
         {
           "player_id": "8130",
@@ -2101,16 +2120,16 @@
           "years_exp": 6
         },
         {
-          "player_id": "8129",
-          "full_name": "Dameon Pierce",
+          "player_id": "7561",
+          "full_name": "Elijah Mitchell",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "team": "PHI",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 4
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 5
         }
       ],
       "taxi_details": [
@@ -2164,6 +2183,18 @@
         }
       ],
       "reserve_details": [
+        {
+          "player_id": "8129",
+          "full_name": "Dameon Pierce",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "PHI",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 4
+        },
         {
           "player_id": "9225",
           "full_name": "Tank Bigsby",
@@ -3032,7 +3063,7 @@
         "9221",
         "8138",
         "6786",
-        "8146",
+        "6801",
         "12506",
         "8150",
         "11584",
@@ -3206,7 +3237,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3281,7 +3312,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -3456,16 +3487,16 @@
           "years_exp": 6
         },
         {
-          "player_id": "8146",
-          "full_name": "Garrett Wilson",
+          "player_id": "6801",
+          "full_name": "Tee Higgins",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NYJ",
+          "team": "CIN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 4
+          "years_exp": 6
         },
         {
           "player_id": "12506",
@@ -3566,18 +3597,6 @@
           "years_exp": 8
         },
         {
-          "player_id": "6801",
-          "full_name": "Tee Higgins",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CIN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 6
-        },
-        {
           "player_id": "7042",
           "full_name": "Tyler Bass",
           "position": "K",
@@ -3588,6 +3607,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6
+        },
+        {
+          "player_id": "8146",
+          "full_name": "Garrett Wilson",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 4
         },
         {
           "player_id": "8148",
@@ -5948,11 +5979,11 @@
         "11566",
         "8228",
         "6790",
-        "5846",
+        "4983",
         "8167",
         "11604",
         "5850",
-        "4983",
+        "5846",
         "12185",
         "JAX"
       ],
@@ -6362,16 +6393,16 @@
           "years_exp": 6
         },
         {
-          "player_id": "5846",
-          "full_name": "DK Metcalf",
+          "player_id": "4983",
+          "full_name": "DJ Moore",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "PIT",
+          "team": "BUF",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 7
+          "injury_status": "Questionable",
+          "years_exp": 8
         },
         {
           "player_id": "8167",
@@ -6410,16 +6441,16 @@
           "years_exp": 7
         },
         {
-          "player_id": "4983",
-          "full_name": "DJ Moore",
+          "player_id": "5846",
+          "full_name": "DK Metcalf",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "BUF",
+          "team": "PIT",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 8
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "12185",
@@ -11572,6 +11603,18 @@
         "TE"
       ],
       "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 5
+    },
+    "7561": {
+      "player_id": "7561",
+      "full_name": "Elijah Mitchell",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "PHI",
       "status": "Active",
       "injury_status": null,
       "years_exp": 5
@@ -16776,18 +16819,6 @@
       "years_exp": 5
     },
     {
-      "player_id": "7561",
-      "full_name": "Elijah Mitchell",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 5
-    },
-    {
       "player_id": "11199",
       "full_name": "Emari Demercado",
       "position": "RB",
@@ -21360,7 +21391,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 532,
+  "waiver_wire_count": 531,
   "traded_picks": [
     {
       "round": 1,
@@ -21574,6 +21605,7 @@
         "5849",
         "5859",
         "7021",
+        "7561",
         "7564",
         "7611",
         "8129",
@@ -21618,6 +21650,7 @@
         "5849": 0,
         "5859": 0,
         "7021": 0,
+        "7561": 0,
         "7564": 0,
         "7611": 0,
         "8129": 0,
@@ -21759,7 +21792,7 @@
         "9221",
         "8138",
         "6786",
-        "8146",
+        "6801",
         "12506",
         "8150",
         "11584",
@@ -22086,11 +22119,11 @@
         "11566",
         "8228",
         "6790",
-        "5846",
+        "4983",
         "8167",
         "11604",
         "5850",
-        "4983",
+        "5846",
         "12185",
         "JAX"
       ],
@@ -22551,6 +22584,29 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1793277775685,
+      "settings": null,
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "832502005837729792",
+      "transaction_id": "1421513657455595520",
+      "adds": {
+        "7561": 1
+      },
+      "consenter_ids": [
+        1
+      ],
+      "drops": null,
+      "roster_ids": [
+        1
+      ],
+      "status_updated": 1793277775685,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1793238714859,
       "settings": null,
       "leg": 8,
@@ -22560,10 +22616,10 @@
       "adds": {
         "7571": 2
       },
-      "drops": null,
       "consenter_ids": [
         2
       ],
+      "drops": null,
       "roster_ids": [
         2
       ],
@@ -22581,12 +22637,12 @@
       "creator": "833580396548575232",
       "transaction_id": "1421349089227935744",
       "adds": null,
-      "drops": {
-        "4137": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "4137": 2
+      },
       "roster_ids": [
         2
       ],
@@ -22606,12 +22662,12 @@
       "adds": {
         "8135": 4
       },
-      "drops": {
-        "CAR": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "CAR": 4
+      },
       "roster_ids": [
         4
       ],
@@ -22631,12 +22687,12 @@
       "adds": {
         "9508": 4
       },
-      "drops": {
-        "10235": 4
-      },
       "consenter_ids": [
         4
       ],
+      "drops": {
+        "10235": 4
+      },
       "roster_ids": [
         4
       ],
@@ -22656,12 +22712,12 @@
       "adds": {
         "JAX": 7
       },
-      "drops": {
-        "MIN": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "MIN": 7
+      },
       "roster_ids": [
         7
       ],
@@ -22681,12 +22737,12 @@
       "adds": {
         "13394": 8
       },
-      "drops": {
-        "13150": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "13150": 8
+      },
       "roster_ids": [
         8
       ],
