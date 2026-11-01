@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:38:49.273Z",
+  "generated_at": "2026-11-01T15:14:50.543Z",
   "league_id": "1353194300984262656",
   "current_week": 8,
   "nfl_state": {
@@ -70,10 +70,10 @@
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -204,15 +204,15 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "last_message_id": "1422328533308477440",
+    "last_message_id": "1422596710139437056",
+    "draft_id": "1353194300996878336",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793472057229,
-    "draft_id": "1353194300996878336",
+    "last_message_time": 1793535995567,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1353194300984262656",
@@ -220,8 +220,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -244,6 +242,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -659,7 +659,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -924,6 +924,7 @@
         "11786",
         "12489",
         "12498",
+        "12522",
         "12547",
         "13288",
         "13296",
@@ -954,8 +955,8 @@
         "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 15,
-        "waiver_position": 10,
+        "waiver_budget_used": 22,
+        "waiver_position": 12,
         "wins": 0
       },
       "starters": [
@@ -1249,7 +1250,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 64,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 5
       },
       "starters": [
@@ -2266,7 +2267,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -5217,6 +5218,7 @@
         "11786",
         "12489",
         "12498",
+        "12522",
         "12547",
         "13288",
         "13296",
@@ -5247,8 +5249,8 @@
         "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 15,
-        "waiver_position": 10,
+        "waiver_budget_used": 22,
+        "waiver_position": 12,
         "wins": 0
       },
       "starters": [
@@ -5402,6 +5404,21 @@
           "injury_status": null,
           "years_exp": 1,
           "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -5801,6 +5818,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2
+        },
+        {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
         },
         {
           "player_id": "12547",
@@ -8202,7 +8231,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 64,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 5
       },
       "starters": [
@@ -15624,18 +15653,6 @@
       "years_exp": 0
     },
     {
-      "player_id": "12522",
-      "full_name": "Cam Ward",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
-    },
-    {
       "player_id": "3161",
       "full_name": "Carson Wentz",
       "position": "QB",
@@ -21396,7 +21413,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 531,
+  "waiver_wire_count": 530,
   "traded_picks": [
     {
       "round": 1,
@@ -22019,6 +22036,7 @@
         "11786",
         "12489",
         "12498",
+        "12522",
         "12547",
         "13288",
         "13296",
@@ -22080,6 +22098,7 @@
         "11786": 0,
         "12489": 0,
         "12498": 0,
+        "12522": 0,
         "12547": 0,
         "13288": 0,
         "13296": 0,
@@ -22585,6 +22604,34 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1793479128914,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 7
+      },
+      "leg": 8,
+      "draft_picks": [],
+      "creator": "734296893009592320",
+      "transaction_id": "1422358194105102336",
+      "adds": {
+        "12522": 6
+      },
+      "consenter_ids": [
+        6
+      ],
+      "drops": null,
+      "roster_ids": [
+        6
+      ],
+      "status_updated": 1793535995396,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
