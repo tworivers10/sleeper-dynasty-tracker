@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:54:51.386Z",
+  "generated_at": "2026-11-05T15:32:11.748Z",
   "league_id": "1353194300984262656",
   "current_week": 9,
   "nfl_state": {
@@ -891,10 +891,10 @@
         "11564",
         "12527",
         "4199",
-        "13279",
+        "12492",
         "10213",
         "9480",
-        "5967",
+        "12481",
         "8136",
         "650",
         "PHI"
@@ -4558,10 +4558,10 @@
         "11564",
         "12527",
         "4199",
-        "13279",
+        "12492",
         "10213",
         "9480",
-        "5967",
+        "12481",
         "8136",
         "650",
         "PHI"
@@ -4672,7 +4672,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -4702,7 +4702,7 @@
           "status": "Inactive",
           "injury_status": "IR",
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -4747,7 +4747,7 @@
           "status": "Active",
           "injury_status": "Out",
           "years_exp": 0,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -4822,7 +4822,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -4955,16 +4955,16 @@
           "years_exp": 9
         },
         {
-          "player_id": "13279",
-          "full_name": "Carnell Tate",
+          "player_id": "12492",
+          "full_name": "Pat Bryant",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "TEN",
-          "status": "Active",
-          "injury_status": "Out",
-          "years_exp": 0
+          "team": "DEN",
+          "status": "Inactive",
+          "injury_status": "IR",
+          "years_exp": 1
         },
         {
           "player_id": "10213",
@@ -4991,16 +4991,16 @@
           "years_exp": 3
         },
         {
-          "player_id": "5967",
-          "full_name": "Tony Pollard",
+          "player_id": "12481",
+          "full_name": "Cam Skattebo",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "TEN",
+          "team": "NYG",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 7
+          "injury_status": "Questionable",
+          "years_exp": 1
         },
         {
           "player_id": "8136",
@@ -5065,18 +5065,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "12481",
-          "full_name": "Cam Skattebo",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 1
-        },
-        {
           "player_id": "12483",
           "full_name": "Jack Bech",
           "position": "WR",
@@ -5089,16 +5077,16 @@
           "years_exp": 1
         },
         {
-          "player_id": "12492",
-          "full_name": "Pat Bryant",
+          "player_id": "13279",
+          "full_name": "Carnell Tate",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "DEN",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "years_exp": 1
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": "Out",
+          "years_exp": 0
         },
         {
           "player_id": "4066",
@@ -5123,6 +5111,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 9
+        },
+        {
+          "player_id": "5967",
+          "full_name": "Tony Pollard",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "TEN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "9504",
@@ -17105,6 +17105,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "8194",
+      "full_name": "Jashaun Corbin",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "11588",
       "full_name": "Jawhar Jordan",
       "position": "RB",
@@ -21521,7 +21533,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 533,
+  "waiver_wire_count": 534,
   "traded_picks": [
     {
       "round": 1,
@@ -22086,10 +22098,10 @@
         "11564",
         "12527",
         "4199",
-        "13279",
+        "12492",
         "10213",
         "9480",
-        "5967",
+        "12481",
         "8136",
         "650",
         "PHI"
