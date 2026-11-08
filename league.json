@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:56:03.732Z",
+  "generated_at": "2026-11-08T00:42:19.930Z",
   "league_id": "1353194300984262656",
   "current_week": 9,
   "nfl_state": {
@@ -1704,8 +1704,8 @@
             "WR"
           ],
           "team": "SF",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 10,
           "starter": false,
           "taxi": false,
@@ -2195,8 +2195,8 @@
             "WR"
           ],
           "team": "SF",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 10
         },
         {
@@ -3937,8 +3937,8 @@
             "WR"
           ],
           "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -4420,8 +4420,8 @@
             "WR"
           ],
           "team": "NO",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "years_exp": 0
         }
       ],
@@ -4639,8 +4639,8 @@
             "WR"
           ],
           "team": "DEN",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "years_exp": 1,
           "starter": true,
           "taxi": false,
@@ -4902,8 +4902,8 @@
             "WR"
           ],
           "team": "DEN",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": "Questionable",
           "years_exp": 1
         },
         {
@@ -10638,8 +10638,8 @@
         "WR"
       ],
       "team": "SF",
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": null,
       "years_exp": 10
     },
     "3294": {
@@ -10854,8 +10854,8 @@
         "WR"
       ],
       "team": "NE",
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": "Questionable",
       "years_exp": 9
     },
     "4195": {
@@ -11010,8 +11010,8 @@
         "WR"
       ],
       "team": "SF",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "years_exp": 8
     },
     "4981": {
@@ -12102,8 +12102,8 @@
         "RB"
       ],
       "team": "ATL",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "years_exp": 4
     },
     "8155": {
@@ -13578,8 +13578,8 @@
         "WR"
       ],
       "team": "DEN",
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     "12493": {
@@ -14263,8 +14263,8 @@
         "WR"
       ],
       "team": "NO",
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13282": {
@@ -15974,6 +15974,18 @@
       "years_exp": 7
     },
     {
+      "player_id": "10215",
+      "full_name": "Jake Haener",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
+    },
+    {
       "player_id": "12510",
       "full_name": "Jalen Milroe",
       "position": "QB",
@@ -16668,18 +16680,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
-    },
-    {
-      "player_id": "8154",
-      "full_name": "Brian Robinson Jr.",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": "Out",
-      "years_exp": 4
     },
     {
       "player_id": "11186",
@@ -19394,6 +19394,18 @@
       "years_exp": 5
     },
     {
+      "player_id": "12889",
+      "full_name": "Beaux Collins",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 1
+    },
+    {
       "player_id": "7757",
       "full_name": "Ben Skowronek",
       "position": "WR",
@@ -19644,18 +19656,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 10
-    },
-    {
-      "player_id": "4950",
-      "full_name": "Christian Kirk",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "SF",
-      "status": "Active",
-      "injury_status": "Out",
-      "years_exp": 8
     },
     {
       "player_id": "13554",
@@ -19932,18 +19932,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
-    },
-    {
-      "player_id": "7587",
-      "full_name": "Dyami Brown",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "WAS",
-      "status": "Active",
-      "injury_status": "Out",
-      "years_exp": 5
     },
     {
       "player_id": "11474",
@@ -20774,6 +20762,18 @@
       "years_exp": 2
     },
     {
+      "player_id": "4177",
+      "full_name": "Mack Hollins",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 9
+    },
+    {
       "player_id": "11617",
       "full_name": "Malachi Corley",
       "position": "WR",
@@ -21398,6 +21398,18 @@
       "years_exp": 6
     },
     {
+      "player_id": "8223",
+      "full_name": "Velus Jones Jr.",
+      "position": "WR",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "13343",
       "full_name": "Vinny Anthony II",
       "position": "WR",
@@ -21506,7 +21518,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 532,
+  "waiver_wire_count": 533,
   "traded_picks": [
     {
       "round": 1,
