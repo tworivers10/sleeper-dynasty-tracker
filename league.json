@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:32:03.232Z",
+  "generated_at": "2026-11-16T22:11:36.786Z",
   "league_id": "1353194300984262656",
   "current_week": 10,
   "nfl_state": {
@@ -69,8 +69,12 @@
       "daily_waivers_last_ran": 25
     },
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
-    "company_id": null,
     "league_id": "1353194300984262656",
+    "shard": 43,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "company_id": null,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -201,18 +205,14 @@
       "pts_allow_7_13": 3,
       "st_ff": 1
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 43,
-    "sport": "nfl",
-    "last_message_id": "1427825429577752576",
+    "last_message_id": "1428052056094035968",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794782619427,
+    "last_message_time": 1794836651398,
     "last_pinned_message_id": null,
     "draft_id": "1353194300996878336",
     "last_read_id": null,
@@ -856,11 +856,12 @@
         "4199",
         "4227",
         "5967",
-        "650",
+        "7922",
         "8136",
         "9480",
         "9504",
         "96",
+        "LAC",
         "PHI"
       ],
       "reserve": [
@@ -891,8 +892,8 @@
         "9480",
         "12481",
         "8136",
-        "650",
-        "PHI"
+        "7922",
+        "LAC"
       ],
       "taxi": [
         "13274",
@@ -4436,11 +4437,12 @@
         "4199",
         "4227",
         "5967",
-        "650",
+        "7922",
         "8136",
         "9480",
         "9504",
         "96",
+        "LAC",
         "PHI"
       ],
       "reserve": [
@@ -4471,8 +4473,8 @@
         "9480",
         "12481",
         "8136",
-        "650",
-        "PHI"
+        "7922",
+        "LAC"
       ],
       "taxi": [
         "13274",
@@ -4735,16 +4737,16 @@
           "reserve": false
         },
         {
-          "player_id": "650",
-          "full_name": "Nick Folk",
+          "player_id": "7922",
+          "full_name": "Riley Patterson",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": null,
+          "team": "BAL",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 19,
+          "years_exp": 5,
           "starter": true,
           "taxi": false,
           "reserve": false
@@ -4810,6 +4812,21 @@
           "reserve": false
         },
         {
+          "player_id": "LAC",
+          "full_name": "Los Angeles Chargers",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "LAC",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "PHI",
           "full_name": "Philadelphia Eagles",
           "position": "DEF",
@@ -4820,7 +4837,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         }
@@ -4923,25 +4940,25 @@
           "years_exp": 4
         },
         {
-          "player_id": "650",
-          "full_name": "Nick Folk",
+          "player_id": "7922",
+          "full_name": "Riley Patterson",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": null,
+          "team": "BAL",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 19
+          "years_exp": 5
         },
         {
-          "player_id": "PHI",
-          "full_name": "Philadelphia Eagles",
+          "player_id": "LAC",
+          "full_name": "Los Angeles Chargers",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "PHI",
+          "team": "LAC",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -5055,6 +5072,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 21
+        },
+        {
+          "player_id": "PHI",
+          "full_name": "Philadelphia Eagles",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "PHI",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null
         }
       ],
       "taxi_details": [
@@ -6295,7 +6324,7 @@
             "WR"
           ],
           "team": "MIN",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "Out",
           "years_exp": 3,
           "starter": false,
@@ -6563,7 +6592,7 @@
             "WR"
           ],
           "team": "MIN",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "Out",
           "years_exp": 3
         },
@@ -10668,8 +10697,8 @@
         "TE"
       ],
       "team": "LAC",
-      "status": "Inactive",
-      "injury_status": "IR",
+      "status": "Active",
+      "injury_status": "Questionable",
       "years_exp": 9
     },
     "4034": {
@@ -11764,6 +11793,18 @@
       "injury_status": null,
       "years_exp": 5
     },
+    "7922": {
+      "player_id": "7922",
+      "full_name": "Riley Patterson",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 5
+    },
     "8110": {
       "player_id": "8110",
       "full_name": "Jake Ferguson",
@@ -12492,7 +12533,7 @@
         "WR"
       ],
       "team": "MIN",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "Out",
       "years_exp": 3
     },
@@ -14801,6 +14842,18 @@
       "injury_status": null,
       "years_exp": null
     },
+    "LAC": {
+      "player_id": "LAC",
+      "full_name": "Los Angeles Chargers",
+      "position": "DEF",
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "team": "LAC",
+      "status": null,
+      "injury_status": null,
+      "years_exp": null
+    },
     "PHI": {
       "player_id": "PHI",
       "full_name": "Philadelphia Eagles",
@@ -15053,18 +15106,6 @@
       "injury_status": null,
       "years_exp": null
     },
-    "LAC": {
-      "player_id": "LAC",
-      "full_name": "Los Angeles Chargers",
-      "position": "DEF",
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "team": "LAC",
-      "status": null,
-      "injury_status": null,
-      "years_exp": null
-    },
     "TEN": {
       "player_id": "TEN",
       "full_name": "Tennessee Titans",
@@ -15147,18 +15188,6 @@
         "DEF"
       ],
       "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": null
-    },
-    {
-      "player_id": "LAC",
-      "full_name": "LAC D/ST",
-      "position": "DEF",
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "team": "LAC",
       "status": "Active",
       "injury_status": null,
       "years_exp": null
@@ -15488,18 +15517,6 @@
       "years_exp": 4
     },
     {
-      "player_id": "7922",
-      "full_name": "Riley Patterson",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 5
-    },
-    {
       "player_id": "12961",
       "full_name": "Ryan Fitzgerald",
       "position": "K",
@@ -15738,6 +15755,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
+    },
+    {
+      "player_id": "4574",
+      "full_name": "Cooper Rush",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 9
     },
     {
       "player_id": "5870",
@@ -17960,6 +17989,18 @@
       "years_exp": 2
     },
     {
+      "player_id": "4033",
+      "full_name": "David Njoku",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "years_exp": 9
+    },
+    {
       "player_id": "10214",
       "full_name": "Davis Allen",
       "position": "TE",
@@ -18150,6 +18191,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
+    },
+    {
+      "player_id": "6850",
+      "full_name": "Harrison Bryant",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 6
     },
     {
       "player_id": "7535",
@@ -19688,6 +19741,18 @@
       "years_exp": 9
     },
     {
+      "player_id": "6154",
+      "full_name": "David Sills V",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 7
+    },
+    {
       "player_id": "14020",
       "full_name": "Dean Patterson IV",
       "position": "WR",
@@ -20984,6 +21049,18 @@
       "years_exp": 3
     },
     {
+      "player_id": "8235",
+      "full_name": "Samori Toure",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 4
+    },
+    {
       "player_id": "12482",
       "full_name": "Savion Williams",
       "position": "WR",
@@ -21165,7 +21242,7 @@
     },
     {
       "player_id": "13356",
-      "full_name": "Trebor Pena",
+      "full_name": "Trebor Peña",
       "position": "WR",
       "fantasy_positions": [
         "WR"
@@ -21392,7 +21469,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 526,
+  "waiver_wire_count": 529,
   "traded_picks": [
     {
       "round": 1,
@@ -21937,11 +22014,12 @@
         "4199",
         "4227",
         "5967",
-        "650",
+        "7922",
         "8136",
         "9480",
         "9504",
         "96",
+        "LAC",
         "PHI"
       ],
       "roster_id": 5,
@@ -21956,8 +22034,8 @@
         "9480",
         "12481",
         "8136",
-        "650",
-        "PHI"
+        "7922",
+        "LAC"
       ],
       "starters_points": [
         3.02,
@@ -21973,11 +22051,11 @@
       ],
       "players_points": {
         "96": 15.62,
-        "650": 0,
         "4066": 0,
         "4199": 12.5,
         "4227": 5,
         "5967": 23.9,
+        "7922": 0,
         "8136": 6.2,
         "9480": 8.9,
         "9504": 0,
@@ -21994,6 +22072,7 @@
         "13274": 1,
         "13279": 0,
         "13320": 0,
+        "LAC": 0,
         "PHI": 0
       }
     },
@@ -22579,6 +22658,54 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794836651368,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "856400976888840192",
+      "transaction_id": "1428052055968219136",
+      "adds": {
+        "LAC": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": {
+        "650": 5
+      },
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1794836651368,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1794836616259,
+      "settings": null,
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "856400976888840192",
+      "transaction_id": "1428051908710395904",
+      "adds": {
+        "7922": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": null,
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1794836616259,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
