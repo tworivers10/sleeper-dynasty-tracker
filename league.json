@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:55:50.468Z",
+  "generated_at": "2026-11-18T04:27:26.773Z",
   "league_id": "1353194300984262656",
   "current_week": 11,
   "nfl_state": {
@@ -747,9 +747,9 @@
         "6801",
         "5022",
         "11584",
-        "8146",
-        "7042",
-        "LAR"
+        "10229",
+        "11792",
+        "KC"
       ],
       "taxi": [
         "13345",
@@ -3035,9 +3035,9 @@
         "6801",
         "5022",
         "11584",
-        "8146",
-        "7042",
-        "LAR"
+        "10229",
+        "11792",
+        "KC"
       ],
       "taxi": [
         "13345",
@@ -3056,7 +3056,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3116,7 +3116,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3251,7 +3251,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 6,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -3296,7 +3296,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -3386,7 +3386,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -3401,7 +3401,7 @@
           "status": null,
           "injury_status": null,
           "years_exp": null,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         }
@@ -3492,44 +3492,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "8146",
-          "full_name": "Garrett Wilson",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "NYJ",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 4
-        },
-        {
-          "player_id": "7042",
-          "full_name": "Tyler Bass",
-          "position": "K",
-          "fantasy_positions": [
-            "K"
-          ],
-          "team": "BUF",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 6
-        },
-        {
-          "player_id": "LAR",
-          "full_name": "Los Angeles Rams",
-          "position": "DEF",
-          "fantasy_positions": [
-            "DEF"
-          ],
-          "team": "LAR",
-          "status": null,
-          "injury_status": null,
-          "years_exp": null
-        }
-      ],
-      "bench_details": [
-        {
           "player_id": "10229",
           "full_name": "Rashee Rice",
           "position": "WR",
@@ -3541,6 +3503,32 @@
           "injury_status": null,
           "years_exp": 3
         },
+        {
+          "player_id": "11792",
+          "full_name": "Will Reichard",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 2
+        },
+        {
+          "player_id": "KC",
+          "full_name": "Kansas City Chiefs",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "KC",
+          "status": null,
+          "injury_status": null,
+          "years_exp": null
+        }
+      ],
+      "bench_details": [
         {
           "player_id": "11560",
           "full_name": "Caleb Williams",
@@ -3566,18 +3554,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "11792",
-          "full_name": "Will Reichard",
-          "position": "K",
-          "fantasy_positions": [
-            "K"
-          ],
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "12506",
           "full_name": "Harold Fannin Jr.",
           "position": "TE",
@@ -3588,6 +3564,30 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1
+        },
+        {
+          "player_id": "7042",
+          "full_name": "Tyler Bass",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "BUF",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 6
+        },
+        {
+          "player_id": "8146",
+          "full_name": "Garrett Wilson",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "NYJ",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 4
         },
         {
           "player_id": "8148",
@@ -3638,13 +3638,13 @@
           "years_exp": null
         },
         {
-          "player_id": "KC",
-          "full_name": "Kansas City Chiefs",
+          "player_id": "LAR",
+          "full_name": "Los Angeles Rams",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "KC",
+          "team": "LAR",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -19463,6 +19463,18 @@
       "years_exp": 5
     },
     {
+      "player_id": "13011",
+      "full_name": "Brennan Presley",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAR",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "8414",
       "full_name": "Britain Covey",
       "position": "WR",
@@ -21083,6 +21095,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "10221",
+      "full_name": "Ronnie Bell",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
+    },
+    {
       "player_id": "11421",
       "full_name": "Ryan Miller",
       "position": "WR",
@@ -21515,7 +21539,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 540,
   "traded_picks": [
     {
       "round": 1,
@@ -21917,9 +21941,9 @@
         "6801",
         "5022",
         "11584",
-        "8146",
-        "7042",
-        "LAR"
+        "10229",
+        "11792",
+        "KC"
       ],
       "starters_points": [
         0,
@@ -22711,12 +22735,12 @@
       "creator": "734296893009592320",
       "transaction_id": "1428531449497124864",
       "adds": null,
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "12718": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -22734,12 +22758,12 @@
       "creator": "856393588634943488",
       "transaction_id": "1428233442813841408",
       "adds": null,
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "8172": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -22759,12 +22783,12 @@
       "adds": {
         "LAC": 5
       },
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "650": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -22784,10 +22808,10 @@
       "adds": {
         "7922": 5
       },
+      "drops": null,
       "consenter_ids": [
         5
       ],
-      "drops": null,
       "roster_ids": [
         5
       ],
@@ -22807,12 +22831,12 @@
       "adds": {
         "CIN": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "11557": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -22842,14 +22866,14 @@
         "9753": 6,
         "10229": 3
       },
-      "consenter_ids": [
-        3,
-        6
-      ],
       "drops": {
         "9753": 3,
         "10229": 6
       },
+      "consenter_ids": [
+        3,
+        6
+      ],
       "roster_ids": [
         3,
         6
@@ -22868,12 +22892,12 @@
       "creator": "857028021230608384",
       "transaction_id": "1427760885706813440",
       "adds": null,
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "12493": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -22891,12 +22915,12 @@
       "creator": "857010974824214528",
       "transaction_id": "1427739484270628864",
       "adds": null,
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "3678": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -22916,12 +22940,12 @@
       "adds": {
         "4017": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "8161": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -22941,12 +22965,12 @@
       "adds": {
         "IND": 12
       },
-      "consenter_ids": [
-        12
-      ],
       "drops": {
         "TB": 12
       },
+      "consenter_ids": [
+        12
+      ],
       "roster_ids": [
         12
       ],
@@ -22966,12 +22990,12 @@
       "adds": {
         "NO": 11
       },
-      "consenter_ids": [
-        11
-      ],
       "drops": {
         "CHI": 11
       },
+      "consenter_ids": [
+        11
+      ],
       "roster_ids": [
         11
       ],
@@ -22991,12 +23015,12 @@
       "adds": {
         "SF": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "DAL": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -23016,12 +23040,12 @@
       "adds": {
         "13833": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "12711": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -24789,10 +24813,10 @@
       "adds": {
         "9757": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -24817,12 +24841,12 @@
       "adds": {
         "8129": 1
       },
-      "drops": {
-        "12048": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "12048": 1
+      },
       "roster_ids": [
         1
       ],
@@ -24847,12 +24871,12 @@
       "adds": {
         "12542": 6
       },
-      "drops": {
-        "3634": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "3634": 6
+      },
       "roster_ids": [
         6
       ],
@@ -24877,12 +24901,12 @@
       "adds": {
         "9757": 7
       },
-      "drops": {
-        "8154": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "8154": 7
+      },
       "roster_ids": [
         7
       ],
@@ -24907,12 +24931,12 @@
       "adds": {
         "4454": 7
       },
-      "drops": {
-        "11577": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "11577": 7
+      },
       "roster_ids": [
         7
       ],
@@ -24932,12 +24956,12 @@
       "adds": {
         "12048": 1
       },
-      "drops": {
-        "12504": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "12504": 1
+      },
       "roster_ids": [
         1
       ],
@@ -24957,12 +24981,12 @@
       "adds": {
         "12504": 1
       },
-      "drops": {
-        "10235": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "10235": 1
+      },
       "roster_ids": [
         1
       ],
@@ -24982,12 +25006,12 @@
       "adds": {
         "10235": 1
       },
-      "drops": {
-        "8129": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "8129": 1
+      },
       "roster_ids": [
         1
       ],
@@ -25007,12 +25031,12 @@
       "adds": {
         "13150": 1
       },
-      "drops": {
-        "7571": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "7571": 1
+      },
       "roster_ids": [
         1
       ],
@@ -25032,12 +25056,12 @@
       "adds": {
         "9508": 2
       },
-      "drops": {
-        "8161": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "8161": 2
+      },
       "roster_ids": [
         2
       ],
@@ -25057,12 +25081,12 @@
       "adds": {
         "9482": 3
       },
-      "drops": {
-        "12487": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12487": 3
+      },
       "roster_ids": [
         3
       ],
@@ -25087,10 +25111,10 @@
       "adds": {
         "12522": 2
       },
-      "drops": null,
       "consenter_ids": [
         2
       ],
+      "drops": null,
       "roster_ids": [
         2
       ],
@@ -25110,10 +25134,10 @@
       "adds": {
         "650": 5
       },
-      "drops": null,
       "consenter_ids": [
         5
       ],
+      "drops": null,
       "roster_ids": [
         5
       ],
@@ -25133,12 +25157,12 @@
       "adds": {
         "CLE": 1
       },
-      "drops": {
-        "SF": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "SF": 1
+      },
       "roster_ids": [
         1
       ],
@@ -25158,12 +25182,12 @@
       "adds": {
         "8129": 1
       },
-      "drops": {
-        "4018": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "4018": 1
+      },
       "roster_ids": [
         1
       ],
@@ -25188,12 +25212,12 @@
       "adds": {
         "12522": 10
       },
-      "drops": {
-        "4017": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "4017": 10
+      },
       "roster_ids": [
         10
       ],
@@ -25213,12 +25237,12 @@
       "adds": {
         "12536": 2
       },
-      "drops": {
-        "8180": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "8180": 2
+      },
       "roster_ids": [
         2
       ],
@@ -25238,12 +25262,12 @@
       "adds": {
         "3257": 7
       },
-      "drops": {
-        "12522": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "12522": 7
+      },
       "roster_ids": [
         7
       ],
@@ -25263,12 +25287,12 @@
       "adds": {
         "JAX": 2
       },
-      "drops": {
-        "ARI": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "ARI": 2
+      },
       "roster_ids": [
         2
       ],
@@ -25288,12 +25312,12 @@
       "adds": {
         "13968": 8
       },
-      "drops": {
-        "6650": 8
-      },
       "consenter_ids": [
         8
       ],
+      "drops": {
+        "6650": 8
+      },
       "roster_ids": [
         8
       ],
@@ -25313,10 +25337,10 @@
       "adds": {
         "3271": 1
       },
-      "drops": null,
       "consenter_ids": [
         1
       ],
+      "drops": null,
       "roster_ids": [
         1
       ],
@@ -25336,12 +25360,12 @@
       "adds": {
         "4017": 10
       },
-      "drops": {
-        "9757": 10
-      },
       "consenter_ids": [
         10
       ],
+      "drops": {
+        "9757": 10
+      },
       "roster_ids": [
         10
       ],
