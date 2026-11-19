@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:19:15.446Z",
+  "generated_at": "2026-11-19T22:11:40.628Z",
   "league_id": "1353194300984262656",
   "current_week": 11,
   "nfl_state": {
@@ -667,7 +667,7 @@
         "7547",
         "11632",
         "8131",
-        "12518",
+        "7525",
         "11646",
         "7839",
         "CAR"
@@ -1026,14 +1026,14 @@
         "wins": 6
       },
       "starters": [
-        "9758",
+        "11566",
         "6790",
         "8228",
         "4983",
         "5846",
         "11604",
         "2505",
-        "11834",
+        "3155",
         "12185",
         "JAX"
       ],
@@ -2241,7 +2241,7 @@
         "7547",
         "11632",
         "8131",
-        "12518",
+        "7525",
         "11646",
         "7839",
         "CAR"
@@ -2309,7 +2309,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -2534,7 +2534,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 5,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -2718,16 +2718,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "12518",
-          "full_name": "Tyler Warren",
-          "position": "TE",
+          "player_id": "7525",
+          "full_name": "DeVonta Smith",
+          "position": "WR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "team": "IND",
+          "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
+          "injury_status": "Questionable",
+          "years_exp": 5
         },
         {
           "player_id": "11646",
@@ -2777,6 +2777,18 @@
           "team": "HOU",
           "status": "Active",
           "injury_status": "Out",
+          "years_exp": 1
+        },
+        {
+          "player_id": "12518",
+          "full_name": "Tyler Warren",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
           "years_exp": 1
         },
         {
@@ -2850,18 +2862,6 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7
-        },
-        {
-          "player_id": "7525",
-          "full_name": "DeVonta Smith",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 5
         },
         {
           "player_id": "9486",
@@ -5890,14 +5890,14 @@
         "wins": 6
       },
       "starters": [
-        "9758",
+        "11566",
         "6790",
         "8228",
         "4983",
         "5846",
         "11604",
         "2505",
-        "11834",
+        "3155",
         "12185",
         "JAX"
       ],
@@ -5919,7 +5919,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -5979,7 +5979,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6084,7 +6084,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 10,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -6264,7 +6264,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6286,16 +6286,16 @@
       ],
       "starter_details": [
         {
-          "player_id": "9758",
-          "full_name": "C.J. Stroud",
+          "player_id": "11566",
+          "full_name": "Jayden Daniels",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "HOU",
+          "team": "WAS",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 3
+          "years_exp": 2
         },
         {
           "player_id": "6790",
@@ -6370,16 +6370,16 @@
           "years_exp": 11
         },
         {
-          "player_id": "11834",
-          "full_name": "Devaughn Vele",
+          "player_id": "3155",
+          "full_name": "Laquon Treadwell",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NO",
+          "team": "IND",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 2
+          "years_exp": 10
         },
         {
           "player_id": "12185",
@@ -6408,18 +6408,6 @@
       ],
       "bench_details": [
         {
-          "player_id": "11566",
-          "full_name": "Jayden Daniels",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "WAS",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "11576",
           "full_name": "Braelon Allen",
           "position": "RB",
@@ -6444,16 +6432,16 @@
           "years_exp": 2
         },
         {
-          "player_id": "3155",
-          "full_name": "Laquon Treadwell",
+          "player_id": "11834",
+          "full_name": "Devaughn Vele",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "IND",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 10
+          "years_exp": 2
         },
         {
           "player_id": "5850",
@@ -6523,6 +6511,18 @@
             "RB"
           ],
           "team": "DAL",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 3
+        },
+        {
+          "player_id": "9758",
+          "full_name": "C.J. Stroud",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
           "years_exp": 3
@@ -8497,7 +8497,7 @@
             "WR"
           ],
           "team": "LAR",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "IR",
           "years_exp": 3,
           "starter": false,
@@ -8762,7 +8762,7 @@
             "WR"
           ],
           "team": "LAR",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "IR",
           "years_exp": 3
         },
@@ -12365,7 +12365,7 @@
         "WR"
       ],
       "team": "LAR",
-      "status": "Inactive",
+      "status": "Active",
       "injury_status": "IR",
       "years_exp": 3
     },
@@ -17797,6 +17797,18 @@
       "years_exp": 3
     },
     {
+      "player_id": "13580",
+      "full_name": "Carsen Ryan",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 0
+    },
+    {
       "player_id": "13122",
       "full_name": "Carter Runyon",
       "position": "TE",
@@ -17877,7 +17889,7 @@
       ],
       "team": "WAS",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     {
@@ -18609,7 +18621,7 @@
       ],
       "team": "DAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 3
     },
     {
@@ -20089,18 +20101,6 @@
       "years_exp": 1
     },
     {
-      "player_id": "6920",
-      "full_name": "Isaiah Hodgins",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 6
-    },
-    {
       "player_id": "13074",
       "full_name": "Isaiah Neyor",
       "position": "WR",
@@ -20731,7 +20731,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "team": "ATL",
+      "team": "WAS",
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
@@ -21858,7 +21858,7 @@
         "7547",
         "11632",
         "8131",
-        "12518",
+        "7525",
         "11646",
         "7839",
         "CAR"
@@ -22261,14 +22261,14 @@
       "custom_points": null,
       "matchup_id": 6,
       "starters": [
-        "9758",
+        "11566",
         "6790",
         "8228",
         "4983",
         "5846",
         "11604",
         "2505",
-        "11834",
+        "3155",
         "12185",
         "JAX"
       ],
