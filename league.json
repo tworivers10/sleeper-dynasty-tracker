@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:11:40.628Z",
+  "generated_at": "2026-11-20T03:24:12.812Z",
   "league_id": "1353194300984262656",
   "current_week": 11,
   "nfl_state": {
@@ -71,11 +71,11 @@
     "avatar": "9688e52e95bb30d065bc170a6dd09988",
     "company_id": null,
     "league_id": "1353194300984262656",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 43,
-    "last_message_id": "1428929899673956352",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1429312290867417088",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -209,12 +209,12 @@
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
-    "draft_id": "1353194300996878336",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795045945618,
+    "last_message_time": 1795137114782,
     "last_pinned_message_id": null,
+    "draft_id": "1353194300996878336",
     "last_read_id": null,
     "previous_league_id": "1228871901330296832",
     "roster_positions": [
@@ -239,9 +239,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -986,11 +986,12 @@
         "11579",
         "11604",
         "11834",
-        "12185",
+        "12540",
         "13278",
         "13302",
         "13311",
         "13353",
+        "2020",
         "2505",
         "3155",
         "4454",
@@ -1003,7 +1004,6 @@
         "8228",
         "9511",
         "9756",
-        "9757",
         "9758",
         "JAX"
       ],
@@ -1033,8 +1033,8 @@
         "5846",
         "11604",
         "2505",
-        "3155",
-        "12185",
+        "12540",
+        "2020",
         "JAX"
       ],
       "taxi": [
@@ -1323,14 +1323,14 @@
       "starters": [
         "4984",
         "4034",
-        "8408",
-        "5872",
-        "2449",
+        "7543",
+        "9500",
+        "12519",
         "1466",
-        "5844",
+        "2449",
         "9997",
         "11533",
-        "0"
+        "CHI"
       ],
       "taxi": [
         "13301",
@@ -1392,10 +1392,10 @@
         "3294",
         "12507",
         "5995",
-        "12501",
+        "11620",
         "9754",
         "4217",
-        "7553",
+        "13294",
         "13293",
         "11539",
         "IND"
@@ -2397,7 +2397,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -2532,7 +2532,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5,
           "starter": true,
           "taxi": false,
@@ -2726,7 +2726,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "years_exp": 5
         },
         {
@@ -2934,7 +2934,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         }
       ],
@@ -3825,7 +3825,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0,
           "starter": false,
           "taxi": true,
@@ -4326,7 +4326,7 @@
           ],
           "team": "ARI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "years_exp": 0
         }
       ],
@@ -5850,11 +5850,12 @@
         "11579",
         "11604",
         "11834",
-        "12185",
+        "12540",
         "13278",
         "13302",
         "13311",
         "13353",
+        "2020",
         "2505",
         "3155",
         "4454",
@@ -5867,7 +5868,6 @@
         "8228",
         "9511",
         "9756",
-        "9757",
         "9758",
         "JAX"
       ],
@@ -5897,8 +5897,8 @@
         "5846",
         "11604",
         "2505",
-        "3155",
-        "12185",
+        "12540",
+        "2020",
         "JAX"
       ],
       "taxi": [
@@ -5984,16 +5984,16 @@
           "reserve": false
         },
         {
-          "player_id": "12185",
-          "full_name": "Spencer Shrader",
-          "position": "K",
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
+          "position": "WR",
           "fantasy_positions": [
-            "K"
+            "WR"
           ],
-          "team": "IND",
+          "team": "TEN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 2,
+          "years_exp": 1,
           "starter": true,
           "taxi": false,
           "reserve": false
@@ -6059,6 +6059,21 @@
           "reserve": false
         },
         {
+          "player_id": "2020",
+          "full_name": "Cairo Santos",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 12,
+          "starter": true,
+          "taxi": false,
+          "reserve": false
+        },
+        {
           "player_id": "2505",
           "full_name": "Darren Waller",
           "position": "TE",
@@ -6084,7 +6099,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 10,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -6239,21 +6254,6 @@
           "reserve": false
         },
         {
-          "player_id": "9757",
-          "full_name": "Kendre Miller",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "DAL",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 3,
-          "starter": false,
-          "taxi": false,
-          "reserve": false
-        },
-        {
           "player_id": "9758",
           "full_name": "C.J. Stroud",
           "position": "QB",
@@ -6370,28 +6370,28 @@
           "years_exp": 11
         },
         {
-          "player_id": "3155",
-          "full_name": "Laquon Treadwell",
+          "player_id": "12540",
+          "full_name": "Chimere Dike",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "IND",
+          "team": "TEN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 10
+          "years_exp": 1
         },
         {
-          "player_id": "12185",
-          "full_name": "Spencer Shrader",
+          "player_id": "2020",
+          "full_name": "Cairo Santos",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "IND",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 2
+          "years_exp": 12
         },
         {
           "player_id": "JAX",
@@ -6442,6 +6442,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2
+        },
+        {
+          "player_id": "3155",
+          "full_name": "Laquon Treadwell",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 10
         },
         {
           "player_id": "5850",
@@ -6501,18 +6513,6 @@
           "team": "MIN",
           "status": "Active",
           "injury_status": "Out",
-          "years_exp": 3
-        },
-        {
-          "player_id": "9757",
-          "full_name": "Kendre Miller",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "DAL",
-          "status": "Active",
-          "injury_status": null,
           "years_exp": 3
         },
         {
@@ -8902,14 +8902,14 @@
       "starters": [
         "4984",
         "4034",
-        "8408",
-        "5872",
-        "2449",
+        "7543",
+        "9500",
+        "12519",
         "1466",
-        "5844",
+        "2449",
         "9997",
         "11533",
-        "0"
+        "CHI"
       ],
       "taxi": [
         "13301",
@@ -8987,7 +8987,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9122,7 +9122,7 @@
           "status": "Active",
           "injury_status": "Questionable",
           "years_exp": 7,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9137,7 +9137,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 7,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9182,7 +9182,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9212,7 +9212,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9227,7 +9227,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9254,19 +9254,6 @@
             "DEF"
           ],
           "team": "CHI",
-          "status": null,
-          "injury_status": null,
-          "years_exp": null,
-          "starter": false,
-          "taxi": false,
-          "reserve": false
-        },
-        {
-          "player_id": "0",
-          "full_name": null,
-          "position": null,
-          "fantasy_positions": [],
-          "team": null,
           "status": null,
           "injury_status": null,
           "years_exp": null,
@@ -9301,40 +9288,40 @@
           "years_exp": 9
         },
         {
-          "player_id": "8408",
-          "full_name": "Jordan Mason",
+          "player_id": "7543",
+          "full_name": "Travis Etienne Jr.",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "MIN",
+          "team": "NO",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 4
+          "years_exp": 5
         },
         {
-          "player_id": "5872",
-          "full_name": "Deebo Samuel Sr.",
+          "player_id": "9500",
+          "full_name": "Josh Downs",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "SF",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 7
+          "years_exp": 3
         },
         {
-          "player_id": "2449",
-          "full_name": "Stefon Diggs",
+          "player_id": "12519",
+          "full_name": "Luther Burden III",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "WAS",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 11
+          "years_exp": 1
         },
         {
           "player_id": "1466",
@@ -9349,16 +9336,16 @@
           "years_exp": 13
         },
         {
-          "player_id": "5844",
-          "full_name": "T.J. Hockenson",
-          "position": "TE",
+          "player_id": "2449",
+          "full_name": "Stefon Diggs",
+          "position": "WR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "team": "MIN",
+          "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
-          "years_exp": 7
+          "injury_status": null,
+          "years_exp": 11
         },
         {
           "player_id": "9997",
@@ -9385,11 +9372,13 @@
           "years_exp": 3
         },
         {
-          "player_id": "0",
-          "full_name": null,
-          "position": null,
-          "fantasy_positions": [],
-          "team": null,
+          "player_id": "CHI",
+          "full_name": "Chicago Bears",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "CHI",
           "status": null,
           "injury_status": null,
           "years_exp": null
@@ -9433,18 +9422,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "12519",
-          "full_name": "Luther Burden III",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 1
-        },
-        {
           "player_id": "12542",
           "full_name": "Efton Chism III",
           "position": "WR",
@@ -9467,6 +9444,30 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0
+        },
+        {
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "years_exp": 7
+        },
+        {
+          "player_id": "5872",
+          "full_name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "SF",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 7
         },
         {
           "player_id": "6806",
@@ -9493,40 +9494,16 @@
           "years_exp": 6
         },
         {
-          "player_id": "7543",
-          "full_name": "Travis Etienne Jr.",
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "NO",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 5
-        },
-        {
-          "player_id": "9500",
-          "full_name": "Josh Downs",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "KC",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 3
-        },
-        {
-          "player_id": "CHI",
-          "full_name": "Chicago Bears",
-          "position": "DEF",
-          "fantasy_positions": [
-            "DEF"
-          ],
-          "team": "CHI",
-          "status": null,
-          "injury_status": null,
-          "years_exp": null
+          "years_exp": 4
         }
       ],
       "taxi_details": [
@@ -9625,10 +9602,10 @@
         "3294",
         "12507",
         "5995",
-        "12501",
+        "11620",
         "9754",
         "4217",
-        "7553",
+        "13294",
         "13293",
         "11539",
         "IND"
@@ -9695,7 +9672,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9755,7 +9732,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 1,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -9875,7 +9852,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 0,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -9935,7 +9912,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 5,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -10023,16 +10000,16 @@
           "years_exp": 7
         },
         {
-          "player_id": "12501",
-          "full_name": "Matthew Golden",
+          "player_id": "11620",
+          "full_name": "Rome Odunze",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "GB",
+          "team": "CHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 1
+          "years_exp": 2
         },
         {
           "player_id": "9754",
@@ -10059,16 +10036,16 @@
           "years_exp": 9
         },
         {
-          "player_id": "7553",
-          "full_name": "Kyle Pitts Sr.",
-          "position": "TE",
+          "player_id": "13294",
+          "full_name": "Makai Lemon",
+          "position": "WR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "team": "ATL",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 5
+          "years_exp": 0
         },
         {
           "player_id": "13293",
@@ -10133,18 +10110,6 @@
           "years_exp": 2
         },
         {
-          "player_id": "11620",
-          "full_name": "Rome Odunze",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "11627",
           "full_name": "Troy Franklin",
           "position": "WR",
@@ -10181,6 +10146,18 @@
           "years_exp": 1
         },
         {
+          "player_id": "12501",
+          "full_name": "Matthew Golden",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "GB",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 1
+        },
+        {
           "player_id": "12508",
           "full_name": "Jaxson Dart",
           "position": "QB",
@@ -10205,16 +10182,16 @@
           "years_exp": 0
         },
         {
-          "player_id": "13294",
-          "full_name": "Makai Lemon",
-          "position": "WR",
+          "player_id": "7553",
+          "full_name": "Kyle Pitts Sr.",
+          "position": "TE",
           "fantasy_positions": [
-            "WR"
+            "TE"
           ],
-          "team": "PHI",
+          "team": "ATL",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 0
+          "years_exp": 5
         },
         {
           "player_id": "8121",
@@ -10271,16 +10248,6 @@
     }
   ],
   "player_directory": {
-    "0": {
-      "player_id": "0",
-      "full_name": null,
-      "position": null,
-      "fantasy_positions": [],
-      "team": null,
-      "status": null,
-      "injury_status": null,
-      "years_exp": null
-    },
     "96": {
       "player_id": "96",
       "full_name": "Aaron Rodgers",
@@ -11526,7 +11493,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 5
     },
     "7526": {
@@ -13350,7 +13317,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     "12469": {
@@ -14119,7 +14086,7 @@
       ],
       "team": "ARI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13274": {
@@ -14671,7 +14638,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 0
     },
     "13477": {
@@ -15313,18 +15280,6 @@
       "years_exp": 13
     },
     {
-      "player_id": "2020",
-      "full_name": "Cairo Santos",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 12
-    },
-    {
       "player_id": "8259",
       "full_name": "Cameron Dicker",
       "position": "K",
@@ -15491,6 +15446,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 1
+    },
+    {
+      "player_id": "12185",
+      "full_name": "Spencer Shrader",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 2
     },
     {
       "player_id": "13545",
@@ -16257,7 +16224,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     {
@@ -17085,7 +17052,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "years_exp": 1
     },
     {
@@ -17171,6 +17138,18 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 2
+    },
+    {
+      "player_id": "9757",
+      "full_name": "Kendre Miller",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 3
     },
     {
       "player_id": "7720",
@@ -18457,6 +18436,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "7050",
+      "full_name": "Josiah Deguara",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 6
+    },
+    {
       "player_id": "13400",
       "full_name": "Justin Joly",
       "position": "TE",
@@ -19317,7 +19308,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "years_exp": 2
     },
     {
@@ -19607,18 +19598,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 3
-    },
-    {
-      "player_id": "12540",
-      "full_name": "Chimere Dike",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 1
     },
     {
       "player_id": "7521",
@@ -21541,7 +21520,7 @@
       "years_exp": 9
     }
   ],
-  "waiver_wire_count": 538,
+  "waiver_wire_count": 539,
   "traded_picks": [
     {
       "round": 1,
@@ -21819,7 +21798,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 3.8,
       "players": [
         "11632",
         "11646",
@@ -21865,7 +21844,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        3.8,
         0,
         0,
         0,
@@ -21882,7 +21861,7 @@
         "5012": 0,
         "5927": 0,
         "6650": 0,
-        "6813": 0,
+        "6813": 3.8,
         "6904": 0,
         "7525": 0,
         "7547": 0,
@@ -21893,13 +21872,13 @@
         "11632": 0,
         "11646": 0,
         "12474": 0,
-        "12518": 0,
+        "12518": 3.2,
         "12529": 0,
         "12536": 0,
-        "13307": 0,
+        "13307": 4.1,
         "13329": 0,
         "13338": 0,
-        "13424": 0,
+        "13424": 1.8,
         "CAR": 0,
         "GB": 0
       }
@@ -22126,9 +22105,9 @@
         "7922": 0,
         "8136": 0,
         "9480": 0,
-        "9504": 0,
+        "9504": 12,
         "10213": 0,
-        "10218": 0,
+        "10218": 3.3,
         "10222": 0,
         "11564": 0,
         "11618": 0,
@@ -22145,7 +22124,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 5.3,
       "players": [
         "10219",
         "10232",
@@ -22194,8 +22173,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        2.1,
+        3.2,
         0,
         0,
         0
@@ -22204,7 +22183,7 @@
         "3321": 0,
         "4039": 0,
         "4943": 0,
-        "5001": 0,
+        "5001": 2.1,
         "6130": 0,
         "6804": 0,
         "7567": 0,
@@ -22213,7 +22192,7 @@
         "9753": 0,
         "10219": 0,
         "10232": 0,
-        "11199": 0,
+        "11199": 3.2,
         "11635": 0,
         "11783": 0,
         "11786": 0,
@@ -22236,11 +22215,12 @@
         "11579",
         "11604",
         "11834",
-        "12185",
+        "12540",
         "13278",
         "13302",
         "13311",
         "13353",
+        "2020",
         "2505",
         "3155",
         "4454",
@@ -22253,7 +22233,6 @@
         "8228",
         "9511",
         "9756",
-        "9757",
         "9758",
         "JAX"
       ],
@@ -22268,8 +22247,8 @@
         "5846",
         "11604",
         "2505",
-        "3155",
-        "12185",
+        "12540",
+        "2020",
         "JAX"
       ],
       "starters_points": [
@@ -22285,6 +22264,7 @@
         0
       ],
       "players_points": {
+        "2020": 0,
         "2505": 0,
         "3155": 0,
         "4454": 0,
@@ -22297,14 +22277,13 @@
         "8228": 0,
         "9511": 0,
         "9756": 0,
-        "9757": 0,
-        "9758": 0,
+        "9758": 13.14,
         "11566": 0,
         "11576": 0,
         "11579": 0,
         "11604": 0,
         "11834": 0,
-        "12185": 0,
+        "12540": 0,
         "13278": 0,
         "13302": 0,
         "13311": 0,
@@ -22376,7 +22355,7 @@
         "4892": 0,
         "4993": 0,
         "5045": 0,
-        "5892": 0,
+        "5892": 10.1,
         "6083": 0,
         "6819": 0,
         "7049": 0,
@@ -22397,7 +22376,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 33.5,
       "players": [
         "11631",
         "11638",
@@ -22443,20 +22422,20 @@
         0,
         0,
         0,
+        12.8,
         0,
         0,
         0,
+        5.7,
         0,
-        0,
-        0,
-        0
+        15
       ],
       "players_points": {
         "1945": 0,
         "3214": 0,
         "6783": 0,
         "6797": 0,
-        "7569": 0,
+        "7569": 12.8,
         "8110": 0,
         "8112": 0,
         "8144": 0,
@@ -22464,7 +22443,7 @@
         "8183": 0,
         "9479": 0,
         "9488": 0,
-        "9502": 0,
+        "9502": 5.7,
         "11631": 0,
         "11638": 0,
         "12490": 0,
@@ -22474,12 +22453,12 @@
         "13269": 0,
         "13330": 0,
         "13405": 0,
-        "HOU": 0,
+        "HOU": 15,
         "PIT": 0
       }
     },
     {
-      "points": 0,
+      "points": 5,
       "players": [
         "10236",
         "11565",
@@ -22531,11 +22510,11 @@
         0,
         0,
         0,
-        0,
+        5,
         0
       ],
       "players_points": {
-        "3451": 0,
+        "3451": 5,
         "4881": 0,
         "6794": 0,
         "7588": 0,
@@ -22602,7 +22581,7 @@
         "2449",
         "9997",
         "11533",
-        "0"
+        "CHI"
       ],
       "starters_points": [
         0,
@@ -22643,7 +22622,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 6,
       "players": [
         "11539",
         "11559",
@@ -22676,10 +22655,10 @@
         "3294",
         "12507",
         "5995",
-        "12501",
+        "11620",
         "9754",
         "4217",
-        "7553",
+        "13294",
         "13293",
         "11539",
         "IND"
@@ -22694,7 +22673,7 @@
         0,
         0,
         0,
-        0
+        6
       ],
       "players_points": {
         "3294": 0,
@@ -22719,11 +22698,61 @@
         "13289": 0,
         "13293": 0,
         "13294": 0,
-        "IND": 0
+        "IND": 6
       }
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1795137114739,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "856411120485912576",
+      "transaction_id": "1429312290687045632",
+      "adds": {
+        "2020": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "12185": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1795137114739,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1795136869925,
+      "settings": null,
+      "leg": 11,
+      "draft_picks": [],
+      "creator": "856411120485912576",
+      "transaction_id": "1429311263862702080",
+      "adds": {
+        "12540": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": {
+        "9757": 7
+      },
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1795136869925,
+      "waiver_budget": []
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -22737,12 +22766,12 @@
       "adds": {
         "CAR": 2
       },
-      "drops": {
-        "12504": 2
-      },
       "consenter_ids": [
         2
       ],
+      "drops": {
+        "12504": 2
+      },
       "roster_ids": [
         2
       ],
@@ -22762,12 +22791,12 @@
       "adds": {
         "9479": 9
       },
-      "drops": {
-        "12048": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "12048": 9
+      },
       "roster_ids": [
         9
       ],
@@ -22787,12 +22816,12 @@
       "adds": {
         "13968": 1
       },
-      "drops": {
-        "2747": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "2747": 1
+      },
       "roster_ids": [
         1
       ],
@@ -22810,12 +22839,12 @@
       "creator": "856392128836804608",
       "transaction_id": "1428751228451422208",
       "adds": null,
-      "drops": {
-        "BAL": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "BAL": 3
+      },
       "roster_ids": [
         3
       ],
