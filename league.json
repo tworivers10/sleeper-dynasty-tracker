@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:36:09.595Z",
+  "generated_at": "2026-11-26T19:40:10.001Z",
   "league_id": "1353194300984262656",
   "current_week": 12,
   "nfl_state": {
@@ -665,9 +665,9 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "8131",
         "7525",
+        "8131",
+        "11632",
         "11646",
         "7839",
         "GB"
@@ -1248,7 +1248,7 @@
         "wins": 7
       },
       "starters": [
-        "9228",
+        "11565",
         "12495",
         "7588",
         "6794",
@@ -2239,9 +2239,9 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "8131",
         "7525",
+        "8131",
+        "11632",
         "11646",
         "7839",
         "GB"
@@ -2694,16 +2694,16 @@
           "years_exp": 5
         },
         {
-          "player_id": "11632",
-          "full_name": "Malik Nabers",
+          "player_id": "7525",
+          "full_name": "DeVonta Smith",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NYG",
+          "team": "PHI",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 2
+          "years_exp": 5
         },
         {
           "player_id": "8131",
@@ -2718,16 +2718,16 @@
           "years_exp": 4
         },
         {
-          "player_id": "7525",
-          "full_name": "DeVonta Smith",
+          "player_id": "11632",
+          "full_name": "Malik Nabers",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "PHI",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 5
+          "years_exp": 2
         },
         {
           "player_id": "11646",
@@ -4739,7 +4739,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "PIT",
+          "team": null,
           "status": "Active",
           "injury_status": null,
           "years_exp": 21,
@@ -4786,7 +4786,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "PIT",
+          "team": null,
           "status": "Active",
           "injury_status": null,
           "years_exp": 21
@@ -6736,7 +6736,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 1,
           "starter": true,
           "taxi": false,
@@ -7113,7 +7113,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "years_exp": 1
         },
         {
@@ -8142,7 +8142,7 @@
         "wins": 7
       },
       "starters": [
-        "9228",
+        "11565",
         "12495",
         "7588",
         "6794",
@@ -8185,7 +8185,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 2,
-          "starter": false,
+          "starter": true,
           "taxi": false,
           "reserve": false
         },
@@ -8455,7 +8455,7 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 3,
-          "starter": true,
+          "starter": false,
           "taxi": false,
           "reserve": false
         },
@@ -8537,16 +8537,16 @@
       ],
       "starter_details": [
         {
-          "player_id": "9228",
-          "full_name": "Bryce Young",
+          "player_id": "11565",
+          "full_name": "J.J. McCarthy",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "CAR",
+          "team": "NYG",
           "status": "Active",
           "injury_status": null,
-          "years_exp": 3
+          "years_exp": 2
         },
         {
           "player_id": "12495",
@@ -8671,18 +8671,6 @@
           "years_exp": 3
         },
         {
-          "player_id": "11565",
-          "full_name": "J.J. McCarthy",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "years_exp": 2
-        },
-        {
           "player_id": "11637",
           "full_name": "Keon Coleman",
           "position": "WR",
@@ -8753,6 +8741,18 @@
           "status": "Active",
           "injury_status": null,
           "years_exp": 4
+        },
+        {
+          "player_id": "9228",
+          "full_name": "Bryce Young",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "years_exp": 3
         },
         {
           "player_id": "9229",
@@ -10255,7 +10255,7 @@
       "fantasy_positions": [
         "QB"
       ],
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "years_exp": 21
@@ -11385,7 +11385,7 @@
       ],
       "team": "PIT",
       "status": "Inactive",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "years_exp": 6
     },
     "6865": {
@@ -13713,7 +13713,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 1
     },
     "12518": {
@@ -15684,7 +15684,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "years_exp": 14
     },
     {
@@ -16610,18 +16610,6 @@
       "status": "Active",
       "injury_status": null,
       "years_exp": 0
-    },
-    {
-      "player_id": "4718",
-      "full_name": "Dare Ogunbowale",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "years_exp": 9
     },
     {
       "player_id": "13339",
@@ -19368,7 +19356,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "years_exp": 5
     },
     {
@@ -21256,6 +21244,18 @@
       "years_exp": 1
     },
     {
+      "player_id": "12860",
+      "full_name": "Theo Wease Jr.",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "years_exp": 1
+    },
+    {
       "player_id": "8013",
       "full_name": "Tim Jones",
       "position": "WR",
@@ -21774,7 +21774,7 @@
         "11610": 0,
         "11624": 0,
         "12491": 0,
-        "12534": 0,
+        "12534": 6.5,
         "12535": 0,
         "12545": 0,
         "13402": 0,
@@ -21786,7 +21786,7 @@
       }
     },
     {
-      "points": 2,
+      "points": 28.12,
       "players": [
         "11632",
         "11646",
@@ -21823,18 +21823,18 @@
         "6813",
         "9224",
         "7547",
-        "11632",
-        "8131",
         "7525",
+        "8131",
+        "11632",
         "11646",
         "7839",
         "GB"
       ],
       "starters_points": [
+        12.42,
         0,
         0,
-        0,
-        0,
+        13.7,
         0,
         0,
         0,
@@ -21843,7 +21843,7 @@
         2
       ],
       "players_points": {
-        "3163": 0,
+        "3163": 12.42,
         "4017": 0,
         "4147": 0,
         "5012": 0,
@@ -21852,7 +21852,7 @@
         "6813": 0,
         "6904": 0,
         "7525": 0,
-        "7547": 0,
+        "7547": 13.7,
         "7839": 0,
         "8131": 0,
         "9224": 0,
@@ -21872,7 +21872,7 @@
       }
     },
     {
-      "points": 13,
+      "points": 32.8,
       "players": [
         "10229",
         "11560",
@@ -21915,7 +21915,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        19.8,
         0,
         0,
         0,
@@ -21934,12 +21934,12 @@
         "7523": 0,
         "8138": 0,
         "8146": 0,
-        "8148": 0,
+        "8148": 6.1,
         "8150": 16.5,
-        "9221": 0,
+        "9221": 19.8,
         "9482": 0,
         "10229": 0,
-        "11560": 0,
+        "11560": 3.08,
         "11584": 0,
         "11586": 28.5,
         "11792": 0,
@@ -21952,7 +21952,7 @@
       }
     },
     {
-      "points": 2.6,
+      "points": 10.7,
       "players": [
         "10859",
         "11581",
@@ -21998,7 +21998,7 @@
         0,
         0,
         0,
-        0,
+        8.1,
         0,
         0,
         0,
@@ -22016,7 +22016,7 @@
         "8135": 0,
         "8210": 0,
         "9508": 0,
-        "10859": 0,
+        "10859": 8.1,
         "11581": 2.6,
         "12472": 0,
         "12509": 0,
@@ -22112,7 +22112,7 @@
       }
     },
     {
-      "points": 8.62,
+      "points": 21.62,
       "players": [
         "10219",
         "10232",
@@ -22165,7 +22165,7 @@
         0,
         0,
         0,
-        0
+        13
       ],
       "players_points": {
         "3321": 0,
@@ -22192,11 +22192,11 @@
         "13298": 0,
         "13317": 0,
         "13349": 0,
-        "DET": 0
+        "DET": 13
       }
     },
     {
-      "points": 16.5,
+      "points": 31.9,
       "players": [
         "11566",
         "11576",
@@ -22241,25 +22241,25 @@
       ],
       "starters_points": [
         0,
-        0,
+        10.4,
         0,
         0,
         16.5,
         0,
         0,
         0,
-        0,
+        5,
         0
       ],
       "players_points": {
-        "2020": 0,
+        "2020": 5,
         "2505": 0,
         "3155": 0,
         "4454": 0,
         "4983": 0,
         "5846": 0,
         "5850": 0,
-        "6790": 0,
+        "6790": 10.4,
         "7600": 0,
         "8167": 16.5,
         "8228": 0,
@@ -22280,7 +22280,7 @@
       }
     },
     {
-      "points": 0,
+      "points": -0.5,
       "players": [
         "11625",
         "1166",
@@ -22329,7 +22329,7 @@
         0,
         0,
         0,
-        0,
+        -0.5,
         0,
         0,
         0,
@@ -22353,7 +22353,7 @@
         "11625": 0,
         "12484": 0,
         "12496": 0,
-        "12517": 0,
+        "12517": -0.5,
         "12533": 0,
         "12670": 0,
         "13270": 0,
@@ -22478,7 +22478,7 @@
       "custom_points": null,
       "matchup_id": 6,
       "starters": [
-        "9228",
+        "11565",
         "12495",
         "7588",
         "6794",
@@ -22530,7 +22530,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 1.4,
       "players": [
         "11533",
         "11563",
@@ -22575,7 +22575,7 @@
         0,
         0,
         0,
-        0,
+        1.4,
         0,
         0,
         0,
@@ -22600,8 +22600,8 @@
         "11533": 0,
         "11563": 0,
         "11628": 0,
-        "11729": 0,
-        "12519": 0,
+        "11729": 2.8,
+        "12519": 1.4,
         "12542": 0,
         "13277": 0,
         "13301": 0,
@@ -22610,7 +22610,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 6.9,
       "players": [
         "11539",
         "11559",
@@ -22655,12 +22655,12 @@
         0,
         0,
         0,
+        1.9,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        5,
         0
       ],
       "players_points": {
@@ -22670,10 +22670,10 @@
         "7553": 0,
         "8121": 0,
         "9754": 0,
-        "11539": 0,
+        "11539": 5,
         "11559": 0,
         "11571": 0,
-        "11620": 0,
+        "11620": 1.9,
         "11627": 0,
         "12457": 0,
         "12497": 0,
